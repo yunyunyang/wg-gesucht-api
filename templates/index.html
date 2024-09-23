@@ -1,0 +1,32 @@
+<html></html>
+<body>
+  <h1>Hello, {{ name }}!</h1>
+
+    <table>
+      <th>
+        <td>Title</td>
+        <td>Rooms</td>
+        <td>District</td>
+        <td>Street</td>
+        <td>Rent</td>
+        <!-- <td>Publish</td>
+        <td>Size</td>
+        <td>Author</td>
+        <td>Online</td> -->
+      </th>
+      {% for zimmer in zimmers %}
+      <tr>
+        <td>{{ zimmer.title }}</td>
+        <td>{{ zimmer.rooms }}</td>
+        <td>{{ zimmer.district }}</td>
+        <td>{{ zimmer.street }}</td>
+        <td>{{ zimmer.rent }}</td>
+        <!-- <td>{{ zimmer.publish }}</td>
+        <td>{{ zimmer.size }}</td>
+        <td>{{ zimmer.author }}</td>
+        <td>{{ zimmer.online }}</td> -->
+      </tr>
+      {% endfor %}
+    </table>
+</body>
+</html>
