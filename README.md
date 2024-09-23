@@ -11,9 +11,11 @@ A Python-based project that scrapes and interacts with the [WG-Gesucht](https://
 ## Technologies
 
 - **Backend** Python, Flask
-- **Frontend** HTML, CSS, Javascript
+- **Frontend** HTML, CSS, Javascript, Bootstrap
 - **Tools** Git, Github
 
 ## Troubleshooting
 
-- **Access to 127.0.0.1 was denied** [Flush socket pools](chrome://net-internals/#sockets)
+- **Access to 127.0.0.1 was denied**
+  - Open a new tab in Chrome and type in the address: chrome://net-internals/#sockets
+  - Click on “Flush socket pools”

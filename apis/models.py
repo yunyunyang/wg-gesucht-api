@@ -1,6 +1,6 @@
 class Zimmer:
 
-    def __init__(self, title, rooms, district, street, rent, availability, size, author, online):
+    def __init__(self, title, rooms, district, street, rent, availability, size, author, online, link):
         self.title = title
         self.rooms = rooms
         self.district = district
@@ -10,6 +10,7 @@ class Zimmer:
         self.size = size
         self.author = author
         self.online = online
+        self.link = link
 
 
     def display_info(self):

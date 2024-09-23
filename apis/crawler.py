@@ -47,7 +47,10 @@ def extract_data(raw):
 
         # Rooms, District, Street
         rooms, district, street = div.find("div", {"class": "col-xs-11"}).span.text.strip().replace('\n', '').split('|')
-        rooms = rooms.replace('er WG', '')
+        rooms = rooms.replace('er WG', '').strip()
+        # district = district.strip()
+        district = ' '.join(district.split())
+        street = street.strip()
 
         # Rent
         rent = div.b.text
@@ -63,7 +66,11 @@ def extract_data(raw):
         author, online = div.find("div", {"class": "col-sm-12 flex_space_between", "style": "min-height: 18px;"}).text.strip().split('\n')
         online = online.replace('Online: ', '')
 
-        zimmer = Zimmer(title, rooms, district, street, rent, availability, size, author, online)
+        # Link
+        link = div.find("a", href=True)
+        link = 'https://www.wg-gesucht.de/en' + link['href']
+
+        zimmer = Zimmer(title, rooms, district, street, rent, availability, size, author, online, link)
         ads.append(zimmer)
     
     return ads
@@ -79,7 +86,8 @@ def serialize(zimmer):
         'availability': zimmer.availability,
         'size': zimmer.size,
         'author': zimmer.author,
-        'online': zimmer.online
+        'online': zimmer.online,
+        'link': zimmer.link
     }
 
 def deserialize(file_name):
@@ -111,4 +119,8 @@ def export_json():
 
 
 
-# export_json()
+export_json()
+# dusseldorf = 'https://www.wg-gesucht.de/wg-zimmer-in-Duesseldorf.30.0.1.0.html'
+# raw = get_html(dusseldorf)
+# ads = extract_data(raw)
+
