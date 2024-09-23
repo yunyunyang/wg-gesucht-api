@@ -1,6 +1,6 @@
 # WG-Gesucht API
 
-This project parses and retrieves the latest [WG-Gesucht](https://www.wg-gesucht.de/) ads, helping users find shared apartments and accommodation in Germany. It automates the search for new listings, making it easier for people to find suitable living spaces.
+A Python-based project that scrapes and interacts with the [WG-Gesucht](https://www.wg-gesucht.de/) website, which helps users find shared apartments and accommodation in Germany.
 
 ## Features
 
@@ -11,5 +11,9 @@ This project parses and retrieves the latest [WG-Gesucht](https://www.wg-gesucht
 ## Technologies
 
 - **Backend** Python, Flask
-- **Frontend** HTML, CSS
+- **Frontend** HTML, CSS, Javascript
 - **Tools** Git, Github
+
+## Troubleshooting
+
+- **Access to 127.0.0.1 was denied** [Flush socket pools](chrome://net-internals/#sockets)

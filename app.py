@@ -1,14 +1,13 @@
 from flask import Flask, render_template
-from apis.crawler import get_html, extract_data
+from apis.crawler import deserialize
 
 app = Flask(__name__)
 
 @app.route('/')
 def index():
 
-    dusseldorf = 'https://www.wg-gesucht.de/wg-zimmer-in-Duesseldorf.30.0.1.0.html'
-    raw = get_html(dusseldorf)
-    zimmers = extract_data(raw)
+    file_name = './wg-gesucht-api/static/json/dusseldorf.json'
+    zimmers = deserialize(file_name)
 
     return render_template('index.html', name='World', zimmers=zimmers)
 

@@ -1,12 +1,17 @@
+import sys
+import os
 import requests
+import json
+
 from bs4 import BeautifulSoup
 # from datetime import datetime
 # import time
 
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../')))
+
 from apis.models import Zimmer
 
 # date_format = '%d%m%Y'
-
 
 def get_html(url):
     
@@ -36,28 +41,74 @@ def extract_data(raw):
     ads = []
 
     for div in divs:
-
+        
+        # Title
         title = div.h3.text.strip()
-        rooms, district, street = div.find("div", {"class": "col-xs-11"}).span.text.strip().replace('\n', '').replace(' ', '').split('|')
+
+        # Rooms, District, Street
+        rooms, district, street = div.find("div", {"class": "col-xs-11"}).span.text.strip().replace('\n', '').split('|')
+        rooms = rooms.replace('er WG', '')
+
+        # Rent
         rent = div.b.text
-        publish = div.find("div", {"class": "col-xs-5"}).text.strip()
 
+        # Availability
+        availability = div.find("div", {"class": "col-xs-5"}).text.strip()
+
+        # Size
         size = div.find("div", {"class": "col-xs-3 text-right"}).b
-        if size:
-            size = div.find("div", {"class": "col-xs-3 text-right"}).b.text.strip()
+        size = size.text.strip() if size else size
 
+        # Author, Online
         author, online = div.find("div", {"class": "col-sm-12 flex_space_between", "style": "min-height: 18px;"}).text.strip().split('\n')
+        online = online.replace('Online: ', '')
 
-        zimmer = Zimmer(title, rooms, district, street, rent, publish, size, author, online)
+        zimmer = Zimmer(title, rooms, district, street, rent, availability, size, author, online)
         ads.append(zimmer)
     
     return ads
 
 
+def serialize(zimmer):
+    return {
+        'title': zimmer.title,
+        'rooms': zimmer.rooms,
+        'district': zimmer.district,
+        'street': zimmer.street,
+        'rent': zimmer.rent,
+        'availability': zimmer.availability,
+        'size': zimmer.size,
+        'author': zimmer.author,
+        'online': zimmer.online
+    }
 
-dusseldorf = 'https://www.wg-gesucht.de/wg-zimmer-in-Duesseldorf.30.0.1.0.html'
-raw = get_html(dusseldorf)
-html = extract_data(raw)
+def deserialize(file_name):
 
-for ad in html:
-    print(ad.title)
+    with open(file_name, 'r') as json_file:
+        zimmers_data = json.load(json_file)
+
+    # Convert the JSON data into a list of Apartment objects
+    ads = [Zimmer(**data) for data in zimmers_data]
+
+    return ads
+
+
+def export_json():
+
+    dusseldorf = 'https://www.wg-gesucht.de/wg-zimmer-in-Duesseldorf.30.0.1.0.html'
+    
+    raw = get_html(dusseldorf)
+    ads = extract_data(raw)
+
+    ads_dict = [serialize(ad) for ad in ads]
+
+    file_name = './wg-gesucht-api/static/json/dusseldorf.json'
+
+    with open(file_name, 'w') as json_file:
+        json.dump(ads_dict, json_file, indent=4)
+
+    print(f"Data exported to {file_name}")
+
+
+
+# export_json()
