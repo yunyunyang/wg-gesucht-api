@@ -1,5 +1,44 @@
 [
     {
+        "title": "WG-Zimmer in der N\u00e4he der HHU",
+        "rooms": "3",
+        "district": "D\u00fcsseldorf Wersten",
+        "street": "Otto-Hahn-Stra\u00dfe 110",
+        "rent": "350 \u20ac",
+        "availability": "25.09.2024\n                    \n                                            - 16.02.2025",
+        "size": "20 m\u00b2",
+        "author": "Dominik B.",
+        "online": "8 Minuten",
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Wersten.11349588.html",
+        "image": "https://img.wg-gesucht.de/media/up/2024/39/95825f84e741de565531876bc1678ab6c68075ccc1c4c50840969d77fa3460e8_172708270245494672150245479230.small.JPEG"
+    },
+    {
+        "title": "URBANELITE.COM // No deposit! (no Kaution) // Close to Wehrhahn underground station 30 second by foot // All inclusive furnished luxury room in Flingern Nord destrict",
+        "rooms": "3",
+        "district": "D\u00fcsseldorf Flingern Nord",
+        "street": "Fortuna Str",
+        "rent": "999 \u20ac",
+        "availability": "01.10.2024",
+        "size": "30 m\u00b2",
+        "author": "Urban Elite",
+        "online": "12 Minuten",
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Flingern-Nord.11350227.html",
+        "image": "https://img.wg-gesucht.de/media/up/2024/39/4148c77bf383e33ca2981c431f1e78873bd746f5f92dc62f31a08d9974bde59a_Bed_3.1.small.jpg"
+    },
+    {
+        "title": "URBANELITE.COM // No deposit! (no Kaution) // Close to Wehrhahn underground station 30 second by foot // All inclusive furnished luxury room in Flingern Nord destrict",
+        "rooms": "3",
+        "district": "D\u00fcsseldorf Flingern Nord",
+        "street": "Fortuna Str",
+        "rent": "899 \u20ac",
+        "availability": "01.10.2024",
+        "size": "20 m\u00b2",
+        "author": "Urban Elite",
+        "online": "15 Minuten",
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Flingern-Nord.11350332.html",
+        "image": "https://img.wg-gesucht.de/media/up/2024/39/4c6324176a66a2daf97d34b9d342dcf61fef200b61b896021249220feeb304f2_Bed_2.2.small.jpg"
+    },
+    {
         "title": "Fully Furnished Cozy Room in Quiet Neighbourhood (2er WG Shared Room)",
         "rooms": "2",
         "district": "D\u00fcsseldorf Hassels",
@@ -8,8 +47,9 @@
         "availability": "01.11.2024\n                    \n                                            - 30.04.2025",
         "size": "11 m\u00b2",
         "author": "Allen Latt",
-        "online": "19 Minuten",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Hassels.10734027.html"
+        "online": "39 Minuten",
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Hassels.10734027.html",
+        "image": "https://img.wg-gesucht.de/media/up/2024/01/34da82ae70790bd2a37e0f5a8b410b689369631f09b2c0ee1f7b35bd0fd0101a_170448752093694675952093634716.small.JPEG"
     },
     {
         "title": "Zimmer in 3er WG in der Birkenstra\u00dfe",
@@ -20,8 +60,9 @@
         "availability": "23.09.2024",
         "size": "90 m\u00b2",
         "author": "Spotahome",
-        "online": "23 Minuten",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Flingern-Nord.11334326.html"
+        "online": "43 Minuten",
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Flingern-Nord.11334326.html",
+        "image": "https://img.wg-gesucht.de/media/up/2024/38/eeb5f555980ec4dcd041dfa912dd3da908c3f2fe729bf847c14c4ded09f25614_1004934b36b6d0f9ca92231c6e6a1a649f3223beb13c8cb2adff3190.small.jpg"
     },
     {
         "title": "Zimmer in 3er WG in der Birkenstra\u00dfe",
@@ -32,8 +73,9 @@
         "availability": "23.09.2024",
         "size": "90 m\u00b2",
         "author": "Spotahome",
-        "online": "25 Minuten",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Flingern-Nord.11268138.html"
+        "online": "45 Minuten",
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Flingern-Nord.11268138.html",
+        "image": "https://img.wg-gesucht.de/media/up/2024/34/4defe938f1853887b4405fdf2e48b439b7c25040f5d1850ae573ee1f95f7bc91_4a630dd4c4df43cad57ad5b2f62e8ead3411c79fbf3c974a2c09b049.small.jpg"
     },
     {
         "title": "Zimmer in m\u00f6blierter 5-Zimmer-Wohnung in der K\u00f6lner Landstra\u00dfe",
@@ -44,8 +86,9 @@
         "availability": "05.11.2024",
         "size": "90 m\u00b2",
         "author": "Spotahome",
-        "online": "31 Minuten",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Benrath.11316828.html"
+        "online": "51 Minuten",
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Benrath.11316828.html",
+        "image": "https://img.wg-gesucht.de/media/up/2024/36/0169defb6e16a965680f384ac9bdddeed28779208c35ea178cc93414980e64c6_3bf7788cb889ffc237531c161b2081ba51d0e7a4c600de95fec797bc.small.jpg"
     },
     {
         "title": "WG Projekt Flingern 55m\u00b2 2er WG Neubezug nach Renovierung ***ALL INCLUSIVE***",
@@ -56,20 +99,9 @@
         "availability": "23.09.2024",
         "size": "16 m\u00b2",
         "author": "Thomas",
-        "online": "38 Minuten",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Flingern.11322848.html"
-    },
-    {
-        "title": "URBANELITE.COM // No deposit! (no Kaution) // Close to Wehrhahn underground station 30 second by foot // All inclusive furnished luxury room in Flingern Nord destrict",
-        "rooms": "3",
-        "district": "D\u00fcsseldorf Flingern Nord",
-        "street": "Fortuna Str 17",
-        "rent": "999 \u20ac",
-        "availability": "01.10.2024",
-        "size": "30 m\u00b2",
-        "author": "Urban Elite",
-        "online": "51 Minuten",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Flingern-Nord.11350227.html"
+        "online": "59 Minuten",
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Flingern.11322848.html",
+        "image": "https://img.wg-gesucht.de/media/up/2024/37/55c1f18179ef47b2c3ee6178460c660e7a2a4692dddb10eb2def42b598057662_20240912_081218.small.jpg"
     },
     {
         "title": "Zimmer in entspannter 3-er WG mit Hund",
@@ -81,7 +113,8 @@
         "size": "12 m\u00b2",
         "author": "Jule",
         "online": "1 Stunde",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf.11345876.html"
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf.11345876.html",
+        "image": "https://img.wg-gesucht.de/media/up/2024/38/615985866d4ffca21fc8785f11c18c89e4ffebf8680494012495cf87fa10a1f3_172691240433894672400433894145.small.JPEG"
     },
     {
         "title": "!Befristet! ca. 26.11.2024 - 26.12.2024 Entspannte Berufst\u00e4tigen / Selbstst\u00e4ndigen WG sucht Mitbewohner/in",
@@ -92,8 +125,9 @@
         "availability": "27.11.2024\n                    \n                                            - 26.12.2024",
         "size": "23 m\u00b2",
         "author": "Florian",
-        "online": "1 Stunde",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf.9886838.html"
+        "online": "2 Stunden",
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf.9886838.html",
+        "image": "https://img.wg-gesucht.de/media/up/2023/38/085b9f9299e725f0f132a853042608987cbbce367678f6e67b15b65bd009b710_169547333918594673453918524552.small.JPEG"
     },
     {
         "title": "Zimmer zu vermieten in 4-Zimmer-Wohnung in Wersten, D\u00fcsseldorf",
@@ -105,7 +139,8 @@
         "size": null,
         "author": "Spotahome",
         "online": "2 Stunden",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Benrath.11349515.html"
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Benrath.11349515.html",
+        "image": "https://img.wg-gesucht.de/media/up/2024/39/b6ef1e8085b7ec662ec3a539779254b510d93a22a94eb2e7190d7b17758068c6_b3afdd00643a5ee17f7efe0b382aaa33a33d6393e35143846709c847.small.jpg"
     },
     {
         "title": "2-er WG mit Wohn- & Esszimmer & 01.11.-30.04.2025",
@@ -117,7 +152,8 @@
         "size": "14 m\u00b2",
         "author": "Greta Tsch\u00f6ke",
         "online": "2 Stunden",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Oberkassel.10973897.html"
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Oberkassel.10973897.html",
+        "image": "https://img.wg-gesucht.de/media/up/2024/17/c01b385602c730ee3958f298507daabca0af811c3d0b39d7756105fcfba086d3_WhatsApp_Image_2024_04_24_at_19.09.28__2_.small.jpeg"
     },
     {
         "title": "WG Zimmer mit Balkon",
@@ -129,7 +165,8 @@
         "size": "15 m\u00b2",
         "author": "Frau Can",
         "online": "2 Stunden",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Grafenberg.7469113.html"
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Grafenberg.7469113.html",
+        "image": "https://img.wg-gesucht.de/media/up/2024/37/a27aae508d50443641ef5a6e210b20658bc8447f9ba5fa8f983258f3502a6bd8_IMG_8431.small.JPG"
     },
     {
         "title": "Zwischenmiete f\u00fcr tolles m\u00f6bliertes Zimmer mit separatem Eingang in Altbauwohnung",
@@ -141,7 +178,8 @@
         "size": "20 m\u00b2",
         "author": "Ida Eger",
         "online": "2 Stunden",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Pempelfort.9606562.html"
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Pempelfort.9606562.html",
+        "image": "https://img.wg-gesucht.de/media/up/2022/36/1b40027a794b8337667ec9cdf0c56f4d3562fe61d01177acd7a095778c98ccbb_d9d67b7b_2dff_40e7_a465_997418d1ea1b.small.JPG"
     },
     {
         "title": "M\u00f6bliertes WG-Zimmer in D\u00fcsseltal",
@@ -153,7 +191,8 @@
         "size": "13 m\u00b2",
         "author": "L. Meng",
         "online": "3 Stunden",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Duesseltal.11349817.html"
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Duesseltal.11349817.html",
+        "image": "https://img.wg-gesucht.de/media/up/2024/39/173fdf831970986fc7c0aff048880d0f10321008a730460338a9413426b62e88_19989172709654032943770.small.JPEG"
     },
     {
         "title": "M\u00f6bliertes Zimmer in guter Lage (N\u00e4he Medienhafen)",
@@ -165,7 +204,8 @@
         "size": "14 m\u00b2",
         "author": "Mr Lien",
         "online": "3 Stunden",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Unterbilk.8062140.html"
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Unterbilk.8062140.html",
+        "image": "https://img.wg-gesucht.de/media/up/2020/31/3ae1d200f7c554c1028f3a799956b2bebf224b7b0c55e55e69e26578cb0a4246_IMG_20200803_114045.small.jpg"
     },
     {
         "title": "Zimmer frei f\u00fcr 2er WG in Oberbilk zur Untermiete",
@@ -176,8 +216,9 @@
         "availability": "01.01.2025",
         "size": "16 m\u00b2",
         "author": "Timm",
-        "online": "3 Stunden",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Oberbilk.11313618.html"
+        "online": "4 Stunden",
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Oberbilk.11313618.html",
+        "image": "https://img.wg-gesucht.de/media/up/2024/36/4dbad4a8fe3a5a78530b050d21b56faa991c6d0d35f446c69041175140db7988_Zimmer1.small.jpg"
     },
     {
         "title": "Zimme in 3er WG Grenze Flingern",
@@ -189,7 +230,8 @@
         "size": "15 m\u00b2",
         "author": "Hem W.",
         "online": "4 Stunden",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Flingern-Nord.11335081.html"
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Flingern-Nord.11335081.html",
+        "image": "https://img.wg-gesucht.de/media/up/2024/38/c04271f32ef2921582d06f6299e56cbb776cd38c3792a04a4f7548a21ab6207f_IMG_2086.small.jpeg"
     },
     {
         "title": "Zimmer in einer luxuri\u00f6sen 5er Berufst\u00e4tigen-WG",
@@ -201,19 +243,8 @@
         "size": "14 m\u00b2",
         "author": "Jonas S",
         "online": "5 Stunden",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Derendorf.11319366.html"
-    },
-    {
-        "title": "WG-Zimmer in der N\u00e4he der HHU",
-        "rooms": "3",
-        "district": "D\u00fcsseldorf Wersten",
-        "street": "Otto-Hahn-Stra\u00dfe 110",
-        "rent": "300 \u20ac",
-        "availability": "25.09.2024\n                    \n                                            - 16.02.2025",
-        "size": "20 m\u00b2",
-        "author": "Dominik B.",
-        "online": "5 Stunden",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Wersten.11349588.html"
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Derendorf.11319366.html",
+        "image": "https://img.wg-gesucht.de/media/up/2024/37/882e92fd68dbc4a3f1c16a4b63c8abb9b015665b469eaf3103e30de282b764d0_172591027746694675867746699090.small.JPEG"
     },
     {
         "title": "Freies WG-Zimmer in Unin\u00e4he an Studenten zu vermieten, Einzugsdatum flexibel",
@@ -225,31 +256,47 @@
         "size": "14 m\u00b2",
         "author": "WG Chlodwigstra\u00dfe",
         "online": "5 Stunden",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Bilk.3181143.html"
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Bilk.3181143.html",
+        "image": "https://img.wg-gesucht.de/media/up/2021/15/36c8e1ea9020f43c0450fa613f2f1f2643e6024c7b7d746bac6389f004e47a62_161865980611911959228.small.JPEG"
     },
     {
-        "title": "Gem\u00fctliches WG-Zimmer direkt neben der Altstadt",
+        "title": "Zimmer in 3er WG in der Birkenstra\u00dfe",
         "rooms": "2",
-        "district": "D\u00fcsseldorf D\u00fcsseldorf",
-        "street": "Pempelforter Str. 34",
-        "rent": "650 \u20ac",
-        "availability": "01.11.2024\n                    \n                                            - 01.04.2025",
-        "size": "17 m\u00b2",
-        "author": "F. Azalde Huertas",
-        "online": "5 Stunden",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Duesseldorf.11348566.html"
+        "district": "D\u00fcsseldorf Flingern Nord",
+        "street": "Birkenstra\u00dfe 12",
+        "rent": "900 \u20ac",
+        "availability": "23.09.2024",
+        "size": "90 m\u00b2",
+        "author": "Spotahome",
+        "online": "1 Stunde",
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Flingern-Nord.11268105.html",
+        "image": "https://img.wg-gesucht.de/media/up/2024/34/dc1b40d560f84924a5259dd22cae91aa4c5b2fb3641b3e05abd6e9ba66eb0564_4a630dd4c4df43cad57ad5b2f62e8ead3411c79fbf3c974a2c09b049.small.jpg"
     },
     {
-        "title": "Zimmer zu vermieten in Wohnung mit 3 Schlafzimmern in D\u00fcsseldorf",
+        "title": "Zimmer in 3er WG in der Birkenstra\u00dfe",
+        "rooms": "2",
+        "district": "D\u00fcsseldorf Flingern Nord",
+        "street": "Birkenstra\u00dfe 12",
+        "rent": "900 \u20ac",
+        "availability": "23.09.2024",
+        "size": "90 m\u00b2",
+        "author": "Spotahome",
+        "online": "1 Stunde",
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Flingern-Nord.11268106.html",
+        "image": "https://img.wg-gesucht.de/media/up/2024/34/965ac05834a88bf0c80f494bd97ab3da0b4a6d55e2c3e7f7a03f6f169be9f464_8e3125a6f035c0737c40f147bceafda8bd8b05a33e662e5742785d66.small.jpg"
+    },
+    {
+        "title": "Zimmer in m\u00f6blierter 5-Zimmer-Wohnung in der K\u00f6lner Landstra\u00dfe",
         "rooms": "2",
         "district": "D\u00fcsseldorf Benrath",
-        "street": "K\u00f6lner Landstra\u00dfe 346",
+        "street": "K\u00f6lner Landstra\u00dfe 352",
         "rent": "609 \u20ac",
         "availability": "05.11.2024",
-        "size": "62 m\u00b2",
+        "size": "90 m\u00b2",
         "author": "Spotahome",
-        "online": "10.09.2024",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Benrath.11312689.html"
+        "online": "1 Stunde",
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Benrath.11312681.html",
+        "image": "https://img.wg-gesucht.de/media/up/2024/36/0e04ab5763c7ae9a5ab42fdd1906e38caba2efa2845d7f3616ed39dfa7254769_3bf7788cb889ffc237531c161b2081ba51d0e7a4c600de95fec797bc.small.jpg"
     },
     {
         "title": "(Verf\u00fcgbar 1-24 Monate) - Private Room in Stadtmitte, Dusseldorf",
@@ -261,7 +308,8 @@
         "size": "19 m\u00b2",
         "author": "Homelike Internet GmbH",
         "online": "16 Stunden",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Friedrichstadt.11349002.html"
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Friedrichstadt.11349002.html",
+        "image": "https://img.wg-gesucht.de/media/up/2024/39/ea09e6bbdcf6be3e210d35837b7f2b3bd1fc426ef7a590ab4a54c887439f4a10_homelike_05_2Fuploads_2F70a229a2_abda_350c_b5d6_d62650346110.small.jpeg"
     },
     {
         "title": "(Verf\u00fcgbar 1-24 Monate) - Private Room in Stadtmitte, Dusseldorf",
@@ -273,19 +321,8 @@
         "size": "15 m\u00b2",
         "author": "Homelike Internet GmbH",
         "online": "19 Stunden",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Friedrichstadt.11348691.html"
-    },
-    {
-        "title": "Zimmer in 3er WG in der Birkenstra\u00dfe",
-        "rooms": "2",
-        "district": "D\u00fcsseldorf Flingern Nord",
-        "street": "Birkenstra\u00dfe 12",
-        "rent": "900 \u20ac",
-        "availability": "23.09.2024",
-        "size": "90 m\u00b2",
-        "author": "Spotahome",
-        "online": "1 Stunde",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Flingern-Nord.11268107.html"
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Friedrichstadt.11348691.html",
+        "image": "https://img.wg-gesucht.de/media/up/2024/38/92130245c064100709690c50dccc2b6bc16b9079602ae971f66dcbb5b73d630a_homelike_05_2Fuploads_2Fa15b446a_d8b6_36ea_8392_86f1179cae00.small.jpeg"
     },
     {
         "title": "Zimmer in einer 3-Zimmer-Wohnung in D\u00fcsseldorf",
@@ -297,18 +334,7 @@
         "size": "61 m\u00b2",
         "author": "Spotahome",
         "online": "17.05.2024",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Benrath.11010947.html"
-    },
-    {
-        "title": "Zimmer in 3er WG in der Birkenstra\u00dfe",
-        "rooms": "2",
-        "district": "D\u00fcsseldorf Flingern Nord",
-        "street": "Birkenstra\u00dfe 12",
-        "rent": "900 \u20ac",
-        "availability": "23.09.2024",
-        "size": "90 m\u00b2",
-        "author": "Spotahome",
-        "online": "1 Stunde",
-        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Flingern-Nord.11268105.html"
+        "link": "https://www.wg-gesucht.de/en/wg-zimmer-in-Duesseldorf-Benrath.11010947.html",
+        "image": "https://img.wg-gesucht.de/media/up/2024/20/c71628d9ba6df8ed08af9f0703f5cdb2ecd6eaa73c61ec17be7bf59df1c6552a_63620188f5a75ee8032d6f24a4e746150830b2f85c9c140c31a68da5.small.jpg"
     }
 ]
