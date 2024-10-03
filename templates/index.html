@@ -7,14 +7,12 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
   <link rel="stylesheet" href="../static/css/styles.css">
 </head>
-<body>
-  
-  
-  <div class="card" style="width: 18rem;">
-    <img class="card-img-top" src="..." alt="Card image cap">
-    <div class="card-body">
-      <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    </div>
+<body>  
+
+  <div class="btn-group" role="group" aria-label="Basic example">
+    {% for city in cities %}
+    <span style="margin-right: 10px;"><a href="{{ city.city_name }}" class="link-primary">{{ city.city_name }}</a></span>
+    {% endfor %}
   </div>
 
   <table class="table">

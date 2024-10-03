@@ -1,0 +1,23 @@
+[
+  {
+    "city_id": "8",
+    "city_name": "Berlin",
+    "country_code": "de",
+    "federated_state_id": "5",
+    "city_and_state": "Berlin (Berlin)"
+  },
+  {
+    "city_id": "30",
+    "city_name": "D\u00fcsseldorf",
+    "country_code": "de",
+    "federated_state_id": "2",
+    "city_and_state": "D\u00fcsseldorf (Nordrhein-Westfalen)"
+  },
+  {
+    "city_id": "73",
+    "city_name": "K\u00f6ln",
+    "country_code": "de",
+    "federated_state_id": "2",
+    "city_and_state": "K\u00f6ln (Nordrhein-Westfalen)"
+  }
+]

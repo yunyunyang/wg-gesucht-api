@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../')))
 
-from apis.models import Zimmer
+from apis.models import Zimmer, City
 
 # date_format = '%d%m%Y'
 
@@ -79,7 +79,8 @@ def extract_data(raw):
     
     return ads
 
-def serialize(zimmer):
+
+def raw_to_ad(zimmer):
     return {
         'title': zimmer.title,
         'rooms': zimmer.rooms,
@@ -95,15 +96,14 @@ def serialize(zimmer):
     }
 
 
-def deserialize(file_name):
-
+def load_json_as_objects(file_name, type):
     with open(file_name, 'r') as json_file:
-        zimmers_data = json.load(json_file)
+        data_list = json.load(json_file)
 
-    # Convert the JSON data into a list of Apartment objects
-    ads = [Zimmer(**data) for data in zimmers_data]
+    # Convert the JSON data into a list of objects of the given class
+    objects = [type(**data) for data in data_list]
 
-    return ads
+    return objects
 
 
 def export_json():
@@ -113,7 +113,7 @@ def export_json():
     raw = get_html(dusseldorf)
     ads = extract_data(raw)
 
-    ads_dict = [serialize(ad) for ad in ads]
+    ads_dict = [raw_to_ad(ad) for ad in ads]
 
     file_name = './wg-gesucht-api/static/json/dusseldorf.json'
 

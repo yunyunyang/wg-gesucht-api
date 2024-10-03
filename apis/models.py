@@ -16,3 +16,12 @@ class Zimmer:
 
     def display_info(self):
         print(f"Title: {self.title}, Rooms: {self.rooms}")
+
+class City:
+
+    def __init__(self, city_id, city_name, country_code, federated_state_id, city_and_state):
+        self.city_id = city_id
+        self.city_name = city_name
+        self.country_code = country_code
+        self.federated_state_id = federated_state_id
+        self.city_and_state = city_and_state
