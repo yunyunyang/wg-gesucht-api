@@ -1,0 +1,3292 @@
+[
+  {
+    "city_id": "161",
+    "city_name": "Innsbruck",
+    "country_code": "at",
+    "federated_state_id": "26",
+    "city_and_state": "Innsbruck (Tirol)"
+  },
+  {
+    "city_id": "12592",
+    "city_name": "Illmitz",
+    "country_code": "at",
+    "federated_state_id": "20",
+    "city_and_state": "Illmitz (Burgenland)"
+  },
+  {
+    "city_id": "14023",
+    "city_name": "Ilz",
+    "country_code": "at",
+    "federated_state_id": "25",
+    "city_and_state": "Ilz (Steiermark)"
+  },
+  {
+    "city_id": "14203",
+    "city_name": "Ilztal",
+    "country_code": "at",
+    "federated_state_id": "25",
+    "city_and_state": "Ilztal (Steiermark)"
+  },
+  {
+    "city_id": "14225",
+    "city_name": "Imst",
+    "country_code": "at",
+    "federated_state_id": "26",
+    "city_and_state": "Imst (Tirol)"
+  },
+  {
+    "city_id": "14226",
+    "city_name": "Imsterberg",
+    "country_code": "at",
+    "federated_state_id": "26",
+    "city_and_state": "Imsterberg (Tirol)"
+  },
+  {
+    "city_id": "14512",
+    "city_name": "Innerbraz",
+    "country_code": "at",
+    "federated_state_id": "27",
+    "city_and_state": "Innerbraz (Vorarlberg)"
+  },
+  {
+    "city_id": "13752",
+    "city_name": "Innerschwand am Mondsee",
+    "country_code": "at",
+    "federated_state_id": "23",
+    "city_and_state": "Innerschwand am Mondsee (Ober\u00f6sterreich)"
+  },
+  {
+    "city_id": "14403",
+    "city_name": "Innervillgraten",
+    "country_code": "at",
+    "federated_state_id": "26",
+    "city_and_state": "Innervillgraten (Tirol)"
+  },
+  {
+    "city_id": "12535",
+    "city_name": "Inzenhof",
+    "country_code": "at",
+    "federated_state_id": "20",
+    "city_and_state": "Inzenhof (Burgenland)"
+  },
+  {
+    "city_id": "13518",
+    "city_name": "Inzersdorf im Kremstal",
+    "country_code": "at",
+    "federated_state_id": "23",
+    "city_and_state": "Inzersdorf im Kremstal (Ober\u00f6sterreich)"
+  },
+  {
+    "city_id": "13211",
+    "city_name": "Inzersdorf-Getzersdorf",
+    "country_code": "at",
+    "federated_state_id": "22",
+    "city_and_state": "Inzersdorf-Getzersdorf (Nieder\u00f6sterreich)"
+  },
+  {
+    "city_id": "14266",
+    "city_name": "Inzing",
+    "country_code": "at",
+    "federated_state_id": "26",
+    "city_and_state": "Inzing (Tirol)"
+  },
+  {
+    "city_id": "14100",
+    "city_name": "Irdning-Donnersbachtal",
+    "country_code": "at",
+    "federated_state_id": "25",
+    "city_and_state": "Irdning-Donnersbachtal (Steiermark)"
+  },
+  {
+    "city_id": "12983",
+    "city_name": "Irnfritz-Messern",
+    "country_code": "at",
+    "federated_state_id": "22",
+    "city_and_state": "Irnfritz-Messern (Nieder\u00f6sterreich)"
+  },
+  {
+    "city_id": "12736",
+    "city_name": "Irschen",
+    "country_code": "at",
+    "federated_state_id": "21",
+    "city_and_state": "Irschen (K\u00e4rnten)"
+  },
+  {
+    "city_id": "14370",
+    "city_name": "Ischgl",
+    "country_code": "at",
+    "federated_state_id": "26",
+    "city_and_state": "Ischgl (Tirol)"
+  },
+  {
+    "city_id": "14404",
+    "city_name": "Iselsberg-Stronach",
+    "country_code": "at",
+    "federated_state_id": "26",
+    "city_and_state": "Iselsberg-Stronach (Tirol)"
+  },
+  {
+    "city_id": "14319",
+    "city_name": "Itter",
+    "country_code": "at",
+    "federated_state_id": "26",
+    "city_and_state": "Itter (Tirol)"
+  },
+  {
+    "city_id": "6703",
+    "city_name": "Ibach",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Ibach (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "2980",
+    "city_name": "Ibbenb\u00fcren",
+    "country_code": "de",
+    "federated_state_id": "2",
+    "city_and_state": "Ibbenb\u00fcren (Nordrhein-Westfalen)"
+  },
+  {
+    "city_id": "8805",
+    "city_name": "Ichenhausen",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Ichenhausen (Bayern)"
+  },
+  {
+    "city_id": "11115",
+    "city_name": "Ichstedt",
+    "country_code": "de",
+    "federated_state_id": "12",
+    "city_and_state": "Ichstedt (Th\u00fcringen)"
+  },
+  {
+    "city_id": "7029",
+    "city_name": "Icking",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Icking (Bayern)"
+  },
+  {
+    "city_id": "3942",
+    "city_name": "Idar-Oberstein",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Idar-Oberstein (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "3716",
+    "city_name": "Idelberg",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Idelberg (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "10870",
+    "city_name": "Iden",
+    "country_code": "de",
+    "federated_state_id": "11",
+    "city_and_state": "Iden (Sachsen-Anhalt)"
+  },
+  {
+    "city_id": "4861",
+    "city_name": "Idenheim",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Idenheim (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "4862",
+    "city_name": "Idesheim",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Idesheim (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "1430",
+    "city_name": "Idstedt",
+    "country_code": "de",
+    "federated_state_id": "13",
+    "city_and_state": "Idstedt (Schleswig-Holstein)"
+  },
+  {
+    "city_id": "465",
+    "city_name": "Idstein",
+    "country_code": "de",
+    "federated_state_id": "10",
+    "city_and_state": "Idstein (Hessen)"
+  },
+  {
+    "city_id": "7455",
+    "city_name": "Iffeldorf",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Iffeldorf (Bayern)"
+  },
+  {
+    "city_id": "6267",
+    "city_name": "Iffezheim",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Iffezheim (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "11024",
+    "city_name": "Ifta",
+    "country_code": "de",
+    "federated_state_id": "12",
+    "city_and_state": "Ifta (Th\u00fcringen)"
+  },
+  {
+    "city_id": "5174",
+    "city_name": "Igel",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Igel (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "8062",
+    "city_name": "Igensdorf",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Igensdorf (Bayern)"
+  },
+  {
+    "city_id": "6158",
+    "city_name": "Igersheim",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Igersheim (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "7490",
+    "city_name": "Iggensbach",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Iggensbach (Bayern)"
+  },
+  {
+    "city_id": "6195",
+    "city_name": "Iggingen",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Iggingen (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "7215",
+    "city_name": "Igling",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Igling (Bayern)"
+  },
+  {
+    "city_id": "2217",
+    "city_name": "Ihlienworth",
+    "country_code": "de",
+    "federated_state_id": "7",
+    "city_and_state": "Ihlienworth (Niedersachsen)"
+  },
+  {
+    "city_id": "9453",
+    "city_name": "Ihlow",
+    "country_code": "de",
+    "federated_state_id": "6",
+    "city_and_state": "Ihlow (Brandenburg)"
+  },
+  {
+    "city_id": "2540",
+    "city_name": "Ihlow",
+    "country_code": "de",
+    "federated_state_id": "7",
+    "city_and_state": "Ihlow (Niedersachsen)"
+  },
+  {
+    "city_id": "6458",
+    "city_name": "Ihringen",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Ihringen (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "7539",
+    "city_name": "Ihrlerstein",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Ihrlerstein (Bayern)"
+  },
+  {
+    "city_id": "10852",
+    "city_name": "Ilberstedt",
+    "country_code": "de",
+    "federated_state_id": "11",
+    "city_and_state": "Ilberstedt (Sachsen-Anhalt)"
+  },
+  {
+    "city_id": "5401",
+    "city_name": "Ilbesheim",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Ilbesheim (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "5667",
+    "city_name": "Ilbesheim bei Landau in der Pfalz",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Ilbesheim bei Landau in der Pfalz (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "4033",
+    "city_name": "Illerich",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Illerich (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "6840",
+    "city_name": "Illerkirchberg",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Illerkirchberg (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "6813",
+    "city_name": "Illerrieden",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Illerrieden (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "8828",
+    "city_name": "Illertissen",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Illertissen (Bayern)"
+  },
+  {
+    "city_id": "8317",
+    "city_name": "Illesheim",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Illesheim (Bayern)"
+  },
+  {
+    "city_id": "6393",
+    "city_name": "Illingen",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Illingen (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "9047",
+    "city_name": "Illingen",
+    "country_code": "de",
+    "federated_state_id": "17",
+    "city_and_state": "Illingen (Saarland)"
+  },
+  {
+    "city_id": "6958",
+    "city_name": "Illmensee",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Illmensee (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "7750",
+    "city_name": "Illschwang",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Illschwang (Bayern)"
+  },
+  {
+    "city_id": "64",
+    "city_name": "Ilmenau",
+    "country_code": "de",
+    "federated_state_id": "12",
+    "city_and_state": "Ilmenau (Th\u00fcringen)"
+  },
+  {
+    "city_id": "7335",
+    "city_name": "Ilmm\u00fcnster",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Ilmm\u00fcnster (Bayern)"
+  },
+  {
+    "city_id": "11378",
+    "city_name": "Ilmtal",
+    "country_code": "de",
+    "federated_state_id": "12",
+    "city_and_state": "Ilmtal (Th\u00fcringen)"
+  },
+  {
+    "city_id": "11440",
+    "city_name": "Ilmtal-Weinstra\u00dfe",
+    "country_code": "de",
+    "federated_state_id": "12",
+    "city_and_state": "Ilmtal-Weinstra\u00dfe (Th\u00fcringen)"
+  },
+  {
+    "city_id": "1932",
+    "city_name": "Ilsede",
+    "country_code": "de",
+    "federated_state_id": "7",
+    "city_and_state": "Ilsede (Niedersachsen)"
+  },
+  {
+    "city_id": "10779",
+    "city_name": "Ilsenburg (Harz)",
+    "country_code": "de",
+    "federated_state_id": "11",
+    "city_and_state": "Ilsenburg (Harz) (Sachsen-Anhalt)"
+  },
+  {
+    "city_id": "6074",
+    "city_name": "Ilsfeld",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Ilsfeld (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "6129",
+    "city_name": "Ilshofen",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Ilshofen (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "6323",
+    "city_name": "Ilvesheim",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Ilvesheim (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "6614",
+    "city_name": "Immendingen",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Immendingen (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "3509",
+    "city_name": "Immenhausen",
+    "country_code": "de",
+    "federated_state_id": "10",
+    "city_and_state": "Immenhausen (Hessen)"
+  },
+  {
+    "city_id": "7940",
+    "city_name": "Immenreuth",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Immenreuth (Bayern)"
+  },
+  {
+    "city_id": "6897",
+    "city_name": "Immenstaad am Bodensee",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Immenstaad am Bodensee (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "9013",
+    "city_name": "Immenstadt i. Allg\u00e4u",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Immenstadt i. Allg\u00e4u (Bayern)"
+  },
+  {
+    "city_id": "747",
+    "city_name": "Immenstedt",
+    "country_code": "de",
+    "federated_state_id": "13",
+    "city_and_state": "Immenstedt (Schleswig-Holstein)"
+  },
+  {
+    "city_id": "989",
+    "city_name": "Immenstedt",
+    "country_code": "de",
+    "federated_state_id": "13",
+    "city_and_state": "Immenstedt (Schleswig-Holstein)"
+  },
+  {
+    "city_id": "5063",
+    "city_name": "Immerath",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Immerath (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "4742",
+    "city_name": "Immert",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Immert (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "5402",
+    "city_name": "Immesheim",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Immesheim (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "5668",
+    "city_name": "Impflingen",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Impflingen (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "5403",
+    "city_name": "Imsbach",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Imsbach (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "5404",
+    "city_name": "Imsweiler",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Imsweiler (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "8701",
+    "city_name": "Inchenhofen",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Inchenhofen (Bayern)"
+  },
+  {
+    "city_id": "2851",
+    "city_name": "Inden",
+    "country_code": "de",
+    "federated_state_id": "2",
+    "city_and_state": "Inden (Nordrhein-Westfalen)"
+  },
+  {
+    "city_id": "3717",
+    "city_name": "Ingelbach",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Ingelbach (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "1887",
+    "city_name": "Ingeleben",
+    "country_code": "de",
+    "federated_state_id": "7",
+    "city_and_state": "Ingeleben (Niedersachsen)"
+  },
+  {
+    "city_id": "6108",
+    "city_name": "Ingelfingen",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Ingelfingen (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "5758",
+    "city_name": "Ingelheim am Rhein",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Ingelheim am Rhein (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "4863",
+    "city_name": "Ingendorf",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Ingendorf (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "7456",
+    "city_name": "Ingenried",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Ingenried (Bayern)"
+  },
+  {
+    "city_id": "6022",
+    "city_name": "Ingersheim",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Ingersheim (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "10720",
+    "city_name": "Ingersleben",
+    "country_code": "de",
+    "federated_state_id": "11",
+    "city_and_state": "Ingersleben (Sachsen-Anhalt)"
+  },
+  {
+    "city_id": "6864",
+    "city_name": "Ingoldingen",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Ingoldingen (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "65",
+    "city_name": "Ingolstadt",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Ingolstadt (Bayern)"
+  },
+  {
+    "city_id": "7514",
+    "city_name": "Innernzell",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Innernzell (Bayern)"
+  },
+  {
+    "city_id": "7400",
+    "city_name": "Inning a. Ammersee",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Inning a. Ammersee (Bayern)"
+  },
+  {
+    "city_id": "7118",
+    "city_name": "Inning a. Holz",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Inning a. Holz (Bayern)"
+  },
+  {
+    "city_id": "9809",
+    "city_name": "Insel Hiddensee",
+    "country_code": "de",
+    "federated_state_id": "14",
+    "city_and_state": "Insel Hiddensee (Mecklenburg-Vorpommern)"
+  },
+  {
+    "city_id": "9907",
+    "city_name": "Insel Poel",
+    "country_code": "de",
+    "federated_state_id": "14",
+    "city_and_state": "Insel Poel (Mecklenburg-Vorpommern)"
+  },
+  {
+    "city_id": "5669",
+    "city_name": "Insheim",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Insheim (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "8201",
+    "city_name": "Insingen",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Insingen (Bayern)"
+  },
+  {
+    "city_id": "3615",
+    "city_name": "Insul",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Insul (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "7415",
+    "city_name": "Inzell",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Inzell (Bayern)"
+  },
+  {
+    "city_id": "6959",
+    "city_name": "Inzigkofen",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Inzigkofen (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "6667",
+    "city_name": "Inzlingen",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Inzlingen (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "8515",
+    "city_name": "Iphofen",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Iphofen (Bayern)"
+  },
+  {
+    "city_id": "3827",
+    "city_name": "Ippenschied",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Ippenschied (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "8318",
+    "city_name": "Ippesheim",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Ippesheim (Bayern)"
+  },
+  {
+    "city_id": "8319",
+    "city_name": "Ipsheim",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Ipsheim (Bayern)"
+  },
+  {
+    "city_id": "7830",
+    "city_name": "Irchenrieth",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Irchenrieth (Bayern)"
+  },
+  {
+    "city_id": "7693",
+    "city_name": "Irlbach",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Irlbach (Bayern)"
+  },
+  {
+    "city_id": "4800",
+    "city_name": "Irmenach",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Irmenach (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "4623",
+    "city_name": "Irmtraut",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Irmtraut (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "6615",
+    "city_name": "Irndorf",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Irndorf (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "4864",
+    "city_name": "Irrel",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Irrel (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "4968",
+    "city_name": "Irrhausen",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Irrhausen (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "5175",
+    "city_name": "Irsch",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Irsch (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "7240",
+    "city_name": "Irschenberg",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Irschenberg (Bayern)"
+  },
+  {
+    "city_id": "8873",
+    "city_name": "Irsee",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Irsee (Bayern)"
+  },
+  {
+    "city_id": "7119",
+    "city_name": "Isen",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Isen (Bayern)"
+  },
+  {
+    "city_id": "4190",
+    "city_name": "Isenburg",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Isenburg (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "1808",
+    "city_name": "Isenb\u00fcttel",
+    "country_code": "de",
+    "federated_state_id": "7",
+    "city_and_state": "Isenb\u00fcttel (Niedersachsen)"
+  },
+  {
+    "city_id": "226",
+    "city_name": "Iserlohn",
+    "country_code": "de",
+    "federated_state_id": "2",
+    "city_and_state": "Iserlohn (Nordrhein-Westfalen)"
+  },
+  {
+    "city_id": "1973",
+    "city_name": "Isernhagen",
+    "country_code": "de",
+    "federated_state_id": "7",
+    "city_and_state": "Isernhagen (Niedersachsen)"
+  },
+  {
+    "city_id": "3718",
+    "city_name": "Isert",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Isert (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "7293",
+    "city_name": "Ismaning",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Ismaning (Bayern)"
+  },
+  {
+    "city_id": "6933",
+    "city_name": "Isny im Allg\u00e4u",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Isny im Allg\u00e4u (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "6394",
+    "city_name": "Ispringen",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Ispringen (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "4425",
+    "city_name": "Isselbach",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Isselbach (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "2943",
+    "city_name": "Isselburg",
+    "country_code": "de",
+    "federated_state_id": "2",
+    "city_and_state": "Isselburg (Nordrhein-Westfalen)"
+  },
+  {
+    "city_id": "11401",
+    "city_name": "Isseroda",
+    "country_code": "de",
+    "federated_state_id": "12",
+    "city_and_state": "Isseroda (Th\u00fcringen)"
+  },
+  {
+    "city_id": "11068",
+    "city_name": "Issersheilingen",
+    "country_code": "de",
+    "federated_state_id": "12",
+    "city_and_state": "Issersheilingen (Th\u00fcringen)"
+  },
+  {
+    "city_id": "8085",
+    "city_name": "Issigau",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Issigau (Bayern)"
+  },
+  {
+    "city_id": "2782",
+    "city_name": "Issum",
+    "country_code": "de",
+    "federated_state_id": "2",
+    "city_and_state": "Issum (Nordrhein-Westfalen)"
+  },
+  {
+    "city_id": "2644",
+    "city_name": "Isterberg",
+    "country_code": "de",
+    "federated_state_id": "7",
+    "city_and_state": "Isterberg (Niedersachsen)"
+  },
+  {
+    "city_id": "2645",
+    "city_name": "Itterbeck",
+    "country_code": "de",
+    "federated_state_id": "7",
+    "city_and_state": "Itterbeck (Niedersachsen)"
+  },
+  {
+    "city_id": "6075",
+    "city_name": "Ittlingen",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Ittlingen (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "1670",
+    "city_name": "Itzehoe",
+    "country_code": "de",
+    "federated_state_id": "13",
+    "city_and_state": "Itzehoe (Schleswig-Holstein)"
+  },
+  {
+    "city_id": "8037",
+    "city_name": "Itzgrund",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Itzgrund (Bayern)"
+  },
+  {
+    "city_id": "1573",
+    "city_name": "Itzstedt",
+    "country_code": "de",
+    "federated_state_id": "13",
+    "city_and_state": "Itzstedt (Schleswig-Holstein)"
+  },
+  {
+    "city_id": "10006",
+    "city_name": "Iven",
+    "country_code": "de",
+    "federated_state_id": "14",
+    "city_and_state": "Iven (Mecklenburg-Vorpommern)"
+  },
+  {
+    "city_id": "9559",
+    "city_name": "Ivenack",
+    "country_code": "de",
+    "federated_state_id": "14",
+    "city_and_state": "Ivenack (Mecklenburg-Vorpommern)"
+  },
+  {
+    "city_id": "452557",
+    "city_name": "IJsselstein",
+    "country_code": "nl",
+    "federated_state_id": "85",
+    "city_and_state": "IJsselstein (Utrecht)"
+  },
+  {
+    "city_id": "12284",
+    "city_name": "Ibadan",
+    "country_code": "ng",
+    "federated_state_id": "1",
+    "city_and_state": "Ibadan"
+  },
+  {
+    "city_id": "129115",
+    "city_name": "Ibarrolle",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Ibarrolle (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "62705",
+    "city_name": "Ibingen",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Ibingen (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "144580",
+    "city_name": "Ibos",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Ibos (Okzitanien)"
+  },
+  {
+    "city_id": "52515",
+    "city_name": "Ichtratzheim",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Ichtratzheim (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "32320",
+    "city_name": "Ichy",
+    "country_code": "fr",
+    "federated_state_id": "105",
+    "city_and_state": "Ichy (Ile-de-France)"
+  },
+  {
+    "city_id": "130915",
+    "city_name": "Idaux-Mendy",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Idaux-Mendy (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "141360",
+    "city_name": "Idrac-Respaill\u00e8s",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Idrac-Respaill\u00e8s (Okzitanien)"
+  },
+  {
+    "city_id": "125805",
+    "city_name": "Idron",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Idron (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "23440",
+    "city_name": "Ids-Saint-Roch",
+    "country_code": "fr",
+    "federated_state_id": "100",
+    "city_and_state": "Ids-Saint-Roch (Zentrum-Loiretal)"
+  },
+  {
+    "city_id": "47340",
+    "city_name": "Iffendic",
+    "country_code": "fr",
+    "federated_state_id": "125",
+    "city_and_state": "Iffendic (Bretagne)"
+  },
+  {
+    "city_id": "161035",
+    "city_name": "Ifs",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Ifs (Normandie)"
+  },
+  {
+    "city_id": "189690",
+    "city_name": "Ignaucourt",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Ignaucourt (Nordfrankreich)"
+  },
+  {
+    "city_id": "152205",
+    "city_name": "Ignaux",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Ignaux (Okzitanien)"
+  },
+  {
+    "city_id": "70020",
+    "city_name": "Igney",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Igney (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "56645",
+    "city_name": "Igney",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Igney (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "24140",
+    "city_name": "Ignol",
+    "country_code": "fr",
+    "federated_state_id": "100",
+    "city_and_state": "Ignol (Zentrum-Loiretal)"
+  },
+  {
+    "city_id": "106270",
+    "city_name": "Igny",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Igny (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "26320",
+    "city_name": "Igny",
+    "country_code": "fr",
+    "federated_state_id": "105",
+    "city_and_state": "Igny (Ile-de-France)"
+  },
+  {
+    "city_id": "64010",
+    "city_name": "Igny-Comblizy",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Igny-Comblizy (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "131090",
+    "city_name": "Igon",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Igon (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "114210",
+    "city_name": "Igornay",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Igornay (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "166745",
+    "city_name": "Igoville",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Igoville (Normandie)"
+  },
+  {
+    "city_id": "106060",
+    "city_name": "Iguerande",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Iguerande (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "110910",
+    "city_name": "Ig\u00e9",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Ig\u00e9 (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "167425",
+    "city_name": "Ig\u00e9",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Ig\u00e9 (Normandie)"
+  },
+  {
+    "city_id": "129460",
+    "city_name": "Iholdy",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Iholdy (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "132105",
+    "city_name": "Ilharre",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Ilharre (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "153500",
+    "city_name": "Ilhat",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Ilhat (Okzitanien)"
+  },
+  {
+    "city_id": "154925",
+    "city_name": "Ilhet",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Ilhet (Okzitanien)"
+  },
+  {
+    "city_id": "154830",
+    "city_name": "Ilheu",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Ilheu (Okzitanien)"
+  },
+  {
+    "city_id": "153985",
+    "city_name": "Illartein",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Illartein (Okzitanien)"
+  },
+  {
+    "city_id": "116770",
+    "city_name": "Illats",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Illats (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "136160",
+    "city_name": "Ille-sur-T\u00eat",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Ille-sur-T\u00eat (Okzitanien)"
+  },
+  {
+    "city_id": "163410",
+    "city_name": "Illeville-sur-Montfort",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Illeville-sur-Montfort (Normandie)"
+  },
+  {
+    "city_id": "53195",
+    "city_name": "Illfurth",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Illfurth (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "52140",
+    "city_name": "Illh\u00e4usern",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Illh\u00e4usern (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "85740",
+    "city_name": "Illiat",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Illiat (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "154170",
+    "city_name": "Illier-et-Laramade",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Illier-et-Laramade (Okzitanien)"
+  },
+  {
+    "city_id": "20840",
+    "city_name": "Illiers-Combray",
+    "country_code": "fr",
+    "federated_state_id": "100",
+    "city_and_state": "Illiers-Combray (Zentrum-Loiretal)"
+  },
+  {
+    "city_id": "169885",
+    "city_name": "Illiers-l'\u00c9v\u00eaque",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Illiers-l'\u00c9v\u00eaque (Normandie)"
+  },
+  {
+    "city_id": "173560",
+    "city_name": "Illies",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Illies (Nordfrankreich)"
+  },
+  {
+    "city_id": "48545",
+    "city_name": "Illifaut",
+    "country_code": "fr",
+    "federated_state_id": "125",
+    "city_and_state": "Illifaut (Bretagne)"
+  },
+  {
+    "city_id": "52500",
+    "city_name": "Illkirch-Grafenstaden",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Illkirch-Grafenstaden (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "160490",
+    "city_name": "Illois",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Illois (Normandie)"
+  },
+  {
+    "city_id": "74455",
+    "city_name": "Illoud",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Illoud (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "76170",
+    "city_name": "Illtal",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Illtal (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "56420",
+    "city_name": "Illy",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Illy (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "51895",
+    "city_name": "Illzach",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Illzach (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "42325",
+    "city_name": "Ilonse",
+    "country_code": "fr",
+    "federated_state_id": "115",
+    "city_and_state": "Ilonse (Provence-Alpes-C\u00f4te d'Azur)"
+  },
+  {
+    "city_id": "166815",
+    "city_name": "Imbleville",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Imbleville (Normandie)"
+  },
+  {
+    "city_id": "55410",
+    "city_name": "Imling",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Imling (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "110365",
+    "city_name": "Imphy",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Imphy (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "75330",
+    "city_name": "Im\u00e9court",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Im\u00e9court (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "62045",
+    "city_name": "Inaumont",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Inaumont (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "158435",
+    "city_name": "Incarville",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Incarville (Normandie)"
+  },
+  {
+    "city_id": "168855",
+    "city_name": "Incheville",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Incheville (Normandie)"
+  },
+  {
+    "city_id": "172450",
+    "city_name": "Inchy",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Inchy (Nordfrankreich)"
+  },
+  {
+    "city_id": "182180",
+    "city_name": "Inchy-en-Artois",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Inchy-en-Artois (Nordfrankreich)"
+  },
+  {
+    "city_id": "186590",
+    "city_name": "Incourt",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Incourt (Nordfrankreich)"
+  },
+  {
+    "city_id": "105445",
+    "city_name": "Indevillers",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Indevillers (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "32685",
+    "city_name": "Indre",
+    "country_code": "fr",
+    "federated_state_id": "110",
+    "city_and_state": "Indre (Pays de la Loire)"
+  },
+  {
+    "city_id": "24360",
+    "city_name": "Ineuil",
+    "country_code": "fr",
+    "federated_state_id": "100",
+    "city_and_state": "Ineuil (Zentrum-Loiretal)"
+  },
+  {
+    "city_id": "96465",
+    "city_name": "Ingelsod",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Ingelsod (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "57305",
+    "city_name": "Ingenheim",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Ingenheim (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "66080",
+    "city_name": "Inglingen",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Inglingen (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "60960",
+    "city_name": "Ingolsheim",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Ingolsheim (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "160415",
+    "city_name": "Ingouville",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Ingouville (Normandie)"
+  },
+  {
+    "city_id": "126695",
+    "city_name": "Ingrandes",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Ingrandes (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "23140",
+    "city_name": "Ingrandes",
+    "country_code": "fr",
+    "federated_state_id": "100",
+    "city_and_state": "Ingrandes (Zentrum-Loiretal)"
+  },
+  {
+    "city_id": "38535",
+    "city_name": "Ingrandes-le-Fresne-sur-Loire",
+    "country_code": "fr",
+    "federated_state_id": "110",
+    "city_and_state": "Ingrandes-le-Fresne-sur-Loire (Pays de la Loire)"
+  },
+  {
+    "city_id": "18820",
+    "city_name": "Ingrannes",
+    "country_code": "fr",
+    "federated_state_id": "100",
+    "city_and_state": "Ingrannes (Zentrum-Loiretal)"
+  },
+  {
+    "city_id": "18880",
+    "city_name": "Ingr\u00e9",
+    "country_code": "fr",
+    "federated_state_id": "100",
+    "city_and_state": "Ingr\u00e9 (Zentrum-Loiretal)"
+  },
+  {
+    "city_id": "45685",
+    "city_name": "Inguiniel",
+    "country_code": "fr",
+    "federated_state_id": "125",
+    "city_and_state": "Inguiniel (Bretagne)"
+  },
+  {
+    "city_id": "61760",
+    "city_name": "Ingweiler",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Ingweiler (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "86285",
+    "city_name": "Injoux-G\u00e9nissiat",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Injoux-G\u00e9nissiat (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "52700",
+    "city_name": "Innenheim",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Innenheim (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "86645",
+    "city_name": "Innimond",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Innimond (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "59035",
+    "city_name": "Inor",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Inor (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "55415",
+    "city_name": "Insmingen",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Insmingen (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "62570",
+    "city_name": "Insweiler",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Insweiler (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "24460",
+    "city_name": "Intr\u00e9ville",
+    "country_code": "fr",
+    "federated_state_id": "100",
+    "city_and_state": "Intr\u00e9ville (Zentrum-Loiretal)"
+  },
+  {
+    "city_id": "19430",
+    "city_name": "Intville-la-Gu\u00e9tard",
+    "country_code": "fr",
+    "federated_state_id": "100",
+    "city_and_state": "Intville-la-Gu\u00e9tard (Zentrum-Loiretal)"
+  },
+  {
+    "city_id": "188940",
+    "city_name": "Inval-Boiron",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Inval-Boiron (Nordfrankreich)"
+  },
+  {
+    "city_id": "187025",
+    "city_name": "Inxent",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Inxent (Nordfrankreich)"
+  },
+  {
+    "city_id": "45640",
+    "city_name": "Inzinzac-Lochrist",
+    "country_code": "fr",
+    "federated_state_id": "125",
+    "city_and_state": "Inzinzac-Lochrist (Bretagne)"
+  },
+  {
+    "city_id": "53865",
+    "city_name": "Iplingen",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Iplingen (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "71200",
+    "city_name": "Ipp\u00e9court",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Ipp\u00e9court (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "51625",
+    "city_name": "Iracoubo",
+    "country_code": "fr",
+    "federated_state_id": "145",
+    "city_and_state": "Iracoubo (Franz\u00f6sisch-Guayana)"
+  },
+  {
+    "city_id": "169300",
+    "city_name": "Irai",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Irai (Normandie)"
+  },
+  {
+    "city_id": "123830",
+    "city_name": "Irais",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Irais (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "107510",
+    "city_name": "Irancy",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Irancy (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "87935",
+    "city_name": "Irigny",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Irigny (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "128030",
+    "city_name": "Irissarry",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Irissarry (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "184730",
+    "city_name": "Irles",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Irles (Nordfrankreich)"
+  },
+  {
+    "city_id": "50525",
+    "city_name": "Irodou\u00ebr",
+    "country_code": "fr",
+    "federated_state_id": "125",
+    "city_and_state": "Irodou\u00ebr (Bretagne)"
+  },
+  {
+    "city_id": "176295",
+    "city_name": "Iron",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Iron (Nordfrankreich)"
+  },
+  {
+    "city_id": "126065",
+    "city_name": "Iroul\u00e9guy",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Iroul\u00e9guy (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "163230",
+    "city_name": "Irreville",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Irreville (Normandie)"
+  },
+  {
+    "city_id": "49890",
+    "city_name": "Irvillac",
+    "country_code": "fr",
+    "federated_state_id": "125",
+    "city_and_state": "Irvillac (Bretagne)"
+  },
+  {
+    "city_id": "70710",
+    "city_name": "Ir\u00e9-le-Sec",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Ir\u00e9-le-Sec (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "73435",
+    "city_name": "Is-en-Bassigny",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Is-en-Bassigny (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "101725",
+    "city_name": "Is-sur-Tille",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Is-sur-Tille (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "177650",
+    "city_name": "Isbergues",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Isbergues (Nordfrankreich)"
+  },
+  {
+    "city_id": "59445",
+    "city_name": "Isches",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Isches (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "18675",
+    "city_name": "Isdes",
+    "country_code": "fr",
+    "federated_state_id": "100",
+    "city_and_state": "Isdes (Zentrum-Loiretal)"
+  },
+  {
+    "city_id": "111700",
+    "city_name": "Isenay",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Isenay (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "52205",
+    "city_name": "Isenheim",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Isenheim (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "164005",
+    "city_name": "Isigny-le-Buat",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Isigny-le-Buat (Normandie)"
+  },
+  {
+    "city_id": "171015",
+    "city_name": "Isigny-sur-Mer",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Isigny-sur-Mer (Normandie)"
+  },
+  {
+    "city_id": "111995",
+    "city_name": "Island",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Island (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "117765",
+    "city_name": "Isle",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Isle (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "72550",
+    "city_name": "Isle-Aubigny",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Isle-Aubigny (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "57845",
+    "city_name": "Isle-Aumont",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Isle-Aumont (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "116750",
+    "city_name": "Isle-Saint-Georges",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Isle-Saint-Georges (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "93135",
+    "city_name": "Isle-et-Bardais",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Isle-et-Bardais (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "67000",
+    "city_name": "Isle-sur-Marne",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Isle-sur-Marne (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "27320",
+    "city_name": "Isles-les-Meldeuses",
+    "country_code": "fr",
+    "federated_state_id": "105",
+    "city_and_state": "Isles-les-Meldeuses (Ile-de-France)"
+  },
+  {
+    "city_id": "29335",
+    "city_name": "Isles-l\u00e8s-Villenoy",
+    "country_code": "fr",
+    "federated_state_id": "105",
+    "city_and_state": "Isles-l\u00e8s-Villenoy (Ile-de-France)"
+  },
+  {
+    "city_id": "66775",
+    "city_name": "Isles-sur-Suippe",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Isles-sur-Suippe (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "159695",
+    "city_name": "Isneauville",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Isneauville (Normandie)"
+  },
+  {
+    "city_id": "40270",
+    "city_name": "Isola",
+    "country_code": "fr",
+    "federated_state_id": "115",
+    "city_and_state": "Isola (Provence-Alpes-C\u00f4te d'Azur)"
+  },
+  {
+    "city_id": "43685",
+    "city_name": "Isolaccio-di-Fiumorbo",
+    "country_code": "fr",
+    "federated_state_id": "120",
+    "city_and_state": "Isolaccio-di-Fiumorbo (Korsika)"
+  },
+  {
+    "city_id": "148405",
+    "city_name": "Ispagnac",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Ispagnac (Okzitanien)"
+  },
+  {
+    "city_id": "126080",
+    "city_name": "Ispoure",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Ispoure (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "177810",
+    "city_name": "Isques",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Isques (Nordfrankreich)"
+  },
+  {
+    "city_id": "132695",
+    "city_name": "Issac",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Issac (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "92230",
+    "city_name": "Issamoulenc",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Issamoulenc (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "74730",
+    "city_name": "Issancourt-et-Rumel",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Issancourt-et-Rumel (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "92155",
+    "city_name": "Issanlas",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Issanlas (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "97630",
+    "city_name": "Issans",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Issans (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "92170",
+    "city_name": "Issarl\u00e8s",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Issarl\u00e8s (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "68165",
+    "city_name": "Isse",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Isse (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "153860",
+    "city_name": "Issel",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Issel (Okzitanien)"
+  },
+  {
+    "city_id": "138865",
+    "city_name": "Issendolus",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Issendolus (Okzitanien)"
+  },
+  {
+    "city_id": "61785",
+    "city_name": "Issenhausen",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Issenhausen (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "138870",
+    "city_name": "Issepts",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Issepts (Okzitanien)"
+  },
+  {
+    "city_id": "81850",
+    "city_name": "Isserpent",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Isserpent (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "89215",
+    "city_name": "Isserteaux",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Isserteaux (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "130545",
+    "city_name": "Issigeac",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Issigeac (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "147370",
+    "city_name": "Issirac",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Issirac (Okzitanien)"
+  },
+  {
+    "city_id": "83170",
+    "city_name": "Issoire",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Issoire (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "131330",
+    "city_name": "Issor",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Issor (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "28805",
+    "city_name": "Issou",
+    "country_code": "fr",
+    "federated_state_id": "105",
+    "city_and_state": "Issou (Ile-de-France)"
+  },
+  {
+    "city_id": "18560",
+    "city_name": "Issoudun",
+    "country_code": "fr",
+    "federated_state_id": "100",
+    "city_and_state": "Issoudun (Zentrum-Loiretal)"
+  },
+  {
+    "city_id": "119340",
+    "city_name": "Issoudun-L\u00e9trieix",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Issoudun-L\u00e9trieix (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "144390",
+    "city_name": "Issus",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Issus (Okzitanien)"
+  },
+  {
+    "city_id": "114010",
+    "city_name": "Issy-l'\u00c9v\u00eaque",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Issy-l'\u00c9v\u00eaque (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "27285",
+    "city_name": "Issy-les-Moulineaux",
+    "country_code": "fr",
+    "federated_state_id": "105",
+    "city_and_state": "Issy-les-Moulineaux (Ile-de-France)"
+  },
+  {
+    "city_id": "36530",
+    "city_name": "Iss\u00e9",
+    "country_code": "fr",
+    "federated_state_id": "110",
+    "city_and_state": "Iss\u00e9 (Pays de la Loire)"
+  },
+  {
+    "city_id": "39610",
+    "city_name": "Istres",
+    "country_code": "fr",
+    "federated_state_id": "115",
+    "city_and_state": "Istres (Provence-Alpes-C\u00f4te d'Azur)"
+  },
+  {
+    "city_id": "125780",
+    "city_name": "Isturits",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Isturits (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "65860",
+    "city_name": "Is\u00f4mes",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Is\u00f4mes (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "176300",
+    "city_name": "Itancourt",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Itancourt (Nordfrankreich)"
+  },
+  {
+    "city_id": "126140",
+    "city_name": "Iteuil",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Iteuil (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "52880",
+    "city_name": "Ittenheim",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Ittenheim (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "58685",
+    "city_name": "Ittersweiler",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Ittersweiler (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "28645",
+    "city_name": "Itteville",
+    "country_code": "fr",
+    "federated_state_id": "105",
+    "city_and_state": "Itteville (Ile-de-France)"
+  },
+  {
+    "city_id": "125730",
+    "city_name": "Itxassou",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Itxassou (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "151275",
+    "city_name": "Itzac",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Itzac (Okzitanien)"
+  },
+  {
+    "city_id": "187155",
+    "city_name": "Ivergny",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Ivergny (Nordfrankreich)"
+  },
+  {
+    "city_id": "31260",
+    "city_name": "Iverny",
+    "country_code": "fr",
+    "federated_state_id": "105",
+    "city_and_state": "Iverny (Ile-de-France)"
+  },
+  {
+    "city_id": "176305",
+    "city_name": "Iviers",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Iviers (Nordfrankreich)"
+  },
+  {
+    "city_id": "162950",
+    "city_name": "Iville",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Iville (Normandie)"
+  },
+  {
+    "city_id": "180365",
+    "city_name": "Ivors",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Ivors (Nordfrankreich)"
+  },
+  {
+    "city_id": "106160",
+    "city_name": "Ivory",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Ivory (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "20515",
+    "city_name": "Ivoy-le-Pr\u00e9",
+    "country_code": "fr",
+    "federated_state_id": "100",
+    "city_and_state": "Ivoy-le-Pr\u00e9 (Zentrum-Loiretal)"
+  },
+  {
+    "city_id": "106205",
+    "city_name": "Ivrey",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Ivrey (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "166715",
+    "city_name": "Ivry-la-Bataille",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Ivry-la-Bataille (Normandie)"
+  },
+  {
+    "city_id": "179850",
+    "city_name": "Ivry-le-Temple",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Ivry-le-Temple (Nordfrankreich)"
+  },
+  {
+    "city_id": "27735",
+    "city_name": "Ivry-sur-Seine",
+    "country_code": "fr",
+    "federated_state_id": "105",
+    "city_and_state": "Ivry-sur-Seine (Ile-de-France)"
+  },
+  {
+    "city_id": "172635",
+    "city_name": "Iwuy",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Iwuy (Nordfrankreich)"
+  },
+  {
+    "city_id": "154815",
+    "city_name": "Izaourt",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Izaourt (Okzitanien)"
+  },
+  {
+    "city_id": "148655",
+    "city_name": "Izaut-de-l'H\u00f4tel",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Izaut-de-l'H\u00f4tel (Okzitanien)"
+  },
+  {
+    "city_id": "154945",
+    "city_name": "Izaux",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Izaux (Okzitanien)"
+  },
+  {
+    "city_id": "91785",
+    "city_name": "Izeaux",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Izeaux (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "182190",
+    "city_name": "Izel-l\u00e8s-Hameau",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Izel-l\u00e8s-Hameau (Nordfrankreich)"
+  },
+  {
+    "city_id": "182185",
+    "city_name": "Izel-l\u00e8s-\u00c9querchin",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Izel-l\u00e8s-\u00c9querchin (Nordfrankreich)"
+  },
+  {
+    "city_id": "86345",
+    "city_name": "Izenave",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Izenave (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "85565",
+    "city_name": "Izernore",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Izernore (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "79210",
+    "city_name": "Izeron",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Izeron (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "131205",
+    "city_name": "Izeste",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Izeste (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "102620",
+    "city_name": "Izeure",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Izeure (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "102405",
+    "city_name": "Izier",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Izier (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "86565",
+    "city_name": "Izieu",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Izieu (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "115950",
+    "city_name": "Izon",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Izon (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "77070",
+    "city_name": "Izon-la-Bruisse",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Izon-la-Bruisse (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "140015",
+    "city_name": "Izotges",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Izotges (Okzitanien)"
+  },
+  {
+    "city_id": "38320",
+    "city_name": "Iz\u00e9",
+    "country_code": "fr",
+    "federated_state_id": "110",
+    "city_and_state": "Iz\u00e9 (Pays de la Loire)"
+  },
+  {
+    "city_id": "427110",
+    "city_name": "Ibramowice",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Ibramowice (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "369735",
+    "city_name": "Idalin",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Idalin (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "402570",
+    "city_name": "Idzbark",
+    "country_code": "pl",
+    "federated_state_id": "235",
+    "city_and_state": "Idzbark (Woiwodschaft Ermland-Masuren)"
+  },
+  {
+    "city_id": "418845",
+    "city_name": "Idzikowice",
+    "country_code": "pl",
+    "federated_state_id": "245",
+    "city_and_state": "Idzikowice (Woiwodschaft Lodz)"
+  },
+  {
+    "city_id": "446870",
+    "city_name": "Id\u017aki M\u0142ynowskie",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "Id\u017aki M\u0142ynowskie (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "446865",
+    "city_name": "Id\u017aki \u015arednie",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "Id\u017aki \u015arednie (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "446860",
+    "city_name": "Id\u017aki-Wykno",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "Id\u017aki-Wykno (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "401445",
+    "city_name": "Igliczyzna",
+    "country_code": "pl",
+    "federated_state_id": "230",
+    "city_and_state": "Igliczyzna (Woiwodschaft Kujawien-Pommern)"
+  },
+  {
+    "city_id": "442330",
+    "city_name": "Ignacewo",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "Ignacewo (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "378890",
+    "city_name": "Ignac\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Ignac\u00f3w (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "378720",
+    "city_name": "Ignac\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Ignac\u00f3w (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "385380",
+    "city_name": "Ignac\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Ignac\u00f3w (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "369610",
+    "city_name": "Ignac\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Ignac\u00f3w (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "372475",
+    "city_name": "Ignac\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Ignac\u00f3w (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "384570",
+    "city_name": "Ignac\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Ignac\u00f3w (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "348830",
+    "city_name": "Ignac\u00f3wka",
+    "country_code": "pl",
+    "federated_state_id": "195",
+    "city_and_state": "Ignac\u00f3wka (Woiwodschaft Heiligkreuz)"
+  },
+  {
+    "city_id": "374935",
+    "city_name": "Ignac\u00f3wka Bobrowska",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Ignac\u00f3wka Bobrowska (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "375115",
+    "city_name": "Ignac\u00f3wka Grabnowolska",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Ignac\u00f3wka Grabnowolska (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "361205",
+    "city_name": "Ignasin",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Ignasin (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "443230",
+    "city_name": "Ignatki",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "Ignatki (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "450105",
+    "city_name": "Ignatki",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "Ignatki (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "450090",
+    "city_name": "Ignatki-Osiedle",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "Ignatki-Osiedle (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "432845",
+    "city_name": "Ignatowizna",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "Ignatowizna (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "358965",
+    "city_name": "Ignat\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Ignat\u00f3w (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "358970",
+    "city_name": "Ignat\u00f3w-Kolonia",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Ignat\u00f3w-Kolonia (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "358070",
+    "city_name": "Ignat\u00f3wka",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Ignat\u00f3wka (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "435055",
+    "city_name": "Ignat\u00f3wka",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "Ignat\u00f3wka (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "422930",
+    "city_name": "Igo\u0142omia",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Igo\u0142omia (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "438340",
+    "city_name": "Igry\u0142y",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "Igry\u0142y (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "431865",
+    "city_name": "Ig\u0142owice",
+    "country_code": "pl",
+    "federated_state_id": "255",
+    "city_and_state": "Ig\u0142owice (Woiwodschaft Oppeln)"
+  },
+  {
+    "city_id": "416570",
+    "city_name": "Ig\u0142owice",
+    "country_code": "pl",
+    "federated_state_id": "240",
+    "city_and_state": "Ig\u0142owice (Woiwodschaft Niederschlesien)"
+  },
+  {
+    "city_id": "430250",
+    "city_name": "Ilkowice",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Ilkowice (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "424385",
+    "city_name": "Ilkowice",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Ilkowice (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "402025",
+    "city_name": "Illowo",
+    "country_code": "pl",
+    "federated_state_id": "235",
+    "city_and_state": "Illowo (Woiwodschaft Ermland-Masuren)"
+  },
+  {
+    "city_id": "405620",
+    "city_name": "Imbramowice",
+    "country_code": "pl",
+    "federated_state_id": "240",
+    "city_and_state": "Imbramowice (Woiwodschaft Niederschlesien)"
+  },
+  {
+    "city_id": "426840",
+    "city_name": "Imbramowice",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Imbramowice (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "450540",
+    "city_name": "Imielin",
+    "country_code": "pl",
+    "federated_state_id": "265",
+    "city_and_state": "Imielin (Woiwodschaft Schlesien)"
+  },
+  {
+    "city_id": "348645",
+    "city_name": "Imielnica",
+    "country_code": "pl",
+    "federated_state_id": "195",
+    "city_and_state": "Imielnica (Woiwodschaft Heiligkreuz)"
+  },
+  {
+    "city_id": "348650",
+    "city_name": "Imielno",
+    "country_code": "pl",
+    "federated_state_id": "195",
+    "city_and_state": "Imielno (Woiwodschaft Heiligkreuz)"
+  },
+  {
+    "city_id": "424825",
+    "city_name": "Innwald",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Innwald (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "400880",
+    "city_name": "Inowrazlaw",
+    "country_code": "pl",
+    "federated_state_id": "230",
+    "city_and_state": "Inowrazlaw (Woiwodschaft Kujawien-Pommern)"
+  },
+  {
+    "city_id": "394020",
+    "city_name": "Irena",
+    "country_code": "pl",
+    "federated_state_id": "210",
+    "city_and_state": "Irena (Woiwodschaft Karpatenvorland)"
+  },
+  {
+    "city_id": "419465",
+    "city_name": "Iren\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "245",
+    "city_and_state": "Iren\u00f3w (Woiwodschaft Lodz)"
+  },
+  {
+    "city_id": "411125",
+    "city_name": "Irz\u0105dze",
+    "country_code": "pl",
+    "federated_state_id": "240",
+    "city_and_state": "Irz\u0105dze (Woiwodschaft Niederschlesien)"
+  },
+  {
+    "city_id": "429935",
+    "city_name": "Isep",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Isep (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "389115",
+    "city_name": "Iska\u0144",
+    "country_code": "pl",
+    "federated_state_id": "210",
+    "city_and_state": "Iska\u0144 (Woiwodschaft Karpatenvorland)"
+  },
+  {
+    "city_id": "451740",
+    "city_name": "Iskrzyczyn",
+    "country_code": "pl",
+    "federated_state_id": "265",
+    "city_and_state": "Iskrzyczyn (Woiwodschaft Schlesien)"
+  },
+  {
+    "city_id": "394280",
+    "city_name": "Iskrzynia",
+    "country_code": "pl",
+    "federated_state_id": "210",
+    "city_and_state": "Iskrzynia (Woiwodschaft Karpatenvorland)"
+  },
+  {
+    "city_id": "428250",
+    "city_name": "Ispina",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Ispina (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "450440",
+    "city_name": "Istebna",
+    "country_code": "pl",
+    "federated_state_id": "265",
+    "city_and_state": "Istebna (Woiwodschaft Schlesien)"
+  },
+  {
+    "city_id": "433610",
+    "city_name": "Istok",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "Istok (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "433250",
+    "city_name": "Istok",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "Istok (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "356680",
+    "city_name": "Iwaniska",
+    "country_code": "pl",
+    "federated_state_id": "195",
+    "city_and_state": "Iwaniska (Woiwodschaft Heiligkreuz)"
+  },
+  {
+    "city_id": "434950",
+    "city_name": "Iwaniszki",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "Iwaniszki (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "433635",
+    "city_name": "Iwanki",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "Iwanki (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "422605",
+    "city_name": "Iwanowice",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Iwanowice (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "422600",
+    "city_name": "Iwanowice Dworskie",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Iwanowice Dworskie (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "436370",
+    "city_name": "Iwan\u00f3wka",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "Iwan\u00f3wka (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "449735",
+    "city_name": "Iwan\u00f3wka",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "Iwan\u00f3wka (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "420745",
+    "city_name": "Iwiczna",
+    "country_code": "pl",
+    "federated_state_id": "245",
+    "city_and_state": "Iwiczna (Woiwodschaft Lodz)"
+  },
+  {
+    "city_id": "400080",
+    "city_name": "Iwiczno",
+    "country_code": "pl",
+    "federated_state_id": "225",
+    "city_and_state": "Iwiczno (Woiwodschaft Pommern)"
+  },
+  {
+    "city_id": "389915",
+    "city_name": "Iwierzyce",
+    "country_code": "pl",
+    "federated_state_id": "210",
+    "city_and_state": "Iwierzyce (Woiwodschaft Karpatenvorland)"
+  },
+  {
+    "city_id": "413910",
+    "city_name": "Iwiny",
+    "country_code": "pl",
+    "federated_state_id": "240",
+    "city_and_state": "Iwiny (Woiwodschaft Niederschlesien)"
+  },
+  {
+    "city_id": "409130",
+    "city_name": "Iwiny",
+    "country_code": "pl",
+    "federated_state_id": "240",
+    "city_and_state": "Iwiny (Woiwodschaft Niederschlesien)"
+  },
+  {
+    "city_id": "428970",
+    "city_name": "Iwkowa",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Iwkowa (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "387770",
+    "city_name": "Iwla",
+    "country_code": "pl",
+    "federated_state_id": "210",
+    "city_and_state": "Iwla (Woiwodschaft Karpatenvorland)"
+  },
+  {
+    "city_id": "411265",
+    "city_name": "Iwno",
+    "country_code": "pl",
+    "federated_state_id": "240",
+    "city_and_state": "Iwno (Woiwodschaft Niederschlesien)"
+  },
+  {
+    "city_id": "398915",
+    "city_name": "Iwno",
+    "country_code": "pl",
+    "federated_state_id": "220",
+    "city_and_state": "Iwno (Woiwodschaft Gro\u00dfpolen)"
+  },
+  {
+    "city_id": "387780",
+    "city_name": "Iwonicz",
+    "country_code": "pl",
+    "federated_state_id": "210",
+    "city_and_state": "Iwonicz (Woiwodschaft Karpatenvorland)"
+  },
+  {
+    "city_id": "386725",
+    "city_name": "Iwonitz-Bad",
+    "country_code": "pl",
+    "federated_state_id": "210",
+    "city_and_state": "Iwonitz-Bad (Woiwodschaft Karpatenvorland)"
+  },
+  {
+    "city_id": "383700",
+    "city_name": "Izabela",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Izabela (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "450035",
+    "city_name": "Izabelin",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "Izabelin (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "373125",
+    "city_name": "Izabelin",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Izabelin (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "380450",
+    "city_name": "Izabelin B",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Izabelin B (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "380455",
+    "city_name": "Izabelin C",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Izabelin C (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "383100",
+    "city_name": "Izabelin-Dziekan\u00f3wek",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Izabelin-Dziekan\u00f3wek (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "371885",
+    "city_name": "Izabelmont",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Izabelmont (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "347145",
+    "city_name": "Izabel\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "195",
+    "city_and_state": "Izabel\u00f3w (Woiwodschaft Heiligkreuz)"
+  },
+  {
+    "city_id": "361955",
+    "city_name": "Izbica",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Izbica (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "386205",
+    "city_name": "Izbica",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Izbica (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "400960",
+    "city_name": "Izbica Kujawska",
+    "country_code": "pl",
+    "federated_state_id": "230",
+    "city_and_state": "Izbica Kujawska (Woiwodschaft Kujawien-Pommern)"
+  },
+  {
+    "city_id": "393420",
+    "city_name": "Izbiska",
+    "country_code": "pl",
+    "federated_state_id": "210",
+    "city_and_state": "Izbiska (Woiwodschaft Karpatenvorland)"
+  },
+  {
+    "city_id": "448855",
+    "city_name": "Izbiszcze",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "Izbiszcze (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "425355",
+    "city_name": "Izby",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Izby (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "392445",
+    "city_name": "Izdebki",
+    "country_code": "pl",
+    "federated_state_id": "210",
+    "city_and_state": "Izdebki (Woiwodschaft Karpatenvorland)"
+  },
+  {
+    "city_id": "424630",
+    "city_name": "Izdebnik",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Izdebnik (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "368885",
+    "city_name": "Izdebno",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Izdebno (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "373225",
+    "city_name": "Izdebno Ko\u015bcielne",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Izdebno Ko\u015bcielne (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "373230",
+    "city_name": "Izdebno Nowe",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Izdebno Nowe (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "368890",
+    "city_name": "Izdebno-Kolonia",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Izdebno-Kolonia (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "449515",
+    "city_name": "Izoby",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "Izoby (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "364310",
+    "city_name": "I\u0142owiec",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "I\u0142owiec (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "450955",
+    "city_name": "I\u0142ownica",
+    "country_code": "pl",
+    "federated_state_id": "265",
+    "city_and_state": "I\u0142ownica (Woiwodschaft Schlesien)"
+  },
+  {
+    "city_id": "402050",
+    "city_name": "I\u0142owo-Wie\u015b",
+    "country_code": "pl",
+    "federated_state_id": "235",
+    "city_and_state": "I\u0142owo-Wie\u015b (Woiwodschaft Ermland-Masuren)"
+  },
+  {
+    "city_id": "374795",
+    "city_name": "I\u0142y",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "I\u0142y (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "373890",
+    "city_name": "I\u0142\u017ca",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "I\u0142\u017ca (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "368385",
+    "city_name": "I\u017cyce",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "I\u017cyce (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "352855",
+    "city_name": "I\u017cykowice",
+    "country_code": "pl",
+    "federated_state_id": "195",
+    "city_and_state": "I\u017cykowice (Woiwodschaft Heiligkreuz)"
+  },
+  {
+    "city_id": "455837",
+    "city_name": "Ichtegem",
+    "country_code": "be",
+    "federated_state_id": "272",
+    "city_and_state": "Ichtegem (Belgien)"
+  },
+  {
+    "city_id": "455262",
+    "city_name": "Ingelmunster",
+    "country_code": "be",
+    "federated_state_id": "272",
+    "city_and_state": "Ingelmunster (Belgien)"
+  },
+  {
+    "city_id": "455227",
+    "city_name": "Ittre",
+    "country_code": "be",
+    "federated_state_id": "272",
+    "city_and_state": "Ittre (Belgien)"
+  },
+  {
+    "city_id": "454377",
+    "city_name": "Ixelles - Elsene",
+    "country_code": "be",
+    "federated_state_id": "272",
+    "city_and_state": "Ixelles - Elsene (Belgien)"
+  },
+  {
+    "city_id": "455787",
+    "city_name": "Izegem",
+    "country_code": "be",
+    "federated_state_id": "272",
+    "city_and_state": "Izegem (Belgien)"
+  },
+  {
+    "city_id": "16971",
+    "city_name": "Icogne",
+    "country_code": "ch",
+    "federated_state_id": "52",
+    "city_and_state": "Icogne (Wallis)"
+  },
+  {
+    "city_id": "15444",
+    "city_name": "Iffwil",
+    "country_code": "ch",
+    "federated_state_id": "31",
+    "city_and_state": "Iffwil (Bern)"
+  },
+  {
+    "city_id": "15896",
+    "city_name": "Ilanz/Glion",
+    "country_code": "ch",
+    "federated_state_id": "47",
+    "city_and_state": "Ilanz/Glion (Graub\u00fcnden)"
+  },
+  {
+    "city_id": "16265",
+    "city_name": "Illgau",
+    "country_code": "ch",
+    "federated_state_id": "34",
+    "city_and_state": "Illgau (Schwyz)"
+  },
+  {
+    "city_id": "17127",
+    "city_name": "Illnau-Effretikon",
+    "country_code": "ch",
+    "federated_state_id": "30",
+    "city_and_state": "Illnau-Effretikon (Z\u00fcrich)"
+  },
+  {
+    "city_id": "16972",
+    "city_name": "Inden",
+    "country_code": "ch",
+    "federated_state_id": "52",
+    "city_and_state": "Inden (Wallis)"
+  },
+  {
+    "city_id": "16266",
+    "city_name": "Ingenbohl",
+    "country_code": "ch",
+    "federated_state_id": "34",
+    "city_and_state": "Ingenbohl (Schwyz)"
+  },
+  {
+    "city_id": "15445",
+    "city_name": "Inkwil",
+    "country_code": "ch",
+    "federated_state_id": "31",
+    "city_and_state": "Inkwil (Bern)"
+  },
+  {
+    "city_id": "16267",
+    "city_name": "Innerthal",
+    "country_code": "ch",
+    "federated_state_id": "34",
+    "city_and_state": "Innerthal (Schwyz)"
+  },
+  {
+    "city_id": "15446",
+    "city_name": "Innertkirchen",
+    "country_code": "ch",
+    "federated_state_id": "31",
+    "city_and_state": "Innertkirchen (Bern)"
+  },
+  {
+    "city_id": "15447",
+    "city_name": "Ins",
+    "country_code": "ch",
+    "federated_state_id": "31",
+    "city_and_state": "Ins (Bern)"
+  },
+  {
+    "city_id": "15448",
+    "city_name": "Interlaken",
+    "country_code": "ch",
+    "federated_state_id": "31",
+    "city_and_state": "Interlaken (Bern)"
+  },
+  {
+    "city_id": "16061",
+    "city_name": "Inwil",
+    "country_code": "ch",
+    "federated_state_id": "32",
+    "city_and_state": "Inwil (Luzern)"
+  },
+  {
+    "city_id": "15449",
+    "city_name": "Ipsach",
+    "country_code": "ch",
+    "federated_state_id": "31",
+    "city_and_state": "Ipsach (Bern)"
+  },
+  {
+    "city_id": "15450",
+    "city_name": "Iseltwald",
+    "country_code": "ch",
+    "federated_state_id": "31",
+    "city_and_state": "Iseltwald (Bern)"
+  },
+  {
+    "city_id": "16602",
+    "city_name": "Isenthal",
+    "country_code": "ch",
+    "federated_state_id": "33",
+    "city_and_state": "Isenthal (Uri)"
+  },
+  {
+    "city_id": "15080",
+    "city_name": "Islisberg",
+    "country_code": "ch",
+    "federated_state_id": "48",
+    "city_and_state": "Islisberg (Aargau)"
+  },
+  {
+    "city_id": "16531",
+    "city_name": "Isone",
+    "country_code": "ch",
+    "federated_state_id": "50",
+    "city_and_state": "Isone (Tessin)"
+  },
+  {
+    "city_id": "16973",
+    "city_name": "Is\u00e9rables",
+    "country_code": "ch",
+    "federated_state_id": "52",
+    "city_and_state": "Is\u00e9rables (Wallis)"
+  },
+  {
+    "city_id": "15273",
+    "city_name": "Itingen",
+    "country_code": "ch",
+    "federated_state_id": "42",
+    "city_and_state": "Itingen (Basel-Landschaft)"
+  },
+  {
+    "city_id": "15451",
+    "city_name": "Ittigen",
+    "country_code": "ch",
+    "federated_state_id": "31",
+    "city_and_state": "Ittigen (Bern)"
+  },
+  {
+    "city_id": "465417",
+    "city_name": "Iglau",
+    "country_code": "cz",
+    "federated_state_id": "307",
+    "city_and_state": "Iglau (S\u00fcdosten)"
+  },
+  {
+    "city_id": "472972",
+    "city_name": "Innergefild",
+    "country_code": "cz",
+    "federated_state_id": "312",
+    "city_and_state": "Innergefild (S\u00fcdwesten)"
+  },
+  {
+    "city_id": "486617",
+    "city_name": "Iser-Wtelno",
+    "country_code": "cz",
+    "federated_state_id": "327",
+    "city_and_state": "Iser-Wtelno (Mittelb\u00f6hmen)"
+  },
+  {
+    "city_id": "462097",
+    "city_name": "Iva\u0148",
+    "country_code": "cz",
+    "federated_state_id": "302",
+    "city_and_state": "Iva\u0148 (Mittelm\u00e4hren)"
+  },
+  {
+    "city_id": "467207",
+    "city_name": "Iva\u0148",
+    "country_code": "cz",
+    "federated_state_id": "307",
+    "city_and_state": "Iva\u0148 (S\u00fcdosten)"
+  },
+  {
+    "city_id": "467852",
+    "city_name": "Iwowy",
+    "country_code": "cz",
+    "federated_state_id": "307",
+    "city_and_state": "Iwowy (S\u00fcdosten)"
+  },
+  {
+    "city_id": "459497",
+    "city_name": "Ikast-Brande Municipality",
+    "country_code": "dk",
+    "federated_state_id": "277",
+    "city_and_state": "Ikast-Brande Municipality (Region Mittelj\u00fctland)"
+  },
+  {
+    "city_id": "459852",
+    "city_name": "Ish\u00f8j Municipality",
+    "country_code": "dk",
+    "federated_state_id": "297",
+    "city_and_state": "Ish\u00f8j Municipality (Hauptstadtregion)"
+  },
+  {
+    "city_id": "12198",
+    "city_name": "Incheon",
+    "country_code": "kr",
+    "federated_state_id": "1",
+    "city_and_state": "Incheon"
+  },
+  {
+    "city_id": "12119",
+    "city_name": "Indore",
+    "country_code": "in",
+    "federated_state_id": "1",
+    "city_and_state": "Indore"
+  },
+  {
+    "city_id": "17258",
+    "city_name": "Ioannina",
+    "country_code": "gr",
+    "federated_state_id": "63",
+    "city_and_state": "Ioannina (Epirus)"
+  },
+  {
+    "city_id": "12084",
+    "city_name": "Izmir",
+    "country_code": "tr",
+    "federated_state_id": "1",
+    "city_and_state": "Izmir"
+  },
+  {
+    "city_id": "520",
+    "city_name": "Istanbul",
+    "country_code": "tr",
+    "federated_state_id": "1",
+    "city_and_state": "Istanbul"
+  },
+  {
+    "city_id": "468",
+    "city_name": "Ibiza",
+    "country_code": "es",
+    "federated_state_id": "1",
+    "city_and_state": "Ibiza"
+  },
+  {
+    "city_id": "570",
+    "city_name": "Indianapolis",
+    "country_code": "us",
+    "federated_state_id": "1",
+    "city_and_state": "Indianapolis"
+  },
+  {
+    "city_id": "571",
+    "city_name": "Irvine",
+    "country_code": "us",
+    "federated_state_id": "1",
+    "city_and_state": "Irvine"
+  },
+  {
+    "city_id": "572",
+    "city_name": "Irving",
+    "country_code": "us",
+    "federated_state_id": "1",
+    "city_and_state": "Irving"
+  }
+]
