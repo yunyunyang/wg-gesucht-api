@@ -1,0 +1,3789 @@
+[
+  {
+    "city_id": "6238",
+    "city_name": "Ubstadt-Weiher",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Ubstadt-Weiher (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "2145",
+    "city_name": "Uchte",
+    "country_code": "de",
+    "federated_state_id": "7",
+    "city_and_state": "Uchte (Niedersachsen)"
+  },
+  {
+    "city_id": "9493",
+    "city_name": "Uckerfelde",
+    "country_code": "de",
+    "federated_state_id": "6",
+    "city_and_state": "Uckerfelde (Brandenburg)"
+  },
+  {
+    "city_id": "9494",
+    "city_name": "Uckerland",
+    "country_code": "de",
+    "federated_state_id": "6",
+    "city_and_state": "Uckerland (Brandenburg)"
+  },
+  {
+    "city_id": "5317",
+    "city_name": "Udenheim",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Udenheim (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "10966",
+    "city_name": "Uder",
+    "country_code": "de",
+    "federated_state_id": "12",
+    "city_and_state": "Uder (Th\u00fcringen)"
+  },
+  {
+    "city_id": "11294",
+    "city_name": "Udestedt",
+    "country_code": "de",
+    "federated_state_id": "12",
+    "city_and_state": "Udestedt (Th\u00fcringen)"
+  },
+  {
+    "city_id": "5093",
+    "city_name": "Udler",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Udler (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "9180",
+    "city_name": "Uebigau-Wahrenbr\u00fcck",
+    "country_code": "de",
+    "federated_state_id": "6",
+    "city_and_state": "Uebigau-Wahrenbr\u00fcck (Brandenburg)"
+  },
+  {
+    "city_id": "10079",
+    "city_name": "Ueckerm\u00fcnde",
+    "country_code": "de",
+    "federated_state_id": "14",
+    "city_and_state": "Ueckerm\u00fcnde (Mecklenburg-Vorpommern)"
+  },
+  {
+    "city_id": "2791",
+    "city_name": "Uedem",
+    "country_code": "de",
+    "federated_state_id": "2",
+    "city_and_state": "Uedem (Nordrhein-Westfalen)"
+  },
+  {
+    "city_id": "8336",
+    "city_name": "Uehlfeld",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Uehlfeld (Bayern)"
+  },
+  {
+    "city_id": "1958",
+    "city_name": "Uehrde",
+    "country_code": "de",
+    "federated_state_id": "7",
+    "city_and_state": "Uehrde (Niedersachsen)"
+  },
+  {
+    "city_id": "10224",
+    "city_name": "Uelitz",
+    "country_code": "de",
+    "federated_state_id": "14",
+    "city_and_state": "Uelitz (Mecklenburg-Vorpommern)"
+  },
+  {
+    "city_id": "2655",
+    "city_name": "Uelsen",
+    "country_code": "de",
+    "federated_state_id": "7",
+    "city_and_state": "Uelsen (Niedersachsen)"
+  },
+  {
+    "city_id": "5784",
+    "city_name": "Uelversheim",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Uelversheim (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "1051",
+    "city_name": "Uelvesb\u00fcll",
+    "country_code": "de",
+    "federated_state_id": "13",
+    "city_and_state": "Uelvesb\u00fcll (Schleswig-Holstein)"
+  },
+  {
+    "city_id": "2505",
+    "city_name": "Uelzen",
+    "country_code": "de",
+    "federated_state_id": "7",
+    "city_and_state": "Uelzen (Niedersachsen)"
+  },
+  {
+    "city_id": "5140",
+    "city_name": "Uersfeld",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Uersfeld (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "1157",
+    "city_name": "Uetersen",
+    "country_code": "de",
+    "federated_state_id": "13",
+    "city_and_state": "Uetersen (Schleswig-Holstein)"
+  },
+  {
+    "city_id": "8681",
+    "city_name": "Uettingen",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Uettingen (Bayern)"
+  },
+  {
+    "city_id": "1983",
+    "city_name": "Uetze",
+    "country_code": "de",
+    "federated_state_id": "7",
+    "city_and_state": "Uetze (Niedersachsen)"
+  },
+  {
+    "city_id": "5141",
+    "city_name": "Ue\u00df",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Ue\u00df (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "8337",
+    "city_name": "Uffenheim",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Uffenheim (Bayern)"
+  },
+  {
+    "city_id": "7200",
+    "city_name": "Uffing a. Staffelsee",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Uffing a. Staffelsee (Bayern)"
+  },
+  {
+    "city_id": "5982",
+    "city_name": "Uhingen",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Uhingen (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "6911",
+    "city_name": "Uhldingen-M\u00fchlhofen",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Uhldingen-M\u00fchlhofen (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "4348",
+    "city_name": "Uhler",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Uhler (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "11487",
+    "city_name": "Uhlst\u00e4dt-Kirchhasel",
+    "country_code": "de",
+    "federated_state_id": "12",
+    "city_and_state": "Uhlst\u00e4dt-Kirchhasel (Th\u00fcringen)"
+  },
+  {
+    "city_id": "128",
+    "city_name": "Ulm",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Ulm (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "4069",
+    "city_name": "Ulmen",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Ulmen (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "5622",
+    "city_name": "Ulmet",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Ulmet (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "3450",
+    "city_name": "Ulrichstein",
+    "country_code": "de",
+    "federated_state_id": "10",
+    "city_and_state": "Ulrichstein (Hessen)"
+  },
+  {
+    "city_id": "1469",
+    "city_name": "Ulsnis",
+    "country_code": "de",
+    "federated_state_id": "13",
+    "city_and_state": "Ulsnis (Schleswig-Holstein)"
+  },
+  {
+    "city_id": "6477",
+    "city_name": "Umkirch",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Umkirch (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "9863",
+    "city_name": "Ummanz",
+    "country_code": "de",
+    "federated_state_id": "14",
+    "city_and_state": "Ummanz (Mecklenburg-Vorpommern)"
+  },
+  {
+    "city_id": "10729",
+    "city_name": "Ummendorf",
+    "country_code": "de",
+    "federated_state_id": "11",
+    "city_and_state": "Ummendorf (Sachsen-Anhalt)"
+  },
+  {
+    "city_id": "6883",
+    "city_name": "Ummendorf",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Ummendorf (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "1828",
+    "city_name": "Ummern",
+    "country_code": "de",
+    "federated_state_id": "7",
+    "city_and_state": "Ummern (Niedersachsen)"
+  },
+  {
+    "city_id": "11330",
+    "city_name": "Ummerstadt",
+    "country_code": "de",
+    "federated_state_id": "12",
+    "city_and_state": "Ummerstadt (Th\u00fcringen)"
+  },
+  {
+    "city_id": "11434",
+    "city_name": "Umpferstedt",
+    "country_code": "de",
+    "federated_state_id": "12",
+    "city_and_state": "Umpferstedt (Th\u00fcringen)"
+  },
+  {
+    "city_id": "2273",
+    "city_name": "Undeloh",
+    "country_code": "de",
+    "federated_state_id": "7",
+    "city_and_state": "Undeloh (Niedersachsen)"
+  },
+  {
+    "city_id": "5785",
+    "city_name": "Undenheim",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Undenheim (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "8948",
+    "city_name": "Ungerhausen",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Ungerhausen (Bayern)"
+  },
+  {
+    "city_id": "4222",
+    "city_name": "Unkel",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Unkel (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "5442",
+    "city_name": "Unkenbach",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Unkenbach (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "6884",
+    "city_name": "Unlingen",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Unlingen (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "493",
+    "city_name": "Unna",
+    "country_code": "de",
+    "federated_state_id": "2",
+    "city_and_state": "Unna (Nordrhein-Westfalen)"
+  },
+  {
+    "city_id": "4677",
+    "city_name": "Unnau",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Unnau (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "8476",
+    "city_name": "Unsleben",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Unsleben (Bayern)"
+  },
+  {
+    "city_id": "11090",
+    "city_name": "Unstruttal",
+    "country_code": "de",
+    "federated_state_id": "12",
+    "city_and_state": "Unstruttal (Th\u00fcringen)"
+  },
+  {
+    "city_id": "7201",
+    "city_name": "Unterammergau",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Unterammergau (Bayern)"
+  },
+  {
+    "city_id": "11571",
+    "city_name": "Unterbodnitz",
+    "country_code": "de",
+    "federated_state_id": "12",
+    "city_and_state": "Unterbodnitz (Th\u00fcringen)"
+  },
+  {
+    "city_id": "11039",
+    "city_name": "Unterbreizbach",
+    "country_code": "de",
+    "federated_state_id": "12",
+    "city_and_state": "Unterbreizbach (Th\u00fcringen)"
+  },
+  {
+    "city_id": "7678",
+    "city_name": "Unterdietfurt",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Unterdietfurt (Bayern)"
+  },
+  {
+    "city_id": "7230",
+    "city_name": "Unterdie\u00dfen",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Unterdie\u00dfen (Bayern)"
+  },
+  {
+    "city_id": "8949",
+    "city_name": "Unteregg",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Unteregg (Bayern)"
+  },
+  {
+    "city_id": "6096",
+    "city_name": "Untereisesheim",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Untereisesheim (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "5940",
+    "city_name": "Unterensingen",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Unterensingen (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "7308",
+    "city_name": "Unterf\u00f6hring",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Unterf\u00f6hring (Bayern)"
+  },
+  {
+    "city_id": "7622",
+    "city_name": "Untergriesbach",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Untergriesbach (Bayern)"
+  },
+  {
+    "city_id": "6097",
+    "city_name": "Untergruppenbach",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Untergruppenbach (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "7309",
+    "city_name": "Unterhaching",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Unterhaching (Bayern)"
+  },
+  {
+    "city_id": "5623",
+    "city_name": "Unterjeckenbach",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Unterjeckenbach (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "11185",
+    "city_name": "Unterkatz",
+    "country_code": "de",
+    "federated_state_id": "12",
+    "city_and_state": "Unterkatz (Th\u00fcringen)"
+  },
+  {
+    "city_id": "6594",
+    "city_name": "Unterkirnach",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Unterkirnach (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "8073",
+    "city_name": "Unterleinleiter",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Unterleinleiter (Bayern)"
+  },
+  {
+    "city_id": "6834",
+    "city_name": "Untermarchtal",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Untermarchtal (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "11186",
+    "city_name": "Unterma\u00dffeld",
+    "country_code": "de",
+    "federated_state_id": "12",
+    "city_and_state": "Unterma\u00dffeld (Th\u00fcringen)"
+  },
+  {
+    "city_id": "8756",
+    "city_name": "Untermeitingen",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Untermeitingen (Bayern)"
+  },
+  {
+    "city_id": "8503",
+    "city_name": "Untermerzbach",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Untermerzbach (Bayern)"
+  },
+  {
+    "city_id": "6142",
+    "city_name": "Unterm\u00fcnkheim",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Unterm\u00fcnkheim (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "7002",
+    "city_name": "Unterneukirchen",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Unterneukirchen (Bayern)"
+  },
+  {
+    "city_id": "8683",
+    "city_name": "Unterpleichfeld",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Unterpleichfeld (Bayern)"
+  },
+  {
+    "city_id": "6383",
+    "city_name": "Unterreichenbach",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Unterreichenbach (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "7279",
+    "city_name": "Unterreit",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Unterreit (Bayern)"
+  },
+  {
+    "city_id": "8838",
+    "city_name": "Unterroth",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Unterroth (Bayern)"
+  },
+  {
+    "city_id": "7310",
+    "city_name": "Unterschlei\u00dfheim",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Unterschlei\u00dfheim (Bayern)"
+  },
+  {
+    "city_id": "6215",
+    "city_name": "Unterschneidheim",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Unterschneidheim (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "8223",
+    "city_name": "Unterschwaningen",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Unterschwaningen (Bayern)"
+  },
+  {
+    "city_id": "11187",
+    "city_name": "Untersch\u00f6nau",
+    "country_code": "de",
+    "federated_state_id": "12",
+    "city_and_state": "Untersch\u00f6nau (Th\u00fcringen)"
+  },
+  {
+    "city_id": "4571",
+    "city_name": "Untershausen",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Untershausen (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "8046",
+    "city_name": "Untersiemau",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Untersiemau (Bayern)"
+  },
+  {
+    "city_id": "9145",
+    "city_name": "Unterspreewald",
+    "country_code": "de",
+    "federated_state_id": "6",
+    "city_and_state": "Unterspreewald (Brandenburg)"
+  },
+  {
+    "city_id": "6835",
+    "city_name": "Unterstadion",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Unterstadion (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "8142",
+    "city_name": "Untersteinach",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Untersteinach (Bayern)"
+  },
+  {
+    "city_id": "8899",
+    "city_name": "Unterthingau",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Unterthingau (Bayern)"
+  },
+  {
+    "city_id": "6836",
+    "city_name": "Unterwachingen",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Unterwachingen (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "6940",
+    "city_name": "Unterwaldhausen",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Unterwaldhausen (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "11188",
+    "city_name": "Unterweid",
+    "country_code": "de",
+    "federated_state_id": "12",
+    "city_and_state": "Unterweid (Th\u00fcringen)"
+  },
+  {
+    "city_id": "11481",
+    "city_name": "Unterwei\u00dfbach",
+    "country_code": "de",
+    "federated_state_id": "12",
+    "city_and_state": "Unterwei\u00dfbach (Th\u00fcringen)"
+  },
+  {
+    "city_id": "11488",
+    "city_name": "Unterwellenborn",
+    "country_code": "de",
+    "federated_state_id": "12",
+    "city_and_state": "Unterwellenborn (Th\u00fcringen)"
+  },
+  {
+    "city_id": "7439",
+    "city_name": "Unterw\u00f6ssen",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Unterw\u00f6ssen (Bayern)"
+  },
+  {
+    "city_id": "8900",
+    "city_name": "Untrasried",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Untrasried (Bayern)"
+  },
+  {
+    "city_id": "4349",
+    "city_name": "Unzenberg",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Unzenberg (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "9947",
+    "city_name": "Upahl",
+    "country_code": "de",
+    "federated_state_id": "14",
+    "city_and_state": "Upahl (Mecklenburg-Vorpommern)"
+  },
+  {
+    "city_id": "2551",
+    "city_name": "Upgant-Schott",
+    "country_code": "de",
+    "federated_state_id": "7",
+    "city_and_state": "Upgant-Schott (Niedersachsen)"
+  },
+  {
+    "city_id": "1052",
+    "city_name": "Uphusum",
+    "country_code": "de",
+    "federated_state_id": "13",
+    "city_and_state": "Uphusum (Schleswig-Holstein)"
+  },
+  {
+    "city_id": "2675",
+    "city_name": "Uplengen",
+    "country_code": "de",
+    "federated_state_id": "7",
+    "city_and_state": "Uplengen (Niedersachsen)"
+  },
+  {
+    "city_id": "4927",
+    "city_name": "Uppershausen",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Uppershausen (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "10997",
+    "city_name": "Urbach",
+    "country_code": "de",
+    "federated_state_id": "12",
+    "city_and_state": "Urbach (Th\u00fcringen)"
+  },
+  {
+    "city_id": "6047",
+    "city_name": "Urbach",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Urbach (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "4350",
+    "city_name": "Urbar",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Urbar (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "4159",
+    "city_name": "Urbar",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Urbar (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "11087",
+    "city_name": "Urleben",
+    "country_code": "de",
+    "federated_state_id": "12",
+    "city_and_state": "Urleben (Th\u00fcringen)"
+  },
+  {
+    "city_id": "4070",
+    "city_name": "Urmersbach",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Urmersbach (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "4160",
+    "city_name": "Urmitz",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Urmitz (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "11040",
+    "city_name": "Urnshausen",
+    "country_code": "de",
+    "federated_state_id": "12",
+    "city_and_state": "Urnshausen (Th\u00fcringen)"
+  },
+  {
+    "city_id": "8792",
+    "city_name": "Ursberg",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Ursberg (Bayern)"
+  },
+  {
+    "city_id": "4071",
+    "city_name": "Urschmitt",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Urschmitt (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "7761",
+    "city_name": "Ursensollen",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Ursensollen (Bayern)"
+  },
+  {
+    "city_id": "8605",
+    "city_name": "Urspringen",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Urspringen (Bayern)"
+  },
+  {
+    "city_id": "4928",
+    "city_name": "Usch",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Usch (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "10080",
+    "city_name": "Usedom",
+    "country_code": "de",
+    "federated_state_id": "14",
+    "city_and_state": "Usedom (Mecklenburg-Vorpommern)"
+  },
+  {
+    "city_id": "9628",
+    "city_name": "Userin",
+    "country_code": "de",
+    "federated_state_id": "14",
+    "city_and_state": "Userin (Mecklenburg-Vorpommern)"
+  },
+  {
+    "city_id": "3237",
+    "city_name": "Usingen",
+    "country_code": "de",
+    "federated_state_id": "10",
+    "city_and_state": "Usingen (Hessen)"
+  },
+  {
+    "city_id": "1912",
+    "city_name": "Uslar",
+    "country_code": "de",
+    "federated_state_id": "7",
+    "city_and_state": "Uslar (Niedersachsen)"
+  },
+  {
+    "city_id": "8757",
+    "city_name": "Ustersbach",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Ustersbach (Bayern)"
+  },
+  {
+    "city_id": "2762",
+    "city_name": "Utarp",
+    "country_code": "de",
+    "federated_state_id": "7",
+    "city_and_state": "Utarp (Niedersachsen)"
+  },
+  {
+    "city_id": "9948",
+    "city_name": "Utecht",
+    "country_code": "de",
+    "federated_state_id": "14",
+    "city_and_state": "Utecht (Mecklenburg-Vorpommern)"
+  },
+  {
+    "city_id": "11189",
+    "city_name": "Utendorf",
+    "country_code": "de",
+    "federated_state_id": "12",
+    "city_and_state": "Utendorf (Th\u00fcringen)"
+  },
+  {
+    "city_id": "1053",
+    "city_name": "Utersum",
+    "country_code": "de",
+    "federated_state_id": "13",
+    "city_and_state": "Utersum (Schleswig-Holstein)"
+  },
+  {
+    "city_id": "4902",
+    "city_name": "Utscheid",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Utscheid (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "8257",
+    "city_name": "Uttenreuth",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Uttenreuth (Bayern)"
+  },
+  {
+    "city_id": "6885",
+    "city_name": "Uttenweiler",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Uttenweiler (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "7231",
+    "city_name": "Utting am Ammersee",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "Utting am Ammersee (Bayern)"
+  },
+  {
+    "city_id": "9629",
+    "city_name": "Utzedel",
+    "country_code": "de",
+    "federated_state_id": "14",
+    "city_and_state": "Utzedel (Mecklenburg-Vorpommern)"
+  },
+  {
+    "city_id": "6682",
+    "city_name": "Utzenfeld",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "Utzenfeld (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "4351",
+    "city_name": "Utzenhain",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Utzenhain (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "5096",
+    "city_name": "Utzerath",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "Utzerath (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "2889",
+    "city_name": "\u00dcbach-Palenberg",
+    "country_code": "de",
+    "federated_state_id": "2",
+    "city_and_state": "\u00dcbach-Palenberg (Nordrhein-Westfalen)"
+  },
+  {
+    "city_id": "4926",
+    "city_name": "\u00dcbereisenbach",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "\u00dcbereisenbach (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "9061",
+    "city_name": "\u00dcberherrn",
+    "country_code": "de",
+    "federated_state_id": "17",
+    "city_and_state": "\u00dcberherrn (Saarland)"
+  },
+  {
+    "city_id": "6910",
+    "city_name": "\u00dcberlingen",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "\u00dcberlingen (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "7438",
+    "city_name": "\u00dcbersee",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "\u00dcbersee (Bayern)"
+  },
+  {
+    "city_id": "8632",
+    "city_name": "\u00dcchtelhausen",
+    "country_code": "de",
+    "federated_state_id": "3",
+    "city_and_state": "\u00dcchtelhausen (Bayern)"
+  },
+  {
+    "city_id": "10078",
+    "city_name": "\u00dcckeritz",
+    "country_code": "de",
+    "federated_state_id": "14",
+    "city_and_state": "\u00dcckeritz (Mecklenburg-Vorpommern)"
+  },
+  {
+    "city_id": "5094",
+    "city_name": "\u00dcdersdorf",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "\u00dcdersdorf (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "6722",
+    "city_name": "\u00dchlingen-Birkendorf",
+    "country_code": "de",
+    "federated_state_id": "4",
+    "city_and_state": "\u00dchlingen-Birkendorf (Baden-W\u00fcrttemberg)"
+  },
+  {
+    "city_id": "4789",
+    "city_name": "\u00dcrzig",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "\u00dcrzig (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "5034",
+    "city_name": "\u00dcttfeld",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "\u00dcttfeld (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "5095",
+    "city_name": "\u00dcxheim",
+    "country_code": "de",
+    "federated_state_id": "16",
+    "city_and_state": "\u00dcxheim (Rheinland-Pfalz)"
+  },
+  {
+    "city_id": "43430",
+    "city_name": "Ubaye-Serre-Pon\u00e7on",
+    "country_code": "fr",
+    "federated_state_id": "115",
+    "city_and_state": "Ubaye-Serre-Pon\u00e7on (Provence-Alpes-C\u00f4te d'Azur)"
+  },
+  {
+    "city_id": "56510",
+    "city_name": "Ubexy",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Ubexy (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "42985",
+    "city_name": "Ubraye",
+    "country_code": "fr",
+    "federated_state_id": "115",
+    "city_and_state": "Ubraye (Provence-Alpes-C\u00f4te d'Azur)"
+  },
+  {
+    "city_id": "43785",
+    "city_name": "Ucciani",
+    "country_code": "fr",
+    "federated_state_id": "120",
+    "city_and_state": "Ucciani (Korsika)"
+  },
+  {
+    "city_id": "82385",
+    "city_name": "Ucel",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Ucel (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "120690",
+    "city_name": "Uchacq-et-Parentis",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Uchacq-et-Parentis (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "146940",
+    "city_name": "Uchaud",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Uchaud (Okzitanien)"
+  },
+  {
+    "city_id": "40610",
+    "city_name": "Uchaux",
+    "country_code": "fr",
+    "federated_state_id": "115",
+    "city_and_state": "Uchaux (Provence-Alpes-C\u00f4te d'Azur)"
+  },
+  {
+    "city_id": "106850",
+    "city_name": "Uchizy",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Uchizy (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "113465",
+    "city_name": "Uchon",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Uchon (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "66075",
+    "city_name": "Udern",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Udern (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "57400",
+    "city_name": "Uffheim",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Uffheim (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "54325",
+    "city_name": "Uffholz",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Uffholz (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "77610",
+    "city_name": "Ugine",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Ugine (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "145350",
+    "city_name": "Uglas",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Uglas (Okzitanien)"
+  },
+  {
+    "city_id": "155950",
+    "city_name": "Ugnouas",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Ugnouas (Okzitanien)"
+  },
+  {
+    "city_id": "54625",
+    "city_name": "Ugny",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Ugny (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "180325",
+    "city_name": "Ugny-l'\u00c9quip\u00e9e",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Ugny-l'\u00c9quip\u00e9e (Nordfrankreich)"
+  },
+  {
+    "city_id": "177020",
+    "city_name": "Ugny-le-Gay",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Ugny-le-Gay (Nordfrankreich)"
+  },
+  {
+    "city_id": "70470",
+    "city_name": "Ugny-sur-Meuse",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Ugny-sur-Meuse (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "126100",
+    "city_name": "Uhart-Cize",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Uhart-Cize (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "131555",
+    "city_name": "Uhart-Mixe",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Uhart-Mixe (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "57080",
+    "city_name": "Uhlweiler",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Uhlweiler (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "61680",
+    "city_name": "Uhrweiler",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Uhrweiler (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "180180",
+    "city_name": "Ully-Saint-Georges",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Ully-Saint-Georges (Nordfrankreich)"
+  },
+  {
+    "city_id": "24560",
+    "city_name": "Umpeau",
+    "country_code": "fr",
+    "federated_state_id": "100",
+    "city_and_state": "Umpeau (Zentrum-Loiretal)"
+  },
+  {
+    "city_id": "152255",
+    "city_name": "Unac",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Unac (Okzitanien)"
+  },
+  {
+    "city_id": "99335",
+    "city_name": "Uncey-le-Franc",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Uncey-le-Franc (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "66655",
+    "city_name": "Unchair",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Unchair (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "52195",
+    "city_name": "Ungersheim",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Ungersheim (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "80470",
+    "city_name": "Unias",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Unias (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "72845",
+    "city_name": "Unienville",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Unienville (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "81910",
+    "city_name": "Unieux",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Unieux (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "23015",
+    "city_name": "Unverre",
+    "country_code": "fr",
+    "federated_state_id": "100",
+    "city_and_state": "Unverre (Zentrum-Loiretal)"
+  },
+  {
+    "city_id": "153215",
+    "city_name": "Unzent",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Unzent (Okzitanien)"
+  },
+  {
+    "city_id": "41965",
+    "city_name": "Upaix",
+    "country_code": "fr",
+    "federated_state_id": "115",
+    "city_and_state": "Upaix (Provence-Alpes-C\u00f4te d'Azur)"
+  },
+  {
+    "city_id": "78700",
+    "city_name": "Upie",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Upie (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "136745",
+    "city_name": "Ur",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Ur (Okzitanien)"
+  },
+  {
+    "city_id": "149310",
+    "city_name": "Urau",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Urau (Okzitanien)"
+  },
+  {
+    "city_id": "52920",
+    "city_name": "Urbach bei Kaysersberg",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Urbach bei Kaysersberg (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "44765",
+    "city_name": "Urbalacone",
+    "country_code": "fr",
+    "federated_state_id": "120",
+    "city_and_state": "Urbalacone (Korsika)"
+  },
+  {
+    "city_id": "157435",
+    "city_name": "Urbanya",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Urbanya (Okzitanien)"
+  },
+  {
+    "city_id": "53215",
+    "city_name": "Urbeis",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Urbeis (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "58735",
+    "city_name": "Urbeis",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Urbeis (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "60550",
+    "city_name": "Urbis",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Urbis (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "90025",
+    "city_name": "Urbise",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Urbise (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "186390",
+    "city_name": "Urcel",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Urcel (Nordfrankreich)"
+  },
+  {
+    "city_id": "97305",
+    "city_name": "Urcerey",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Urcerey (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "25660",
+    "city_name": "Urciers",
+    "country_code": "fr",
+    "federated_state_id": "100",
+    "city_and_state": "Urciers (Zentrum-Loiretal)"
+  },
+  {
+    "city_id": "125735",
+    "city_name": "Urcuit",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Urcuit (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "98695",
+    "city_name": "Urcy",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Urcy (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "141815",
+    "city_name": "Urdens",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Urdens (Okzitanien)"
+  },
+  {
+    "city_id": "132715",
+    "city_name": "Urdos",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Urdos (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "125990",
+    "city_name": "Urd\u00e8s",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Urd\u00e8s (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "126090",
+    "city_name": "Urepel",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Urepel (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "118585",
+    "city_name": "Urgons",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Urgons (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "141810",
+    "city_name": "Urgosse",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Urgosse (Okzitanien)"
+  },
+  {
+    "city_id": "60420",
+    "city_name": "Urim\u00e9nil",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Urim\u00e9nil (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "54065",
+    "city_name": "Urmatt",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Urmatt (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "133195",
+    "city_name": "Urost",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Urost (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "125650",
+    "city_name": "Urrugne",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Urrugne (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "153780",
+    "city_name": "Urs",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Urs (Okzitanien)"
+  },
+  {
+    "city_id": "54320",
+    "city_name": "Urschenheim",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Urschenheim (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "127195",
+    "city_name": "Urt",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Urt (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "43605",
+    "city_name": "Urtaca",
+    "country_code": "fr",
+    "federated_state_id": "120",
+    "city_and_state": "Urtaca (Korsika)"
+  },
+  {
+    "city_id": "110000",
+    "city_name": "Urti\u00e8re",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Urti\u00e8re (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "69860",
+    "city_name": "Uruffe",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Uruffe (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "135315",
+    "city_name": "Urval",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Urval (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "72540",
+    "city_name": "Urville",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Urville (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "164665",
+    "city_name": "Urville",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Urville (Normandie)"
+  },
+  {
+    "city_id": "59495",
+    "city_name": "Urville",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Urville (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "162050",
+    "city_name": "Urville",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Urville (Normandie)"
+  },
+  {
+    "city_id": "177025",
+    "city_name": "Urvillers",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Urvillers (Nordfrankreich)"
+  },
+  {
+    "city_id": "32520",
+    "city_name": "Ury",
+    "country_code": "fr",
+    "federated_state_id": "105",
+    "city_and_state": "Ury (Ile-de-France)"
+  },
+  {
+    "city_id": "104585",
+    "city_name": "Urzy",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Urzy (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "94460",
+    "city_name": "Ur\u00e7ay",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Ur\u00e7ay (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "28815",
+    "city_name": "Us",
+    "country_code": "fr",
+    "federated_state_id": "105",
+    "city_and_state": "Us (Ile-de-France)"
+  },
+  {
+    "city_id": "92755",
+    "city_name": "Usclades-et-Rieutord",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Usclades-et-Rieutord (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "145830",
+    "city_name": "Usclas-d'H\u00e9rault",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Usclas-d'H\u00e9rault (Okzitanien)"
+  },
+  {
+    "city_id": "146195",
+    "city_name": "Usclas-du-Bosc",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Usclas-du-Bosc (Okzitanien)"
+  },
+  {
+    "city_id": "50305",
+    "city_name": "Ushant",
+    "country_code": "fr",
+    "federated_state_id": "125",
+    "city_and_state": "Ushant (Bretagne)"
+  },
+  {
+    "city_id": "79695",
+    "city_name": "Usinens",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Usinens (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "127800",
+    "city_name": "Ussac",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Ussac (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "149110",
+    "city_name": "Ussat",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Ussat (Okzitanien)"
+  },
+  {
+    "city_id": "122560",
+    "city_name": "Usseau",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Usseau (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "139380",
+    "city_name": "Ussel",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Ussel (Okzitanien)"
+  },
+  {
+    "city_id": "93480",
+    "city_name": "Ussel",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Ussel (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "120660",
+    "city_name": "Ussel",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Ussel (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "94230",
+    "city_name": "Ussel-d'Allier",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Ussel-d'Allier (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "89180",
+    "city_name": "Usson",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Usson (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "122565",
+    "city_name": "Usson-du-Poitou",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Usson-du-Poitou (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "90100",
+    "city_name": "Usson-en-Forez",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Usson-en-Forez (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "162055",
+    "city_name": "Ussy",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Ussy (Normandie)"
+  },
+  {
+    "city_id": "31355",
+    "city_name": "Ussy-sur-Marne",
+    "country_code": "fr",
+    "federated_state_id": "105",
+    "city_and_state": "Ussy-sur-Marne (Ile-de-France)"
+  },
+  {
+    "city_id": "125710",
+    "city_name": "Ustaritz",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Ustaritz (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "154200",
+    "city_name": "Ustou",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Ustou (Okzitanien)"
+  },
+  {
+    "city_id": "40895",
+    "city_name": "Utelle",
+    "country_code": "fr",
+    "federated_state_id": "115",
+    "city_and_state": "Utelle (Provence-Alpes-C\u00f4te d'Azur)"
+  },
+  {
+    "city_id": "53315",
+    "city_name": "Uttenheim",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Uttenheim (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "60820",
+    "city_name": "Uttenhoffen",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Uttenhoffen (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "61765",
+    "city_name": "Uttweiler",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Uttweiler (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "40915",
+    "city_name": "Uvernet-Fours",
+    "country_code": "fr",
+    "federated_state_id": "115",
+    "city_and_state": "Uvernet-Fours (Provence-Alpes-C\u00f4te d'Azur)"
+  },
+  {
+    "city_id": "113135",
+    "city_name": "Uxeau",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Uxeau (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "56705",
+    "city_name": "Uxegney",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Uxegney (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "109450",
+    "city_name": "Uxelles",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Uxelles (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "175345",
+    "city_name": "Uxem",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Uxem (Nordfrankreich)"
+  },
+  {
+    "city_id": "155240",
+    "city_name": "Uz",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Uz (Okzitanien)"
+  },
+  {
+    "city_id": "115495",
+    "city_name": "Uza",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Uza (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "134520",
+    "city_name": "Uzan",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Uzan (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "22650",
+    "city_name": "Uzay-le-Venon",
+    "country_code": "fr",
+    "federated_state_id": "100",
+    "city_and_state": "Uzay-le-Venon (Zentrum-Loiretal)"
+  },
+  {
+    "city_id": "139480",
+    "city_name": "Uzech",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Uzech (Okzitanien)"
+  },
+  {
+    "city_id": "131640",
+    "city_name": "Uzein",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Uzein (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "48515",
+    "city_name": "Uzel",
+    "country_code": "fr",
+    "federated_state_id": "125",
+    "city_and_state": "Uzel (Bretagne)"
+  },
+  {
+    "city_id": "100375",
+    "city_name": "Uzelle",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Uzelle (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "60435",
+    "city_name": "Uzemain",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Uzemain (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "93725",
+    "city_name": "Uzer",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Uzer (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "145310",
+    "city_name": "Uzer",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Uzer (Okzitanien)"
+  },
+  {
+    "city_id": "127220",
+    "city_name": "Uzerche",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Uzerche (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "116355",
+    "city_name": "Uzeste",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Uzeste (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "131080",
+    "city_name": "Uzos",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Uzos (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "146910",
+    "city_name": "Uz\u00e8s",
+    "country_code": "fr",
+    "federated_state_id": "175",
+    "city_and_state": "Uz\u00e8s (Okzitanien)"
+  },
+  {
+    "city_id": "388795",
+    "city_name": "Ubieszyn",
+    "country_code": "pl",
+    "federated_state_id": "210",
+    "city_and_state": "Ubieszyn (Woiwodschaft Karpatenvorland)"
+  },
+  {
+    "city_id": "356590",
+    "city_name": "Ublinek",
+    "country_code": "pl",
+    "federated_state_id": "195",
+    "city_and_state": "Ublinek (Woiwodschaft Heiligkreuz)"
+  },
+  {
+    "city_id": "358465",
+    "city_name": "Ubrodowice",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Ubrodowice (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "426330",
+    "city_name": "Ubrze\u017c",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Ubrze\u017c (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "346675",
+    "city_name": "Ubysz\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "195",
+    "city_and_state": "Ubysz\u00f3w (Woiwodschaft Heiligkreuz)"
+  },
+  {
+    "city_id": "363735",
+    "city_name": "Uchanie",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Uchanie (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "363720",
+    "city_name": "Uchanie-Kolonia",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Uchanie-Kolonia (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "364615",
+    "city_name": "Ucha\u0144ka",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Ucha\u0144ka (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "398780",
+    "city_name": "Uchorowo",
+    "country_code": "pl",
+    "federated_state_id": "220",
+    "city_and_state": "Uchorowo (Woiwodschaft Gro\u00dfpolen)"
+  },
+  {
+    "city_id": "415385",
+    "city_name": "Uciech\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "240",
+    "city_and_state": "Uciech\u00f3w (Woiwodschaft Niederschlesien)"
+  },
+  {
+    "city_id": "396980",
+    "city_name": "Uciech\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "220",
+    "city_and_state": "Uciech\u00f3w (Woiwodschaft Gro\u00dfpolen)"
+  },
+  {
+    "city_id": "363260",
+    "city_name": "Uciekajka",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Uciekajka (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "353835",
+    "city_name": "Ucisk\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "195",
+    "city_and_state": "Ucisk\u00f3w (Woiwodschaft Heiligkreuz)"
+  },
+  {
+    "city_id": "359365",
+    "city_name": "Udrycze-Kolonia",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Udrycze-Kolonia (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "359370",
+    "city_name": "Udrycze-Koniec",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Udrycze-Koniec (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "359375",
+    "city_name": "Udrycze-Wola",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Udrycze-Wola (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "435195",
+    "city_name": "Udryn",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "Udryn (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "351835",
+    "city_name": "Udzic\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "195",
+    "city_and_state": "Udzic\u00f3w (Woiwodschaft Heiligkreuz)"
+  },
+  {
+    "city_id": "435090",
+    "city_name": "Udziejek",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "Udziejek (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "418515",
+    "city_name": "Ugoda-Niemierzyn",
+    "country_code": "pl",
+    "federated_state_id": "245",
+    "city_and_state": "Ugoda-Niemierzyn (Woiwodschaft Lodz)"
+  },
+  {
+    "city_id": "369715",
+    "city_name": "Ugory",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Ugory (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "360240",
+    "city_name": "Uher",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Uher (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "392590",
+    "city_name": "Uherce Mineralne",
+    "country_code": "pl",
+    "federated_state_id": "210",
+    "city_and_state": "Uherce Mineralne (Woiwodschaft Karpatenvorland)"
+  },
+  {
+    "city_id": "372595",
+    "city_name": "Uhnin",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Uhnin (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "448840",
+    "city_name": "Uhowo",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "Uhowo (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "372300",
+    "city_name": "Uhrusk",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Uhrusk (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "425720",
+    "city_name": "Uhry\u0144",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Uhry\u0144 (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "427645",
+    "city_name": "Ujanowice",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Ujanowice (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "422060",
+    "city_name": "Ujazd",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Ujazd (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "356730",
+    "city_name": "Ujazd",
+    "country_code": "pl",
+    "federated_state_id": "195",
+    "city_and_state": "Ujazd (Woiwodschaft Heiligkreuz)"
+  },
+  {
+    "city_id": "428480",
+    "city_name": "Ujazd",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Ujazd (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "412600",
+    "city_name": "Ujazd",
+    "country_code": "pl",
+    "federated_state_id": "240",
+    "city_and_state": "Ujazd (Woiwodschaft Niederschlesien)"
+  },
+  {
+    "city_id": "391570",
+    "city_name": "Ujazd",
+    "country_code": "pl",
+    "federated_state_id": "210",
+    "city_and_state": "Ujazd (Woiwodschaft Karpatenvorland)"
+  },
+  {
+    "city_id": "407260",
+    "city_name": "Ujazd Dolny",
+    "country_code": "pl",
+    "federated_state_id": "240",
+    "city_and_state": "Ujazd Dolny (Woiwodschaft Niederschlesien)"
+  },
+  {
+    "city_id": "407265",
+    "city_name": "Ujazd G\u00f3rny",
+    "country_code": "pl",
+    "federated_state_id": "240",
+    "city_and_state": "Ujazd G\u00f3rny (Woiwodschaft Niederschlesien)"
+  },
+  {
+    "city_id": "355185",
+    "city_name": "Ujazdek",
+    "country_code": "pl",
+    "federated_state_id": "195",
+    "city_and_state": "Ujazdek (Woiwodschaft Heiligkreuz)"
+  },
+  {
+    "city_id": "365790",
+    "city_name": "Ujazd\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Ujazd\u00f3w (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "363350",
+    "city_name": "Ujazd\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Ujazd\u00f3w (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "430920",
+    "city_name": "Ujest",
+    "country_code": "pl",
+    "federated_state_id": "255",
+    "city_and_state": "Ujest (Woiwodschaft Oppeln)"
+  },
+  {
+    "city_id": "388540",
+    "city_name": "Ujezna",
+    "country_code": "pl",
+    "federated_state_id": "210",
+    "city_and_state": "Ujezna (Woiwodschaft Karpatenvorland)"
+  },
+  {
+    "city_id": "388970",
+    "city_name": "Ujkowice",
+    "country_code": "pl",
+    "federated_state_id": "210",
+    "city_and_state": "Ujkowice (Woiwodschaft Karpatenvorland)"
+  },
+  {
+    "city_id": "426725",
+    "city_name": "Ujk\u00f3w Nowy",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Ujk\u00f3w Nowy (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "426705",
+    "city_name": "Ujk\u00f3w Stary",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Ujk\u00f3w Stary (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "351285",
+    "city_name": "Ujny",
+    "country_code": "pl",
+    "federated_state_id": "195",
+    "city_and_state": "Ujny (Woiwodschaft Heiligkreuz)"
+  },
+  {
+    "city_id": "414480",
+    "city_name": "Uj\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "240",
+    "city_and_state": "Uj\u00f3w (Woiwodschaft Niederschlesien)"
+  },
+  {
+    "city_id": "366830",
+    "city_name": "Uj\u015bcie",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Uj\u015bcie (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "430400",
+    "city_name": "Uj\u015bcie Jezuickie",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Uj\u015bcie Jezuickie (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "386810",
+    "city_name": "Ulanica",
+    "country_code": "pl",
+    "federated_state_id": "210",
+    "city_and_state": "Ulanica (Woiwodschaft Karpatenvorland)"
+  },
+  {
+    "city_id": "386490",
+    "city_name": "Ulan\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "210",
+    "city_and_state": "Ulan\u00f3w (Woiwodschaft Karpatenvorland)"
+  },
+  {
+    "city_id": "384265",
+    "city_name": "Ulaski Gostomskie",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Ulaski Gostomskie (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "377800",
+    "city_name": "Ulaski Grzmi\u0105ckie",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Ulaski Grzmi\u0105ckie (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "377805",
+    "city_name": "Ulaski Stamirowskie",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Ulaski Stamirowskie (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "407880",
+    "city_name": "Ulbersdorf",
+    "country_code": "pl",
+    "federated_state_id": "240",
+    "city_and_state": "Ulbersdorf (Woiwodschaft Niederschlesien)"
+  },
+  {
+    "city_id": "396325",
+    "city_name": "Ulejno",
+    "country_code": "pl",
+    "federated_state_id": "220",
+    "city_and_state": "Ulejno (Woiwodschaft Gro\u00dfpolen)"
+  },
+  {
+    "city_id": "385005",
+    "city_name": "Uleniec",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Uleniec (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "362325",
+    "city_name": "Ulh\u00f3wek",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Ulh\u00f3wek (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "367395",
+    "city_name": "Ulica Ko\u015bcielna",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Ulica Ko\u015bcielna (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "423815",
+    "city_name": "Ulina Ma\u0142a",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Ulina Ma\u0142a (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "423820",
+    "city_name": "Ulina Wielka",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Ulina Wielka (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "431295",
+    "city_name": "Ullersdorf",
+    "country_code": "pl",
+    "federated_state_id": "255",
+    "city_and_state": "Ullersdorf (Woiwodschaft Oppeln)"
+  },
+  {
+    "city_id": "416090",
+    "city_name": "Ullersdorf",
+    "country_code": "pl",
+    "federated_state_id": "240",
+    "city_and_state": "Ullersdorf (Woiwodschaft Niederschlesien)"
+  },
+  {
+    "city_id": "409675",
+    "city_name": "Ullersdorf-Liebenthal",
+    "country_code": "pl",
+    "federated_state_id": "240",
+    "city_and_state": "Ullersdorf-Liebenthal (Woiwodschaft Niederschlesien)"
+  },
+  {
+    "city_id": "403580",
+    "city_name": "Ulnowo",
+    "country_code": "pl",
+    "federated_state_id": "235",
+    "city_and_state": "Ulnowo (Woiwodschaft Ermland-Masuren)"
+  },
+  {
+    "city_id": "404115",
+    "city_name": "Ulnowo",
+    "country_code": "pl",
+    "federated_state_id": "235",
+    "city_and_state": "Ulnowo (Woiwodschaft Ermland-Masuren)"
+  },
+  {
+    "city_id": "399200",
+    "city_name": "Ulrichsfelde",
+    "country_code": "pl",
+    "federated_state_id": "225",
+    "city_and_state": "Ulrichsfelde (Woiwodschaft Pommern)"
+  },
+  {
+    "city_id": "392385",
+    "city_name": "Ulucz",
+    "country_code": "pl",
+    "federated_state_id": "210",
+    "city_and_state": "Ulucz (Woiwodschaft Karpatenvorland)"
+  },
+  {
+    "city_id": "362975",
+    "city_name": "Ul\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Ul\u00f3w (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "346090",
+    "city_name": "Ul\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "195",
+    "city_and_state": "Ul\u00f3w (Woiwodschaft Heiligkreuz)"
+  },
+  {
+    "city_id": "379070",
+    "city_name": "Ul\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Ul\u00f3w (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "350535",
+    "city_name": "Umer",
+    "country_code": "pl",
+    "federated_state_id": "195",
+    "city_and_state": "Umer (Woiwodschaft Heiligkreuz)"
+  },
+  {
+    "city_id": "353095",
+    "city_name": "Umianowice",
+    "country_code": "pl",
+    "federated_state_id": "195",
+    "city_and_state": "Umianowice (Woiwodschaft Heiligkreuz)"
+  },
+  {
+    "city_id": "381285",
+    "city_name": "Umiast\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Umiast\u00f3w (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "391755",
+    "city_name": "Umieszcz",
+    "country_code": "pl",
+    "federated_state_id": "210",
+    "city_and_state": "Umieszcz (Woiwodschaft Karpatenvorland)"
+  },
+  {
+    "city_id": "419110",
+    "city_name": "Unewel",
+    "country_code": "pl",
+    "federated_state_id": "245",
+    "city_and_state": "Unewel (Woiwodschaft Lodz)"
+  },
+  {
+    "city_id": "451525",
+    "city_name": "Ungarnberg",
+    "country_code": "pl",
+    "federated_state_id": "265",
+    "city_and_state": "Ungarnberg (Woiwodschaft Schlesien)"
+  },
+  {
+    "city_id": "401140",
+    "city_name": "Uniechowo",
+    "country_code": "pl",
+    "federated_state_id": "230",
+    "city_and_state": "Uniechowo (Woiwodschaft Kujawien-Pommern)"
+  },
+  {
+    "city_id": "417305",
+    "city_name": "Uniejow",
+    "country_code": "pl",
+    "federated_state_id": "245",
+    "city_and_state": "Uniejow (Woiwodschaft Lodz)"
+  },
+  {
+    "city_id": "407840",
+    "city_name": "Uniejowice",
+    "country_code": "pl",
+    "federated_state_id": "240",
+    "city_and_state": "Uniejowice (Woiwodschaft Niederschlesien)"
+  },
+  {
+    "city_id": "424080",
+    "city_name": "Uniej\u00f3w-Kolonia",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Uniej\u00f3w-Kolonia (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "424110",
+    "city_name": "Uniej\u00f3w-Parcela",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Uniej\u00f3w-Parcela (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "424125",
+    "city_name": "Uniej\u00f3w-R\u0119dziny",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Uniej\u00f3w-R\u0119dziny (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "353330",
+    "city_name": "Unik\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "195",
+    "city_and_state": "Unik\u00f3w (Woiwodschaft Heiligkreuz)"
+  },
+  {
+    "city_id": "429525",
+    "city_name": "Uniszowa",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Uniszowa (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "357230",
+    "city_name": "Uniszowice",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Uniszowice (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "401265",
+    "city_name": "Unis\u0142aw",
+    "country_code": "pl",
+    "federated_state_id": "230",
+    "city_and_state": "Unis\u0142aw (Woiwodschaft Kujawien-Pommern)"
+  },
+  {
+    "city_id": "394790",
+    "city_name": "Unruhstadt",
+    "country_code": "pl",
+    "federated_state_id": "215",
+    "city_and_state": "Unruhstadt (Woiwodschaft Lebus)"
+  },
+  {
+    "city_id": "395845",
+    "city_name": "Unterberg",
+    "country_code": "pl",
+    "federated_state_id": "220",
+    "city_and_state": "Unterberg (Woiwodschaft Gro\u00dfpolen)"
+  },
+  {
+    "city_id": "424700",
+    "city_name": "Unterb\u00e4renwald",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Unterb\u00e4renwald (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "424710",
+    "city_name": "Untergletschdorf",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Untergletschdorf (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "426000",
+    "city_name": "Untergletscher",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Untergletscher (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "425855",
+    "city_name": "Unterlapsch",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Unterlapsch (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "429250",
+    "city_name": "Unterlossendorf",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Unterlossendorf (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "451695",
+    "city_name": "Unterwalde in Beskiden",
+    "country_code": "pl",
+    "federated_state_id": "265",
+    "city_and_state": "Unterwalde in Beskiden (Woiwodschaft Schlesien)"
+  },
+  {
+    "city_id": "417590",
+    "city_name": "Urbanice",
+    "country_code": "pl",
+    "federated_state_id": "245",
+    "city_and_state": "Urbanice (Woiwodschaft Lodz)"
+  },
+  {
+    "city_id": "409260",
+    "city_name": "Urbanstreben",
+    "country_code": "pl",
+    "federated_state_id": "240",
+    "city_and_state": "Urbanstreben (Woiwodschaft Niederschlesien)"
+  },
+  {
+    "city_id": "375640",
+    "city_name": "Urban\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Urban\u00f3w (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "374865",
+    "city_name": "Urle",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Urle (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "396165",
+    "city_name": "Urniszewo",
+    "country_code": "pl",
+    "federated_state_id": "220",
+    "city_and_state": "Urniszewo (Woiwodschaft Gro\u00dfpolen)"
+  },
+  {
+    "city_id": "416315",
+    "city_name": "Urnitz",
+    "country_code": "pl",
+    "federated_state_id": "240",
+    "city_and_state": "Urnitz (Woiwodschaft Niederschlesien)"
+  },
+  {
+    "city_id": "402290",
+    "city_name": "Urowo",
+    "country_code": "pl",
+    "federated_state_id": "235",
+    "city_and_state": "Urowo (Woiwodschaft Ermland-Masuren)"
+  },
+  {
+    "city_id": "410945",
+    "city_name": "Urschkau",
+    "country_code": "pl",
+    "federated_state_id": "240",
+    "city_and_state": "Urschkau (Woiwodschaft Niederschlesien)"
+  },
+  {
+    "city_id": "374925",
+    "city_name": "Ursyn\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Ursyn\u00f3w (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "401145",
+    "city_name": "Urszulewo",
+    "country_code": "pl",
+    "federated_state_id": "230",
+    "city_and_state": "Urszulewo (Woiwodschaft Kujawien-Pommern)"
+  },
+  {
+    "city_id": "368230",
+    "city_name": "Urszulin",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Urszulin (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "373310",
+    "city_name": "Urszulin",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Urszulin (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "375190",
+    "city_name": "Urszulin",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Urszulin (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "358930",
+    "city_name": "Urszulin",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Urszulin (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "360685",
+    "city_name": "Urszulin",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Urszulin (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "388580",
+    "city_name": "Urzejowice",
+    "country_code": "pl",
+    "federated_state_id": "210",
+    "city_and_state": "Urzejowice (Woiwodschaft Karpatenvorland)"
+  },
+  {
+    "city_id": "380875",
+    "city_name": "Urzut",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Urzut (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "352495",
+    "city_name": "Urzuty",
+    "country_code": "pl",
+    "federated_state_id": "195",
+    "city_and_state": "Urzuty (Woiwodschaft Heiligkreuz)"
+  },
+  {
+    "city_id": "370645",
+    "city_name": "Urz\u0105dk\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Urz\u0105dk\u00f3w (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "367550",
+    "city_name": "Urz\u0119d\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "Urz\u0119d\u00f3w (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "356540",
+    "city_name": "Usarz\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "195",
+    "city_and_state": "Usarz\u00f3w (Woiwodschaft Heiligkreuz)"
+  },
+  {
+    "city_id": "408570",
+    "city_name": "Uskorz Ma\u0142y",
+    "country_code": "pl",
+    "federated_state_id": "240",
+    "city_and_state": "Uskorz Ma\u0142y (Woiwodschaft Niederschlesien)"
+  },
+  {
+    "city_id": "408575",
+    "city_name": "Uskorz Wielki",
+    "country_code": "pl",
+    "federated_state_id": "240",
+    "city_and_state": "Uskorz Wielki (Woiwodschaft Niederschlesien)"
+  },
+  {
+    "city_id": "439195",
+    "city_name": "Usnarz G\u00f3rny",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "Usnarz G\u00f3rny (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "382450",
+    "city_name": "Ustan\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Ustan\u00f3w (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "400605",
+    "city_name": "Ustarbowo",
+    "country_code": "pl",
+    "federated_state_id": "225",
+    "city_and_state": "Ustarbowo (Woiwodschaft Pommern)"
+  },
+  {
+    "city_id": "387930",
+    "city_name": "Ustjanowa Dolna",
+    "country_code": "pl",
+    "federated_state_id": "210",
+    "city_and_state": "Ustjanowa Dolna (Woiwodschaft Karpatenvorland)"
+  },
+  {
+    "city_id": "387935",
+    "city_name": "Ustjanowa G\u00f3rna",
+    "country_code": "pl",
+    "federated_state_id": "210",
+    "city_and_state": "Ustjanowa G\u00f3rna (Woiwodschaft Karpatenvorland)"
+  },
+  {
+    "city_id": "394230",
+    "city_name": "Ustrobna",
+    "country_code": "pl",
+    "federated_state_id": "210",
+    "city_and_state": "Ustrobna (Woiwodschaft Karpatenvorland)"
+  },
+  {
+    "city_id": "450495",
+    "city_name": "Ustron",
+    "country_code": "pl",
+    "federated_state_id": "265",
+    "city_and_state": "Ustron (Woiwodschaft Schlesien)"
+  },
+  {
+    "city_id": "409410",
+    "city_name": "Ustronie",
+    "country_code": "pl",
+    "federated_state_id": "240",
+    "city_and_state": "Ustronie (Woiwodschaft Niederschlesien)"
+  },
+  {
+    "city_id": "411060",
+    "city_name": "Ustronie",
+    "country_code": "pl",
+    "federated_state_id": "240",
+    "city_and_state": "Ustronie (Woiwodschaft Niederschlesien)"
+  },
+  {
+    "city_id": "386470",
+    "city_name": "Ustrzyki Dolne",
+    "country_code": "pl",
+    "federated_state_id": "210",
+    "city_and_state": "Ustrzyki Dolne (Woiwodschaft Karpatenvorland)"
+  },
+  {
+    "city_id": "387450",
+    "city_name": "Ustrzyki G\u00f3rne",
+    "country_code": "pl",
+    "federated_state_id": "210",
+    "city_and_state": "Ustrzyki G\u00f3rne (Woiwodschaft Karpatenvorland)"
+  },
+  {
+    "city_id": "406895",
+    "city_name": "Usza",
+    "country_code": "pl",
+    "federated_state_id": "240",
+    "city_and_state": "Usza (Woiwodschaft Niederschlesien)"
+  },
+  {
+    "city_id": "445315",
+    "city_name": "Usza Ma\u0142a",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "Usza Ma\u0142a (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "445320",
+    "city_name": "Usza Wielka",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "Usza Wielka (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "428890",
+    "city_name": "Uszew",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "Uszew (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "375405",
+    "city_name": "Utniki",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Utniki (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "396860",
+    "city_name": "Utrata",
+    "country_code": "pl",
+    "federated_state_id": "220",
+    "city_and_state": "Utrata (Woiwodschaft Gro\u00dfpolen)"
+  },
+  {
+    "city_id": "409255",
+    "city_name": "Uttig",
+    "country_code": "pl",
+    "federated_state_id": "240",
+    "city_and_state": "Uttig (Woiwodschaft Niederschlesien)"
+  },
+  {
+    "city_id": "382455",
+    "city_name": "Uwieliny",
+    "country_code": "pl",
+    "federated_state_id": "205",
+    "city_and_state": "Uwieliny (Woiwodschaft Masowien)"
+  },
+  {
+    "city_id": "398055",
+    "city_name": "Uzarzewo",
+    "country_code": "pl",
+    "federated_state_id": "220",
+    "city_and_state": "Uzarzewo (Woiwodschaft Gro\u00dfpolen)"
+  },
+  {
+    "city_id": "398080",
+    "city_name": "Uzarzewo-Huby",
+    "country_code": "pl",
+    "federated_state_id": "220",
+    "city_and_state": "Uzarzewo-Huby (Woiwodschaft Gro\u00dfpolen)"
+  },
+  {
+    "city_id": "355920",
+    "city_name": "U\u0142anowice",
+    "country_code": "pl",
+    "federated_state_id": "195",
+    "city_and_state": "U\u0142anowice (Woiwodschaft Heiligkreuz)"
+  },
+  {
+    "city_id": "387170",
+    "city_name": "U\u0142az\u00f3w",
+    "country_code": "pl",
+    "federated_state_id": "210",
+    "city_and_state": "U\u0142az\u00f3w (Woiwodschaft Karpatenvorland)"
+  },
+  {
+    "city_id": "359555",
+    "city_name": "U\u0142\u0119\u017c",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "U\u0142\u0119\u017c (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "440505",
+    "city_name": "U\u015bcianek",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "U\u015bcianek (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "437720",
+    "city_name": "U\u015bcianki",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "U\u015bcianki (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "440875",
+    "city_name": "U\u015bcianki",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "U\u015bcianki (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "425325",
+    "city_name": "U\u015bcie Gorlickie",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "U\u015bcie Gorlickie (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "428595",
+    "city_name": "U\u015bcie Solne",
+    "country_code": "pl",
+    "federated_state_id": "250",
+    "city_and_state": "U\u015bcie Solne (Woiwodschaft Kleinpolen)"
+  },
+  {
+    "city_id": "352465",
+    "city_name": "U\u015bciszowice",
+    "country_code": "pl",
+    "federated_state_id": "195",
+    "city_and_state": "U\u015bciszowice (Woiwodschaft Heiligkreuz)"
+  },
+  {
+    "city_id": "370460",
+    "city_name": "U\u015bci\u0105\u017c",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "U\u015bci\u0105\u017c (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "370465",
+    "city_name": "U\u015bci\u0105\u017c-Kolonia",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "U\u015bci\u0105\u017c-Kolonia (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "364715",
+    "city_name": "U\u015bmierz",
+    "country_code": "pl",
+    "federated_state_id": "200",
+    "city_and_state": "U\u015bmierz (Woiwodschaft Lublin)"
+  },
+  {
+    "city_id": "447195",
+    "city_name": "U\u015bnik",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "U\u015bnik (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "447200",
+    "city_name": "U\u015bnik-Dw\u00f3r",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "U\u015bnik-Dw\u00f3r (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "447205",
+    "city_name": "U\u015bnik-Kolonia",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "U\u015bnik-Kolonia (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "404950",
+    "city_name": "U\u017cbale",
+    "country_code": "pl",
+    "federated_state_id": "235",
+    "city_and_state": "U\u017cbale (Woiwodschaft Ermland-Masuren)"
+  },
+  {
+    "city_id": "432735",
+    "city_name": "U\u017cmauda",
+    "country_code": "pl",
+    "federated_state_id": "260",
+    "city_and_state": "U\u017cmauda (Woiwodschaft Podlachien)"
+  },
+  {
+    "city_id": "462982",
+    "city_name": "Ublo",
+    "country_code": "cz",
+    "federated_state_id": "302",
+    "city_and_state": "Ublo (Mittelm\u00e4hren)"
+  },
+  {
+    "city_id": "467597",
+    "city_name": "Ubu\u0161\u00ednek",
+    "country_code": "cz",
+    "federated_state_id": "307",
+    "city_and_state": "Ubu\u0161\u00ednek (S\u00fcdosten)"
+  },
+  {
+    "city_id": "489542",
+    "city_name": "Udwitz",
+    "country_code": "cz",
+    "federated_state_id": "332",
+    "city_and_state": "Udwitz (Nordwesten)"
+  },
+  {
+    "city_id": "465512",
+    "city_name": "Uheln\u00e1 P\u0159\u00edbram",
+    "country_code": "cz",
+    "federated_state_id": "307",
+    "city_and_state": "Uheln\u00e1 P\u0159\u00edbram (S\u00fcdosten)"
+  },
+  {
+    "city_id": "480762",
+    "city_name": "Uhersko",
+    "country_code": "cz",
+    "federated_state_id": "322",
+    "city_and_state": "Uhersko (Nordosten)"
+  },
+  {
+    "city_id": "463847",
+    "city_name": "Uher\u010dice",
+    "country_code": "cz",
+    "federated_state_id": "307",
+    "city_and_state": "Uher\u010dice (S\u00fcdosten)"
+  },
+  {
+    "city_id": "484547",
+    "city_name": "Uhl\u00ed\u0159sk\u00e1 Lhota",
+    "country_code": "cz",
+    "federated_state_id": "327",
+    "city_and_state": "Uhl\u00ed\u0159sk\u00e1 Lhota (Mittelb\u00f6hmen)"
+  },
+  {
+    "city_id": "484052",
+    "city_name": "Uhy",
+    "country_code": "cz",
+    "federated_state_id": "327",
+    "city_and_state": "Uhy (Mittelb\u00f6hmen)"
+  },
+  {
+    "city_id": "469542",
+    "city_name": "Uh\u0159ice",
+    "country_code": "cz",
+    "federated_state_id": "307",
+    "city_and_state": "Uh\u0159ice (S\u00fcdosten)"
+  },
+  {
+    "city_id": "464937",
+    "city_name": "Uh\u0159ice",
+    "country_code": "cz",
+    "federated_state_id": "307",
+    "city_and_state": "Uh\u0159ice (S\u00fcdosten)"
+  },
+  {
+    "city_id": "460922",
+    "city_name": "Uh\u0159ice",
+    "country_code": "cz",
+    "federated_state_id": "302",
+    "city_and_state": "Uh\u0159ice (Mittelm\u00e4hren)"
+  },
+  {
+    "city_id": "469587",
+    "city_name": "Uh\u0159ice",
+    "country_code": "cz",
+    "federated_state_id": "307",
+    "city_and_state": "Uh\u0159ice (S\u00fcdosten)"
+  },
+  {
+    "city_id": "461387",
+    "city_name": "Uh\u0159i\u010dice",
+    "country_code": "cz",
+    "federated_state_id": "302",
+    "city_and_state": "Uh\u0159i\u010dice (Mittelm\u00e4hren)"
+  },
+  {
+    "city_id": "463472",
+    "city_name": "Uh\u0159\u00ednov",
+    "country_code": "cz",
+    "federated_state_id": "307",
+    "city_and_state": "Uh\u0159\u00ednov (S\u00fcdosten)"
+  },
+  {
+    "city_id": "488987",
+    "city_name": "Uitwa",
+    "country_code": "cz",
+    "federated_state_id": "332",
+    "city_and_state": "Uitwa (Nordwesten)"
+  },
+  {
+    "city_id": "467462",
+    "city_name": "Uj\u010dov",
+    "country_code": "cz",
+    "federated_state_id": "307",
+    "city_and_state": "Uj\u010dov (S\u00fcdosten)"
+  },
+  {
+    "city_id": "475277",
+    "city_name": "Ullitz",
+    "country_code": "cz",
+    "federated_state_id": "312",
+    "city_and_state": "Ullitz (S\u00fcdwesten)"
+  },
+  {
+    "city_id": "461107",
+    "city_name": "Ungarisch Brod",
+    "country_code": "cz",
+    "federated_state_id": "302",
+    "city_and_state": "Ungarisch Brod (Mittelm\u00e4hren)"
+  },
+  {
+    "city_id": "461012",
+    "city_name": "Ungarisch Hradisch",
+    "country_code": "cz",
+    "federated_state_id": "302",
+    "city_and_state": "Ungarisch Hradisch (Mittelm\u00e4hren)"
+  },
+  {
+    "city_id": "461112",
+    "city_name": "Ungarisch Ostra",
+    "country_code": "cz",
+    "federated_state_id": "302",
+    "city_and_state": "Ungarisch Ostra (Mittelm\u00e4hren)"
+  },
+  {
+    "city_id": "464287",
+    "city_name": "Ungarschitz",
+    "country_code": "cz",
+    "federated_state_id": "307",
+    "city_and_state": "Ungarschitz (S\u00fcdosten)"
+  },
+  {
+    "city_id": "484057",
+    "city_name": "Unhoscht",
+    "country_code": "cz",
+    "federated_state_id": "327",
+    "city_and_state": "Unhoscht (Mittelb\u00f6hmen)"
+  },
+  {
+    "city_id": "468287",
+    "city_name": "Unkovice",
+    "country_code": "cz",
+    "federated_state_id": "307",
+    "city_and_state": "Unkovice (S\u00fcdosten)"
+  },
+  {
+    "city_id": "474452",
+    "city_name": "Unola",
+    "country_code": "cz",
+    "federated_state_id": "312",
+    "city_and_state": "Unola (S\u00fcdwesten)"
+  },
+  {
+    "city_id": "487227",
+    "city_name": "Unter Berschkowitz",
+    "country_code": "cz",
+    "federated_state_id": "327",
+    "city_and_state": "Unter Berschkowitz (Mittelb\u00f6hmen)"
+  },
+  {
+    "city_id": "467007",
+    "city_name": "Unter Bojanowitz",
+    "country_code": "cz",
+    "federated_state_id": "307",
+    "city_and_state": "Unter Bojanowitz (S\u00fcdosten)"
+  },
+  {
+    "city_id": "486852",
+    "city_name": "Unter Breschan",
+    "country_code": "cz",
+    "federated_state_id": "327",
+    "city_and_state": "Unter Breschan (Mittelb\u00f6hmen)"
+  },
+  {
+    "city_id": "467902",
+    "city_name": "Unter Herschmanitz",
+    "country_code": "cz",
+    "federated_state_id": "307",
+    "city_and_state": "Unter Herschmanitz (S\u00fcdosten)"
+  },
+  {
+    "city_id": "478732",
+    "city_name": "Unter Lochow",
+    "country_code": "cz",
+    "federated_state_id": "322",
+    "city_and_state": "Unter Lochow (Nordosten)"
+  },
+  {
+    "city_id": "488882",
+    "city_name": "Unter Neugr\u00fcn",
+    "country_code": "cz",
+    "federated_state_id": "332",
+    "city_and_state": "Unter Neugr\u00fcn (Nordwesten)"
+  },
+  {
+    "city_id": "488917",
+    "city_name": "Unter Reichenau",
+    "country_code": "cz",
+    "federated_state_id": "332",
+    "city_and_state": "Unter Reichenau (Nordwesten)"
+  },
+  {
+    "city_id": "487137",
+    "city_name": "Unter Simorsch",
+    "country_code": "cz",
+    "federated_state_id": "327",
+    "city_and_state": "Unter Simorsch (Mittelb\u00f6hmen)"
+  },
+  {
+    "city_id": "466387",
+    "city_name": "Unter Tannowitz",
+    "country_code": "cz",
+    "federated_state_id": "307",
+    "city_and_state": "Unter Tannowitz (S\u00fcdosten)"
+  },
+  {
+    "city_id": "467282",
+    "city_name": "Unter Wisternitz",
+    "country_code": "cz",
+    "federated_state_id": "307",
+    "city_and_state": "Unter Wisternitz (S\u00fcdosten)"
+  },
+  {
+    "city_id": "461487",
+    "city_name": "Unter-Heinzendorf",
+    "country_code": "cz",
+    "federated_state_id": "302",
+    "city_and_state": "Unter-Heinzendorf (Mittelm\u00e4hren)"
+  },
+  {
+    "city_id": "474927",
+    "city_name": "Unter-Radisch",
+    "country_code": "cz",
+    "federated_state_id": "312",
+    "city_and_state": "Unter-Radisch (S\u00fcdwesten)"
+  },
+  {
+    "city_id": "486567",
+    "city_name": "Unter-Stakor",
+    "country_code": "cz",
+    "federated_state_id": "327",
+    "city_and_state": "Unter-Stakor (Mittelb\u00f6hmen)"
+  },
+  {
+    "city_id": "483212",
+    "city_name": "Unterbautzen",
+    "country_code": "cz",
+    "federated_state_id": "327",
+    "city_and_state": "Unterbautzen (Mittelb\u00f6hmen)"
+  },
+  {
+    "city_id": "473387",
+    "city_name": "Unterhaid",
+    "country_code": "cz",
+    "federated_state_id": "312",
+    "city_and_state": "Unterhaid (S\u00fcdwesten)"
+  },
+  {
+    "city_id": "486037",
+    "city_name": "Unterholz",
+    "country_code": "cz",
+    "federated_state_id": "327",
+    "city_and_state": "Unterholz (Mittelb\u00f6hmen)"
+  },
+  {
+    "city_id": "472777",
+    "city_name": "Unterreichenstein",
+    "country_code": "cz",
+    "federated_state_id": "312",
+    "city_and_state": "Unterreichenstein (S\u00fcdwesten)"
+  },
+  {
+    "city_id": "488722",
+    "city_name": "Untersandau",
+    "country_code": "cz",
+    "federated_state_id": "332",
+    "city_and_state": "Untersandau (Nordwesten)"
+  },
+  {
+    "city_id": "483187",
+    "city_name": "Untersliwno",
+    "country_code": "cz",
+    "federated_state_id": "327",
+    "city_and_state": "Untersliwno (Mittelb\u00f6hmen)"
+  },
+  {
+    "city_id": "467562",
+    "city_name": "Un\u010d\u00edn",
+    "country_code": "cz",
+    "federated_state_id": "307",
+    "city_and_state": "Un\u010d\u00edn (S\u00fcdosten)"
+  },
+  {
+    "city_id": "467162",
+    "city_name": "Urbanov",
+    "country_code": "cz",
+    "federated_state_id": "307",
+    "city_and_state": "Urbanov (S\u00fcdosten)"
+  },
+  {
+    "city_id": "465207",
+    "city_name": "Urbau",
+    "country_code": "cz",
+    "federated_state_id": "307",
+    "city_and_state": "Urbau (S\u00fcdosten)"
+  },
+  {
+    "city_id": "461757",
+    "city_name": "Ur\u010dice",
+    "country_code": "cz",
+    "federated_state_id": "302",
+    "city_and_state": "Ur\u010dice (Mittelm\u00e4hren)"
+  },
+  {
+    "city_id": "474167",
+    "city_name": "Uzenice",
+    "country_code": "cz",
+    "federated_state_id": "312",
+    "city_and_state": "Uzenice (S\u00fcdwesten)"
+  },
+  {
+    "city_id": "474082",
+    "city_name": "Uzeni\u010dky",
+    "country_code": "cz",
+    "federated_state_id": "312",
+    "city_and_state": "Uzeni\u010dky (S\u00fcdwesten)"
+  },
+  {
+    "city_id": "454387",
+    "city_name": "Uccle - Ukkel",
+    "country_code": "be",
+    "federated_state_id": "272",
+    "city_and_state": "Uccle - Ukkel (Belgien)"
+  },
+  {
+    "city_id": "452822",
+    "city_name": "Uden",
+    "country_code": "nl",
+    "federated_state_id": "81",
+    "city_and_state": "Uden (Noord-Brabant)"
+  },
+  {
+    "city_id": "452397",
+    "city_name": "Uitgeest",
+    "country_code": "nl",
+    "federated_state_id": "82",
+    "city_and_state": "Uitgeest (Nordholland)"
+  },
+  {
+    "city_id": "452472",
+    "city_name": "Uithoorn",
+    "country_code": "nl",
+    "federated_state_id": "82",
+    "city_and_state": "Uithoorn (Nordholland)"
+  },
+  {
+    "city_id": "451892",
+    "city_name": "Urk",
+    "country_code": "nl",
+    "federated_state_id": "76",
+    "city_and_state": "Urk (Flevoland)"
+  },
+  {
+    "city_id": "452587",
+    "city_name": "Utrechtse Heuvelrug",
+    "country_code": "nl",
+    "federated_state_id": "85",
+    "city_and_state": "Utrechtse Heuvelrug (Utrecht)"
+  },
+  {
+    "city_id": "310",
+    "city_name": "Utrecht",
+    "country_code": "nl",
+    "federated_state_id": "85",
+    "city_and_state": "Utrecht (Utrecht)"
+  },
+  {
+    "city_id": "14495",
+    "city_name": "Uderns",
+    "country_code": "at",
+    "federated_state_id": "26",
+    "city_and_state": "Uderns (Tirol)"
+  },
+  {
+    "city_id": "13662",
+    "city_name": "Ulrichsberg",
+    "country_code": "at",
+    "federated_state_id": "23",
+    "city_and_state": "Ulrichsberg (Ober\u00f6sterreich)"
+  },
+  {
+    "city_id": "13130",
+    "city_name": "Ulrichskirchen-Schleinbach",
+    "country_code": "at",
+    "federated_state_id": "22",
+    "city_and_state": "Ulrichskirchen-Schleinbach (Nieder\u00f6sterreich)"
+  },
+  {
+    "city_id": "14245",
+    "city_name": "Umhausen",
+    "country_code": "at",
+    "federated_state_id": "26",
+    "city_and_state": "Umhausen (Tirol)"
+  },
+  {
+    "city_id": "13784",
+    "city_name": "Ungenach",
+    "country_code": "at",
+    "federated_state_id": "23",
+    "city_and_state": "Ungenach (Ober\u00f6sterreich)"
+  },
+  {
+    "city_id": "13931",
+    "city_name": "Unken",
+    "country_code": "at",
+    "federated_state_id": "24",
+    "city_and_state": "Unken (Salzburg)"
+  },
+  {
+    "city_id": "12948",
+    "city_name": "Unserfrau-Altweitra",
+    "country_code": "at",
+    "federated_state_id": "22",
+    "city_and_state": "Unserfrau-Altweitra (Nieder\u00f6sterreich)"
+  },
+  {
+    "city_id": "13785",
+    "city_name": "Unterach am Attersee",
+    "country_code": "at",
+    "federated_state_id": "23",
+    "city_and_state": "Unterach am Attersee (Ober\u00f6sterreich)"
+  },
+  {
+    "city_id": "12634",
+    "city_name": "Unterfrauenhaid",
+    "country_code": "at",
+    "federated_state_id": "20",
+    "city_and_state": "Unterfrauenhaid (Burgenland)"
+  },
+  {
+    "city_id": "12665",
+    "city_name": "Unterkohlst\u00e4tten",
+    "country_code": "at",
+    "federated_state_id": "20",
+    "city_and_state": "Unterkohlst\u00e4tten (Burgenland)"
+  },
+  {
+    "city_id": "14176",
+    "city_name": "Unterlamm",
+    "country_code": "at",
+    "federated_state_id": "25",
+    "city_and_state": "Unterlamm (Steiermark)"
+  },
+  {
+    "city_id": "13906",
+    "city_name": "Unternberg",
+    "country_code": "at",
+    "federated_state_id": "24",
+    "city_and_state": "Unternberg (Salzburg)"
+  },
+  {
+    "city_id": "14305",
+    "city_name": "Unterperfuss",
+    "country_code": "at",
+    "federated_state_id": "26",
+    "city_and_state": "Unterperfuss (Tirol)"
+  },
+  {
+    "city_id": "12635",
+    "city_name": "Unterrabnitz-Schwendgraben",
+    "country_code": "at",
+    "federated_state_id": "20",
+    "city_and_state": "Unterrabnitz-Schwendgraben (Burgenland)"
+  },
+  {
+    "city_id": "12925",
+    "city_name": "Untersiebenbrunn",
+    "country_code": "at",
+    "federated_state_id": "22",
+    "city_and_state": "Untersiebenbrunn (Nieder\u00f6sterreich)"
+  },
+  {
+    "city_id": "13131",
+    "city_name": "Unterstinkenbrunn",
+    "country_code": "at",
+    "federated_state_id": "22",
+    "city_and_state": "Unterstinkenbrunn (Nieder\u00f6sterreich)"
+  },
+  {
+    "city_id": "13890",
+    "city_name": "Untertauern",
+    "country_code": "at",
+    "federated_state_id": "24",
+    "city_and_state": "Untertauern (Salzburg)"
+  },
+  {
+    "city_id": "14424",
+    "city_name": "Untertilliach",
+    "country_code": "at",
+    "federated_state_id": "26",
+    "city_and_state": "Untertilliach (Tirol)"
+  },
+  {
+    "city_id": "12666",
+    "city_name": "Unterwart",
+    "country_code": "at",
+    "federated_state_id": "20",
+    "city_and_state": "Unterwart (Burgenland)"
+  },
+  {
+    "city_id": "13456",
+    "city_name": "Unterweitersdorf",
+    "country_code": "at",
+    "federated_state_id": "23",
+    "city_and_state": "Unterweitersdorf (Ober\u00f6sterreich)"
+  },
+  {
+    "city_id": "13455",
+    "city_name": "Unterwei\u00dfenbach",
+    "country_code": "at",
+    "federated_state_id": "23",
+    "city_and_state": "Unterwei\u00dfenbach (Ober\u00f6sterreich)"
+  },
+  {
+    "city_id": "14148",
+    "city_name": "Unzmarkt-Frauenburg",
+    "country_code": "at",
+    "federated_state_id": "25",
+    "city_and_state": "Unzmarkt-Frauenburg (Steiermark)"
+  },
+  {
+    "city_id": "13932",
+    "city_name": "Uttendorf",
+    "country_code": "at",
+    "federated_state_id": "24",
+    "city_and_state": "Uttendorf (Salzburg)"
+  },
+  {
+    "city_id": "13619",
+    "city_name": "Utzenaich",
+    "country_code": "at",
+    "federated_state_id": "23",
+    "city_and_state": "Utzenaich (Ober\u00f6sterreich)"
+  },
+  {
+    "city_id": "16094",
+    "city_name": "Udligenswil",
+    "country_code": "ch",
+    "federated_state_id": "32",
+    "city_and_state": "Udligenswil (Luzern)"
+  },
+  {
+    "city_id": "15797",
+    "city_name": "Ueberstorf",
+    "country_code": "ch",
+    "federated_state_id": "39",
+    "city_and_state": "Ueberstorf (Freiburg)"
+  },
+  {
+    "city_id": "15630",
+    "city_name": "Uebeschi",
+    "country_code": "ch",
+    "federated_state_id": "31",
+    "city_and_state": "Uebeschi (Bern)"
+  },
+  {
+    "city_id": "15180",
+    "city_name": "Ueken",
+    "country_code": "ch",
+    "federated_state_id": "48",
+    "city_and_state": "Ueken (Aargau)"
+  },
+  {
+    "city_id": "15181",
+    "city_name": "Uerkheim",
+    "country_code": "ch",
+    "federated_state_id": "48",
+    "city_and_state": "Uerkheim (Aargau)"
+  },
+  {
+    "city_id": "16465",
+    "city_name": "Uesslingen-Buch",
+    "country_code": "ch",
+    "federated_state_id": "49",
+    "city_and_state": "Uesslingen-Buch (Thurgau)"
+  },
+  {
+    "city_id": "15631",
+    "city_name": "Uetendorf",
+    "country_code": "ch",
+    "federated_state_id": "31",
+    "city_and_state": "Uetendorf (Bern)"
+  },
+  {
+    "city_id": "17195",
+    "city_name": "Uetikon am See",
+    "country_code": "ch",
+    "federated_state_id": "30",
+    "city_and_state": "Uetikon am See (Z\u00fcrich)"
+  },
+  {
+    "city_id": "15182",
+    "city_name": "Uezwil",
+    "country_code": "ch",
+    "federated_state_id": "48",
+    "city_and_state": "Uezwil (Aargau)"
+  },
+  {
+    "city_id": "16095",
+    "city_name": "Ufhusen",
+    "country_code": "ch",
+    "federated_state_id": "32",
+    "city_and_state": "Ufhusen (Luzern)"
+  },
+  {
+    "city_id": "17196",
+    "city_name": "Uitikon",
+    "country_code": "ch",
+    "federated_state_id": "30",
+    "city_and_state": "Uitikon (Z\u00fcrich)"
+  },
+  {
+    "city_id": "15798",
+    "city_name": "Ulmiz",
+    "country_code": "ch",
+    "federated_state_id": "39",
+    "city_and_state": "Ulmiz (Freiburg)"
+  },
+  {
+    "city_id": "17028",
+    "city_name": "Unterb\u00e4ch",
+    "country_code": "ch",
+    "federated_state_id": "52",
+    "city_and_state": "Unterb\u00e4ch (Wallis)"
+  },
+  {
+    "city_id": "16216",
+    "city_name": "Untereggen",
+    "country_code": "ch",
+    "federated_state_id": "46",
+    "city_and_state": "Untereggen (St. Gallen)"
+  },
+  {
+    "city_id": "17197",
+    "city_name": "Unterengstringen",
+    "country_code": "ch",
+    "federated_state_id": "30",
+    "city_and_state": "Unterengstringen (Z\u00fcrich)"
+  },
+  {
+    "city_id": "15183",
+    "city_name": "Unterentfelden",
+    "country_code": "ch",
+    "federated_state_id": "48",
+    "city_and_state": "Unterentfelden (Aargau)"
+  },
+  {
+    "city_id": "16283",
+    "city_name": "Unteriberg",
+    "country_code": "ch",
+    "federated_state_id": "34",
+    "city_and_state": "Unteriberg (Schwyz)"
+  },
+  {
+    "city_id": "15184",
+    "city_name": "Unterkulm",
+    "country_code": "ch",
+    "federated_state_id": "48",
+    "city_and_state": "Unterkulm (Aargau)"
+  },
+  {
+    "city_id": "15632",
+    "city_name": "Unterlangenegg",
+    "country_code": "ch",
+    "federated_state_id": "31",
+    "city_and_state": "Unterlangenegg (Bern)"
+  },
+  {
+    "city_id": "15185",
+    "city_name": "Unterlunkhofen",
+    "country_code": "ch",
+    "federated_state_id": "48",
+    "city_and_state": "Unterlunkhofen (Aargau)"
+  },
+  {
+    "city_id": "16386",
+    "city_name": "Unterramsern",
+    "country_code": "ch",
+    "federated_state_id": "40",
+    "city_and_state": "Unterramsern (Solothurn)"
+  },
+  {
+    "city_id": "16610",
+    "city_name": "Untersch\u00e4chen",
+    "country_code": "ch",
+    "federated_state_id": "33",
+    "city_and_state": "Untersch\u00e4chen (Uri)"
+  },
+  {
+    "city_id": "15633",
+    "city_name": "Unterseen",
+    "country_code": "ch",
+    "federated_state_id": "31",
+    "city_and_state": "Unterseen (Bern)"
+  },
+  {
+    "city_id": "15186",
+    "city_name": "Untersiggenthal",
+    "country_code": "ch",
+    "federated_state_id": "48",
+    "city_and_state": "Untersiggenthal (Aargau)"
+  },
+  {
+    "city_id": "17198",
+    "city_name": "Unterstammheim",
+    "country_code": "ch",
+    "federated_state_id": "30",
+    "city_and_state": "Unterstammheim (Z\u00fcrich)"
+  },
+  {
+    "city_id": "15956",
+    "city_name": "Untervaz",
+    "country_code": "ch",
+    "federated_state_id": "47",
+    "city_and_state": "Untervaz (Graub\u00fcnden)"
+  },
+  {
+    "city_id": "17055",
+    "city_name": "Unter\u00e4geri",
+    "country_code": "ch",
+    "federated_state_id": "38",
+    "city_and_state": "Unter\u00e4geri (Zug)"
+  },
+  {
+    "city_id": "17199",
+    "city_name": "Urdorf",
+    "country_code": "ch",
+    "federated_state_id": "30",
+    "city_and_state": "Urdorf (Z\u00fcrich)"
+  },
+  {
+    "city_id": "15957",
+    "city_name": "Urmein",
+    "country_code": "ch",
+    "federated_state_id": "47",
+    "city_and_state": "Urmein (Graub\u00fcnden)"
+  },
+  {
+    "city_id": "15227",
+    "city_name": "Urn\u00e4sch",
+    "country_code": "ch",
+    "federated_state_id": "44",
+    "city_and_state": "Urn\u00e4sch (Appenzell Ausserrhoden)"
+  },
+  {
+    "city_id": "15634",
+    "city_name": "Ursenbach",
+    "country_code": "ch",
+    "federated_state_id": "31",
+    "city_and_state": "Ursenbach (Bern)"
+  },
+  {
+    "city_id": "16889",
+    "city_name": "Ursins",
+    "country_code": "ch",
+    "federated_state_id": "51",
+    "city_and_state": "Ursins (Waadt)"
+  },
+  {
+    "city_id": "15799",
+    "city_name": "Ursy",
+    "country_code": "ch",
+    "federated_state_id": "39",
+    "city_and_state": "Ursy (Freiburg)"
+  },
+  {
+    "city_id": "15635",
+    "city_name": "Urtenen-Sch\u00f6nb\u00fchl",
+    "country_code": "ch",
+    "federated_state_id": "31",
+    "city_and_state": "Urtenen-Sch\u00f6nb\u00fchl (Bern)"
+  },
+  {
+    "city_id": "17200",
+    "city_name": "Uster",
+    "country_code": "ch",
+    "federated_state_id": "30",
+    "city_and_state": "Uster (Z\u00fcrich)"
+  },
+  {
+    "city_id": "15636",
+    "city_name": "Uttigen",
+    "country_code": "ch",
+    "federated_state_id": "31",
+    "city_and_state": "Uttigen (Bern)"
+  },
+  {
+    "city_id": "16466",
+    "city_name": "Uttwil",
+    "country_code": "ch",
+    "federated_state_id": "49",
+    "city_and_state": "Uttwil (Thurgau)"
+  },
+  {
+    "city_id": "15637",
+    "city_name": "Utzenstorf",
+    "country_code": "ch",
+    "federated_state_id": "31",
+    "city_and_state": "Utzenstorf (Bern)"
+  },
+  {
+    "city_id": "16217",
+    "city_name": "Uznach",
+    "country_code": "ch",
+    "federated_state_id": "46",
+    "city_and_state": "Uznach (St. Gallen)"
+  },
+  {
+    "city_id": "16218",
+    "city_name": "Uzwil",
+    "country_code": "ch",
+    "federated_state_id": "46",
+    "city_and_state": "Uzwil (St. Gallen)"
+  },
+  {
+    "city_id": "12079",
+    "city_name": "Ufa",
+    "country_code": "ru",
+    "federated_state_id": "1",
+    "city_and_state": "Ufa"
+  },
+  {
+    "city_id": "12175",
+    "city_name": "Ulaanbaatar",
+    "country_code": "mn",
+    "federated_state_id": "1",
+    "city_and_state": "Ulaanbaatar"
+  },
+  {
+    "city_id": "490158",
+    "city_name": "Ulflingen",
+    "country_code": "lu",
+    "federated_state_id": "338",
+    "city_and_state": "Ulflingen (Luxemburg)"
+  },
+  {
+    "city_id": "490198",
+    "city_name": "Useldingen",
+    "country_code": "lu",
+    "federated_state_id": "338",
+    "city_and_state": "Useldingen (Luxemburg)"
+  },
+  {
+    "city_id": "211",
+    "city_name": "Uppsala",
+    "country_code": "se",
+    "federated_state_id": "1",
+    "city_and_state": "Uppsala"
+  }
+]
