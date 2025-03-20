@@ -1,19 +1,25 @@
 import sys
 import os
-import requests
 import json
+import requests
 
+from typing import Optional
 from bs4 import BeautifulSoup
-# from datetime import datetime
-# import time
 
-sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../')))
+from src.api.models import Zimmer
 
-from apis.models import Zimmer, City
 
-# date_format = '%d%m%Y'
+# Get the absolute path to the project root directory by going two levels up
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
 
-def get_html(url):
+def query_room(city_name: str, city_id: str, page_id: Optional[int]):
+    
+    url = f"https://www.wg-gesucht.de/wg-zimmer-in-{city_name}.{city_id}.0.1.{page_id}.html"
+    html = _get_html(url)
+    return extract_data(html)
+
+
+def _get_html(url):
     
     headers = {
         'User-Agent': 'Mozilla/5.0',
@@ -80,47 +86,56 @@ def extract_data(raw):
     return ads
 
 
-def raw_to_ad(zimmer):
-    return {
-        'title': zimmer.title,
-        'rooms': zimmer.rooms,
-        'district': zimmer.district,
-        'street': zimmer.street,
-        'rent': zimmer.rent,
-        'availability': zimmer.availability,
-        'size': zimmer.size,
-        'author': zimmer.author,
-        'online': zimmer.online,
-        'link': zimmer.link,
-        'image': zimmer.image
-    }
+# def raw_to_ad(zimmer):
+#     return {
+#         'title': zimmer.title,
+#         'rooms': zimmer.rooms,
+#         'district': zimmer.district,
+#         'street': zimmer.street,
+#         'rent': zimmer.rent,
+#         'availability': zimmer.availability,
+#         'size': zimmer.size,
+#         'author': zimmer.author,
+#         'online': zimmer.online,
+#         'link': zimmer.link,
+#         'image': zimmer.image
+#     }
 
 
-def load_json_as_objects(file_name, type):
-    with open(file_name, 'r') as json_file:
-        data_list = json.load(json_file)
-
-    # Convert the JSON data into a list of objects of the given class
-    objects = [type(**data) for data in data_list]
-
-    return objects
-
-
-def export_json():
-
-    dusseldorf = 'https://www.wg-gesucht.de/wg-zimmer-in-Duesseldorf.30.0.1.0.html'
+# def save_objects_as_json(objects, file_name):
+#     # Convert a list of objects into a list of dictionaries (JSON serializable)
+#     json_data = [obj.__dict__ for obj in objects]
     
-    raw = get_html(dusseldorf)
-    ads = extract_data(raw)
+#     # Write the JSON data to the file
+#     with open(file_name, 'w') as json_file:
+#         json.dump(json_data, json_file, indent=4)
 
-    ads_dict = [raw_to_ad(ad) for ad in ads]
 
-    file_name = './wg-gesucht-api/static/json/dusseldorf.json'
+# def load_json_as_objects(file_name, type):
+#     with open(file_name, 'r') as json_file:
+#         data_list = json.load(json_file)
 
-    with open(file_name, 'w') as json_file:
-        json.dump(ads_dict, json_file, indent=4)
+#     # Convert the JSON data into a list of objects of the given class
+#     objects = [type(**data) for data in data_list]
 
-    print(f"Data exported to {file_name}")
+#     return objects
+
+
+# def export_json():
+
+#     dusseldorf = 'https://www.wg-gesucht.de/wg-zimmer-in-Duesseldorf.30.0.1.0.html'
+    
+#     raw = get_html(dusseldorf)
+#     ads = extract_data(raw)
+
+#     ads_dict = [raw_to_ad(ad) for ad in ads]
+
+#     file_name = './wg-gesucht-api/static/json/dusseldorf.json'
+
+#     with open(file_name, 'w') as json_file:
+#         json.dump(ads_dict, json_file, indent=4)
+
+#     print(f"Data exported to {file_name}")
 
 
 
@@ -128,4 +143,3 @@ def export_json():
 # dusseldorf = 'https://www.wg-gesucht.de/wg-zimmer-in-Duesseldorf.30.0.1.0.html'
 # raw = get_html(dusseldorf)
 # ads = extract_data(raw)
-

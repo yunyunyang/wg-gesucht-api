@@ -1,4 +1,5 @@
 import json
+
 class Zimmer:
 
     def __init__(self, title, rooms, district, street, rent, availability, size, author, online, link, image):
@@ -16,6 +17,21 @@ class Zimmer:
 
     def display_info(self):
         print(f"Title: {self.title}, Rooms: {self.rooms}")
+
+    def raw_to_json(zimmer):
+        return {
+            'title': zimmer.title,
+            'rooms': zimmer.rooms,
+            'district': zimmer.district,
+            'street': zimmer.street,
+            'rent': zimmer.rent,
+            'availability': zimmer.availability,
+            'size': zimmer.size,
+            'author': zimmer.author,
+            'online': zimmer.online,
+            'link': zimmer.link,
+            'image': zimmer.image
+        }
 
 class City:
 
