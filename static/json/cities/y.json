@@ -1,0 +1,506 @@
+[
+  {
+    "city_id": "180260",
+    "city_name": "Y",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Y (Nordfrankreich)"
+  },
+  {
+    "city_id": "158665",
+    "city_name": "Yainville",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Yainville (Normandie)"
+  },
+  {
+    "city_id": "187465",
+    "city_name": "Yaucourt-Bussus",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Yaucourt-Bussus (Nordfrankreich)"
+  },
+  {
+    "city_id": "129945",
+    "city_name": "Ychoux",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Ychoux (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "92360",
+    "city_name": "Ydes",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Ydes (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "77780",
+    "city_name": "Yenne",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Yenne (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "23960",
+    "city_name": "Yermenonville",
+    "country_code": "fr",
+    "federated_state_id": "100",
+    "city_and_state": "Yermenonville (Zentrum-Loiretal)"
+  },
+  {
+    "city_id": "27500",
+    "city_name": "Yerres",
+    "country_code": "fr",
+    "federated_state_id": "105",
+    "city_and_state": "Yerres (Ile-de-France)"
+  },
+  {
+    "city_id": "168435",
+    "city_name": "Yerville",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Yerville (Normandie)"
+  },
+  {
+    "city_id": "48415",
+    "city_name": "Yffiniac",
+    "country_code": "fr",
+    "federated_state_id": "125",
+    "city_and_state": "Yffiniac (Bretagne)"
+  },
+  {
+    "city_id": "120695",
+    "city_name": "Ygos-Saint-Saturnin",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Ygos-Saint-Saturnin (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "94780",
+    "city_name": "Ygrande",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Ygrande (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "159685",
+    "city_name": "Ymare",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Ymare (Normandie)"
+  },
+  {
+    "city_id": "24585",
+    "city_name": "Ymeray",
+    "country_code": "fr",
+    "federated_state_id": "100",
+    "city_and_state": "Ymeray (Zentrum-Loiretal)"
+  },
+  {
+    "city_id": "24660",
+    "city_name": "Ymonville",
+    "country_code": "fr",
+    "federated_state_id": "100",
+    "city_and_state": "Ymonville (Zentrum-Loiretal)"
+  },
+  {
+    "city_id": "81930",
+    "city_name": "Yolet",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Yolet (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "75495",
+    "city_name": "Yoncq",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Yoncq (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "179070",
+    "city_name": "Yonval",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Yonval (Nordfrankreich)"
+  },
+  {
+    "city_id": "81530",
+    "city_name": "Youx",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Youx (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "166470",
+    "city_name": "Yport",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Yport (Normandie)"
+  },
+  {
+    "city_id": "168115",
+    "city_name": "Ypreville-Biville",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Ypreville-Biville (Normandie)"
+  },
+  {
+    "city_id": "165885",
+    "city_name": "Yquebeuf",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Yquebeuf (Normandie)"
+  },
+  {
+    "city_id": "164310",
+    "city_name": "Yquelon",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Yquelon (Normandie)"
+  },
+  {
+    "city_id": "89475",
+    "city_name": "Yronde-et-Buron",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Yronde-et-Buron (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "112510",
+    "city_name": "Yrouerre",
+    "country_code": "fr",
+    "federated_state_id": "165",
+    "city_and_state": "Yrouerre (Burgund und Freigrafschaft)"
+  },
+  {
+    "city_id": "82895",
+    "city_name": "Yssac-la-Tourette",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Yssac-la-Tourette (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "133760",
+    "city_name": "Yssandon",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Yssandon (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "85005",
+    "city_name": "Yssingeaux",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Yssingeaux (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "81515",
+    "city_name": "Ytrac",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Ytrac (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "184835",
+    "city_name": "Ytres",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Ytres (Nordfrankreich)"
+  },
+  {
+    "city_id": "168660",
+    "city_name": "Yvecrique",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Yvecrique (Normandie)"
+  },
+  {
+    "city_id": "75750",
+    "city_name": "Yvernaumont",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Yvernaumont (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "122635",
+    "city_name": "Yversay",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Yversay (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "128265",
+    "city_name": "Yves",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Yves (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "158785",
+    "city_name": "Yvetot",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Yvetot (Normandie)"
+  },
+  {
+    "city_id": "164620",
+    "city_name": "Yvetot-Bocage",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Yvetot-Bocage (Normandie)"
+  },
+  {
+    "city_id": "49460",
+    "city_name": "Yvias",
+    "country_code": "fr",
+    "federated_state_id": "125",
+    "city_and_state": "Yvias (Bretagne)"
+  },
+  {
+    "city_id": "130075",
+    "city_name": "Yviers",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Yviers (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "48760",
+    "city_name": "Yvignac-la-Tour",
+    "country_code": "fr",
+    "federated_state_id": "125",
+    "city_and_state": "Yvignac-la-Tour (Bretagne)"
+  },
+  {
+    "city_id": "158630",
+    "city_name": "Yville-sur-Seine",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Yville-sur-Seine (Normandie)"
+  },
+  {
+    "city_id": "80255",
+    "city_name": "Yvoire",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Yvoire (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "22040",
+    "city_name": "Yvoy-le-Marron",
+    "country_code": "fr",
+    "federated_state_id": "100",
+    "city_and_state": "Yvoy-le-Marron (Zentrum-Loiretal)"
+  },
+  {
+    "city_id": "127765",
+    "city_name": "Yvrac",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Yvrac (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "127320",
+    "city_name": "Yvrac-et-Malleyrand",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Yvrac-et-Malleyrand (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "189155",
+    "city_name": "Yvrench",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Yvrench (Nordfrankreich)"
+  },
+  {
+    "city_id": "189160",
+    "city_name": "Yvrencheux",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Yvrencheux (Nordfrankreich)"
+  },
+  {
+    "city_id": "34400",
+    "city_name": "Yvr\u00e9-l'\u00c9v\u00eaque",
+    "country_code": "fr",
+    "federated_state_id": "110",
+    "city_and_state": "Yvr\u00e9-l'\u00c9v\u00eaque (Pays de la Loire)"
+  },
+  {
+    "city_id": "34265",
+    "city_name": "Yvr\u00e9-le-P\u00f4lin",
+    "country_code": "fr",
+    "federated_state_id": "110",
+    "city_and_state": "Yvr\u00e9-le-P\u00f4lin (Pays de la Loire)"
+  },
+  {
+    "city_id": "183550",
+    "city_name": "Yzengremer",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Yzengremer (Nordfrankreich)"
+  },
+  {
+    "city_id": "36770",
+    "city_name": "Yzernay",
+    "country_code": "fr",
+    "federated_state_id": "110",
+    "city_and_state": "Yzernay (Pays de la Loire)"
+  },
+  {
+    "city_id": "88435",
+    "city_name": "Yzeron",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Yzeron (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "83340",
+    "city_name": "Yzeure",
+    "country_code": "fr",
+    "federated_state_id": "160",
+    "city_and_state": "Yzeure (Auvergne-Rhone-Alpen)"
+  },
+  {
+    "city_id": "23000",
+    "city_name": "Yzeures-sur-Creuse",
+    "country_code": "fr",
+    "federated_state_id": "100",
+    "city_and_state": "Yzeures-sur-Creuse (Zentrum-Loiretal)"
+  },
+  {
+    "city_id": "186720",
+    "city_name": "Yzeux",
+    "country_code": "fr",
+    "federated_state_id": "185",
+    "city_and_state": "Yzeux (Nordfrankreich)"
+  },
+  {
+    "city_id": "114975",
+    "city_name": "Yzosse",
+    "country_code": "fr",
+    "federated_state_id": "170",
+    "city_and_state": "Yzosse (Neu-Aquitanien)"
+  },
+  {
+    "city_id": "31775",
+    "city_name": "Y\u00e8bles",
+    "country_code": "fr",
+    "federated_state_id": "105",
+    "city_and_state": "Y\u00e8bles (Ile-de-France)"
+  },
+  {
+    "city_id": "20125",
+    "city_name": "Y\u00e8vre-la-Ville",
+    "country_code": "fr",
+    "federated_state_id": "100",
+    "city_and_state": "Y\u00e8vre-la-Ville (Zentrum-Loiretal)"
+  },
+  {
+    "city_id": "24185",
+    "city_name": "Y\u00e8vres",
+    "country_code": "fr",
+    "federated_state_id": "100",
+    "city_and_state": "Y\u00e8vres (Zentrum-Loiretal)"
+  },
+  {
+    "city_id": "72305",
+    "city_name": "Y\u00e8vres-le-Petit",
+    "country_code": "fr",
+    "federated_state_id": "155",
+    "city_and_state": "Y\u00e8vres-le-Petit (Gro\u00dfer Osten)"
+  },
+  {
+    "city_id": "167795",
+    "city_name": "Y\u00e9bleron",
+    "country_code": "fr",
+    "federated_state_id": "180",
+    "city_and_state": "Y\u00e9bleron (Normandie)"
+  },
+  {
+    "city_id": "12271",
+    "city_name": "Yaound\u00e9",
+    "country_code": "cm",
+    "federated_state_id": "1",
+    "city_and_state": "Yaound\u00e9"
+  },
+  {
+    "city_id": "13096",
+    "city_name": "Ybbs an der Donau",
+    "country_code": "at",
+    "federated_state_id": "22",
+    "city_and_state": "Ybbs an der Donau (Nieder\u00f6sterreich)"
+  },
+  {
+    "city_id": "12834",
+    "city_name": "Ybbsitz",
+    "country_code": "at",
+    "federated_state_id": "22",
+    "city_and_state": "Ybbsitz (Nieder\u00f6sterreich)"
+  },
+  {
+    "city_id": "13097",
+    "city_name": "Yspertal",
+    "country_code": "at",
+    "federated_state_id": "22",
+    "city_and_state": "Yspertal (Nieder\u00f6sterreich)"
+  },
+  {
+    "city_id": "16917",
+    "city_name": "Yens",
+    "country_code": "ch",
+    "federated_state_id": "51",
+    "city_and_state": "Yens (Waadt)"
+  },
+  {
+    "city_id": "16918",
+    "city_name": "Yverdon-les-Bains",
+    "country_code": "ch",
+    "federated_state_id": "51",
+    "city_and_state": "Yverdon-les-Bains (Waadt)"
+  },
+  {
+    "city_id": "16919",
+    "city_name": "Yvonand",
+    "country_code": "ch",
+    "federated_state_id": "51",
+    "city_and_state": "Yvonand (Waadt)"
+  },
+  {
+    "city_id": "16920",
+    "city_name": "Yvorne",
+    "country_code": "ch",
+    "federated_state_id": "51",
+    "city_and_state": "Yvorne (Waadt)"
+  },
+  {
+    "city_id": "12158",
+    "city_name": "Yokohama",
+    "country_code": "jp",
+    "federated_state_id": "1",
+    "city_and_state": "Yokohama"
+  },
+  {
+    "city_id": "17507",
+    "city_name": "York",
+    "country_code": "gb",
+    "federated_state_id": "97",
+    "city_and_state": "York (Yorkshire and the Humber)"
+  },
+  {
+    "city_id": "455287",
+    "city_name": "Ypern",
+    "country_code": "be",
+    "federated_state_id": "272",
+    "city_and_state": "Ypern (Belgien)"
+  },
+  {
+    "city_id": "456352",
+    "city_name": "Yvoir",
+    "country_code": "be",
+    "federated_state_id": "272",
+    "city_and_state": "Yvoir (Belgien)"
+  }
+]
