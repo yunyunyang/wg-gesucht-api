@@ -12,8 +12,7 @@ from src.api.models import Zimmer
 project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
 
 def query_room(city_name: str, city_id: str, page_id: Optional[int]):
-    
-    url = f"https://www.wg-gesucht.de/wg-zimmer-in-{city_name}.{city_id}.0.1.{page_id}.html"
+    url = f"https://www.wg-gesucht.de/wg-zimmer-in-{city_name}.{city_id}.0.1.{page_id - 1}.html"
     html = _get_html(url)
 
     return extract_data(html)
@@ -63,6 +62,7 @@ def extract_data(raw):
 
         # Availability
         availability = div.find("div", {"class": "col-xs-5"}).text.strip()
+        availability = availability.replace("\n", "").replace(" ", "").replace("-", " - ")
 
         # Size
         size = div.find("div", {"class": "col-xs-3 text-right"}).b

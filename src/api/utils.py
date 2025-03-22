@@ -22,8 +22,8 @@ def save_google_sheet(result: str):
     sheet = google_sheets.open_by_key("1rwCK6hguccdolB5atTgDu5o5he8804Cv0TKCn4cnCO8")
     sheets = sheet.sheet1
 
-    data_title = ["title", "rooms", "district", "rent", "availability", "online", "link"]
-    sheets.append_row(data_title)
+    # data_title = ["title", "rooms", "district", "rent", "availability", "online", "link"]
+    # sheets.append_row(data_title)
 
     for room in result:
         data = [room.title, room.rooms, room.district, room.rent, room.availability, room.online, room.link]
