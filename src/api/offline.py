@@ -7,8 +7,8 @@ from bs4 import BeautifulSoup
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../')))
 
-from apis.crawler import get_html, extract_data, raw_to_ad, load_json_as_objects
-from apis.models import City
+
+from api.models import City
 
 
 # update ads json based on city.json
@@ -48,16 +48,16 @@ def export_json(city_name, city_id):
 
 
 
-def query_city():
-    # url = 'https://www.wg-gesucht.de/ajax/getCities.php?country_parameter=&query='
-    file_name = './wg-gesucht-api/static/json/city.json'
+# def query_city():
+#     # url = 'https://www.wg-gesucht.de/ajax/getCities.php?country_parameter=&query='
+#     file_name = './wg-gesucht-api/static/json/city.json'
 
-    with open(file_name, 'r') as json_file:
-        city_data = json.load(json_file)
+#     with open(file_name, 'r') as json_file:
+#         city_data = json.load(json_file)
 
-    cities = [City(**data) for data in city_data]
+#     cities = [City(**data) for data in city_data]
 
-    return cities
+#     return cities
 
 
 if __name__ == "__main__":

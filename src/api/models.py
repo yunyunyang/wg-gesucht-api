@@ -13,7 +13,7 @@ class Zimmer:
         self.author = author
         self.online = online
         self.link = link
-        self.image = image
+        # self.image = image
 
     def display_info(self):
         print(f"Title: {self.title}, Rooms: {self.rooms}")

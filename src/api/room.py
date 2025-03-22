@@ -1,4 +1,3 @@
-import sys
 import os
 import json
 import requests
@@ -16,6 +15,7 @@ def query_room(city_name: str, city_id: str, page_id: Optional[int]):
     
     url = f"https://www.wg-gesucht.de/wg-zimmer-in-{city_name}.{city_id}.0.1.{page_id}.html"
     html = _get_html(url)
+
     return extract_data(html)
 
 
@@ -78,7 +78,6 @@ def extract_data(raw):
 
         # Image
         image = href['style'].replace('background-image: url(', '').replace(');', '')
-        print(image)
 
         zimmer = Zimmer(title, rooms, district, street, rent, availability, size, author, online, link, image)
         ads.append(zimmer)
@@ -111,15 +110,6 @@ def extract_data(raw):
 #         json.dump(json_data, json_file, indent=4)
 
 
-# def load_json_as_objects(file_name, type):
-#     with open(file_name, 'r') as json_file:
-#         data_list = json.load(json_file)
-
-#     # Convert the JSON data into a list of objects of the given class
-#     objects = [type(**data) for data in data_list]
-
-#     return objects
-
 
 # def export_json():
 
@@ -137,6 +127,16 @@ def extract_data(raw):
 
 #     print(f"Data exported to {file_name}")
 
+
+# def load_json_as_objects(result, model):
+    
+#     json_string = json.dumps(result)
+#     print(json_string)
+
+#     # Convert the JSON data into a list of objects of the given class
+#     objects = [model(**data) for data in json_string]
+
+#     return objects
 
 
 # export_json()

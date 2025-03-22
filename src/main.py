@@ -4,6 +4,7 @@ from fastapi.staticfiles import StaticFiles
 
 from src.api.city import query_city
 from src.api.room import query_room
+from src.api.utils import save_google_sheet
 
 app = FastAPI()
 
@@ -12,6 +13,8 @@ app = FastAPI()
 def query_rooms(city_id: str, city_name: str, page_id: int):
 
     result = query_room(city_name, city_id, page_id)
+    save_google_sheet(result)
+
     return result
 
 
