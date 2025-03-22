@@ -15,23 +15,26 @@ class Zimmer:
         self.link = link
         # self.image = image
 
-    def display_info(self):
-        print(f"Title: {self.title}, Rooms: {self.rooms}")
 
-    def raw_to_json(zimmer):
+    def to_dict(zimmer):
         return {
-            'title': zimmer.title,
-            'rooms': zimmer.rooms,
-            'district': zimmer.district,
-            'street': zimmer.street,
-            'rent': zimmer.rent,
-            'availability': zimmer.availability,
-            'size': zimmer.size,
-            'author': zimmer.author,
-            'online': zimmer.online,
-            'link': zimmer.link,
-            'image': zimmer.image
+            "title": zimmer.title,
+            "rooms": zimmer.rooms,
+            "district": zimmer.district,
+            "street": zimmer.street,
+            "rent": zimmer.rent,
+            "availability": zimmer.availability,
+            "size": zimmer.size,
+            "author": zimmer.author,
+            "online": zimmer.online,
+            "link": zimmer.link,
+            # "image": zimmer.image
         }
+    
+
+    def __str__(self):
+        return json.dumps(self.to_dict(), indent=4)
+
 
 class City:
 

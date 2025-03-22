@@ -53,6 +53,7 @@ def extract_data(raw):
         # Rooms, District, Street
         rooms, district, street = div.find("div", {"class": "col-xs-11"}).span.text.strip().replace('\n', '').split('|')
         rooms = rooms.replace('er WG', '').strip()
+
         # district = district.strip()
         district = ' '.join(district.split())
         street = street.strip()
@@ -78,27 +79,11 @@ def extract_data(raw):
 
         # Image
         image = href['style'].replace('background-image: url(', '').replace(');', '')
-
+        
         zimmer = Zimmer(title, rooms, district, street, rent, availability, size, author, online, link, image)
         ads.append(zimmer)
     
     return ads
-
-
-# def raw_to_ad(zimmer):
-#     return {
-#         'title': zimmer.title,
-#         'rooms': zimmer.rooms,
-#         'district': zimmer.district,
-#         'street': zimmer.street,
-#         'rent': zimmer.rent,
-#         'availability': zimmer.availability,
-#         'size': zimmer.size,
-#         'author': zimmer.author,
-#         'online': zimmer.online,
-#         'link': zimmer.link,
-#         'image': zimmer.image
-#     }
 
 
 # def save_objects_as_json(objects, file_name):
