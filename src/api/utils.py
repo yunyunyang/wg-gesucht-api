@@ -39,7 +39,3 @@ def save_google_sheet(result: str):
     # if os.path.exists(file_path):
     #     with open(file_path, 'r') as json_file:
             
-
-
-
-

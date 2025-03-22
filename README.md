@@ -1,6 +1,6 @@
 # WG-Gesucht API
 
-A Python-based project that scrapes and interacts with the [WG-Gesucht](https://www.wg-gesucht.de/) website, which helps users find shared apartments and accommodation in Germany.
+A Python-based project that scrapes data from the [WG-Gesucht](https://www.wg-gesucht.de/) website and creates APIs for further use, such as saving data to Google Sheets. This will help users find shared apartments and accommodation in Germany.
 
 ## Prerequisite
 
@@ -12,11 +12,17 @@ $ pip install -r requirements.txt
 
 ## Features
 
-- Scrapes listings from WG-Gesucht
+- Scrapes listed rooms from WG-Gesucht by providing a location and relevant data
 - Filters partner ads and retrieves room data such as location, price, and availability
-- Uses Flask for rendering and managing the web interface
-- Added JSON serialization and deserialization to enable offline functionality
+- Uses the FastAPI framework to provide APIs
+- Provides the feature to store data in Google Sheets
 
 ## Enable GoogleSheet API
 
 https://support.google.com/googleapi/answer/6158841?hl=en
+
+
+
+## Demos
+
+![Google Sheets](static/images/google-sheets.png)
