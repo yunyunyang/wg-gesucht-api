@@ -1,6 +1,6 @@
 # WG-Gesucht API
 
-A Python-based project that scrapes data from the [WG-Gesucht](https://www.wg-gesucht.de/) website and creates APIs for further use, such as saving data to Google Sheets. This will help users find shared apartments and accommodation in Germany.
+A Python-based project that scrapes search results from the [WG-Gesucht](https://www.wg-gesucht.de/) website and creates APIs for further use, such as saving search results to Google Sheets. This helps users find the latest shared apartments and accommodation in Germany.
 
 ## Prerequisite
 
@@ -17,11 +17,37 @@ $ pip install -r requirements.txt
 - Uses the FastAPI framework to provide APIs
 - Provides the feature to store data in Google Sheets
 
-## Enable GoogleSheet API
+## How to enable Google Sheets API
 
-https://support.google.com/googleapi/answer/6158841?hl=en
+- Follow the steps to enable APIs https://support.google.com/googleapi/answer/6158841?hl=en
 
+- After enabling the APIs, create the credentials by choosing Service Accounts, which enable server-to-server, app-level authentication using robot accounts.
+- Create a new key, then save the JSON file for future use
+- Create a new Google Sheet and add the email listed under Service Accounts, granting access as an editor
+- The following is a code snippet to read the JSON file and save the data to Google Sheets
 
+```python
+import gspread
+
+from oauth2client.service_account import ServiceAccountCredentials as SAC
+
+# The credentials.json is the JSON file generated when you create a new key
+keyfile = os.path.join(project_root, "env", "credentials.json")
+
+# Define the scope of the API access
+scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
+
+connect = SAC.from_json_keyfile_name(keyfile, scope)
+google_sheets = gspread.authorize(connect)
+
+# The spreadsheet_key is the identifier for the Google Sheet you created
+worksheet = google_sheets.open_by_key("spreadsheets_key")
+sheet = worksheet.sheet1
+
+data_title = ["title", "rooms", "district", "rent", "availability", "online", "link"]
+sheet.append_row(data_title)
+sheet.append_row(data)
+```
 
 ## Demos
 

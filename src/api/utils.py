@@ -12,22 +12,23 @@ project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..
 
 def save_google_sheet(result: str):
 
-    keyfile = file_path = os.path.join(project_root, "env", "wg-gesucht-454420-78dfeac6dc8a.json")
+    keyfile = os.path.join(project_root, "env", "wg-gesucht-454420-78dfeac6dc8a.json")
 
-    url = ["https://spreadsheets.google.com/feeds"]
+    # Define the scope of the API access
+    scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
 
-    connect = SAC.from_json_keyfile_name(keyfile, url)
+    connect = SAC.from_json_keyfile_name(keyfile, scope)
     google_sheets = gspread.authorize(connect)
 
-    sheet = google_sheets.open_by_key("1rwCK6hguccdolB5atTgDu5o5he8804Cv0TKCn4cnCO8")
-    sheets = sheet.sheet1
+    worksheet = google_sheets.open_by_key("1rwCK6hguccdolB5atTgDu5o5he8804Cv0TKCn4cnCO8")
+    sheet = worksheet.sheet1
 
     # data_title = ["title", "rooms", "district", "rent", "availability", "online", "link"]
     # sheets.append_row(data_title)
 
     for room in result:
         data = [room.title, room.rooms, room.district, room.rent, room.availability, room.online, room.link]
-        sheets.append_row(data)
+        sheet.append_row(data)
 
     
     # city = 'Koln'
