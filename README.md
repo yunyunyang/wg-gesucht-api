@@ -49,6 +49,16 @@ sheet.append_row(data_title)
 sheet.append_row(data)
 ```
 
+## Docker
+
+```bas
+# Build the Docker Image
+docker build -t wg-gesucht:1.0 .
+
+# Run the Docker Container
+docker run -p 8000:8000 wg-gesucht:1.0
+```
+
 ## Demos
 
 ![Google Sheets](static/images/google-sheets.png)
