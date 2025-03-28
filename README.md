@@ -2,6 +2,13 @@
 
 A Python-based project that scrapes search results from the [WG-Gesucht](https://www.wg-gesucht.de/) website and creates APIs for further use, such as saving search results to Google Sheets. This helps users find the latest shared apartments and accommodation in Germany.
 
+## Features
+
+- Scrapes listed rooms from WG-Gesucht by providing a location and relevant data
+- Filters partner ads and retrieves room data such as location, price, and availability
+- Uses the FastAPI framework to provide APIs
+- Provides the feature to store data in Google Sheets
+
 ## Prerequisite
 
 ```bash
@@ -9,13 +16,6 @@ $ git clone https://github.com/yunyunyang/wg-gesucht-api.git
 $ cd wg-gesucht-api
 $ pip install -r requirements.txt
 ```
-
-## Features
-
-- Scrapes listed rooms from WG-Gesucht by providing a location and relevant data
-- Filters partner ads and retrieves room data such as location, price, and availability
-- Uses the FastAPI framework to provide APIs
-- Provides the feature to store data in Google Sheets
 
 ## How to enable Google Sheets API
 
@@ -30,6 +30,9 @@ $ pip install -r requirements.txt
 import gspread
 
 from oauth2client.service_account import ServiceAccountCredentials as SAC
+
+# Get the absolute path to the project root directory by going two levels up
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
 
 # The credentials.json is the JSON file generated when you create a new key
 keyfile = os.path.join(project_root, "env", "credentials.json")
@@ -52,10 +55,10 @@ sheet.append_row(data)
 ## Docker
 
 ```bas
-# Build the Docker Image
+# Build the Docker image
 docker build -t wg-gesucht:1.0 .
 
-# Run the Docker Container
+# Run the Docker container
 docker run -p 8000:8000 wg-gesucht:1.0
 ```
 
