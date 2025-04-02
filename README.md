@@ -7,7 +7,8 @@ A Python-based project that scrapes search results from the [WG-Gesucht](https:/
 - Scrapes listed rooms from WG-Gesucht by providing a location and relevant data
 - Filters partner ads and retrieves room data such as location, price, and availability
 - Uses the FastAPI framework to provide APIs
-- Provides the feature to store data in Google Sheets
+- Integrated with the Google Sheets API to save query results to a spreadsheet
+- Dockerized the project as a microservices-based application
 
 ## Prerequisite
 
